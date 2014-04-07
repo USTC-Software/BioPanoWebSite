@@ -1,4 +1,4 @@
-This is the code respository of igem2014-website
+This is the code respository of huodong.ustc.edu.cn.
 Direct modification of code on server is prohibited.
 Please use Git Version Control system to update the code.
 
@@ -6,5 +6,9 @@ Pushed commits are automatically applied to production.
 Deploy a web server on local machine, and ensure that
 all functions run well before pushing the code.
 
-Any problems, please contact olinlinlino@gmail.com
+The issue tracking system of huodong.ustc.edu.cn:
+http://huodong.ustc.edu.cn/trac
+
+Any problems, please contact bojieli@gmail.com or olinlinlino@gmail.com
+OP
 
