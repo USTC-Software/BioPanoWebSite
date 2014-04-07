@@ -1,0 +1,50 @@
+.left-off-canvas-menu hr {
+  border-color: #444444;
+  margin: 5px 0 10px 0 !important; }
+
+ul.off-canvas-list li.gs {
+  padding: 0 1.08rem;
+  margin-top: 8px; }
+
+ul.off-canvas-list li a {
+  border-bottom: none !important;
+  font-size: 1.25rem;
+  padding: 0.2rem 0.95rem !important;
+  color: #cccccc;
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: 500; }
+
+ul.off-canvas-list li label {
+  background: none !important;
+  border-top: none !important;
+  padding: 0.4rem 0.95rem 0.4rem 0.95rem !important;
+  font-size: 0.775rem !important; }
+
+ul.off-canvas-list li label.first {
+  padding-top: 0.75rem !important; }
+.zurbian img {
+border-radius: 1000px;
+height: 160px;
+width: 160px;
+display: inline-block;
+margin-bottom: 10px;
+}
+.university-hero {
+background: url(../img/university-hero.jpg) no-repeat center top #ff6908;
+width: 100%;
+background-attachment: fixed;
+background-size: 1729px 700px;
+padding-top: 175px;
+margin-bottom: 80px;
+}
+.university-hero h1 {
+color: #fff;
+margin-bottom: 30px;
+line-height: 1.1;
+}
+.university-hero p {
+color: #fff;
+font-size: 1.25em;
+font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+margin-bottom: 210px;
+}
