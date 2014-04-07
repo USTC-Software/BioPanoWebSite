@@ -48,3 +48,6 @@ font-size: 1.25em;
 font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 margin-bottom: 210px;
 }
+.centered-text {
+    text-align: center;
+}
