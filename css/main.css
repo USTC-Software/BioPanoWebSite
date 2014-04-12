@@ -34,15 +34,14 @@ display: inline-block;
 margin-bottom: 10px;
 }
 .university-hero {
-background: url(../img/main2.jpg) no-repeat center top;
+background: url(../img/main.jpg) no-repeat center top;
 width: 100%;
-background-attachment: fixed;
-background-size: 1729px 700px;
+background-size: 1729px 800px;
 padding-top: 175px;
 margin-bottom: 80px;
 }
 .university-hero h1 {
-color: #000;
+color: #f00;
 margin-bottom: 30px;
 line-height: 1.1;
 }
@@ -50,7 +49,7 @@ line-height: 1.1;
 color: #000;
 font-size: 1.25em;
 font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
-margin-bottom: 210px;
+margin-bottom: 350px;
 }
 .centered-text {
     text-align: center;
