@@ -1,3 +1,7 @@
+#container {
+  width: 100%;
+  height: 100%;
+}
 .left-off-canvas-menu hr {
   border-color: #444444;
   margin: 5px 0 10px 0 !important; }
@@ -30,7 +34,7 @@ display: inline-block;
 margin-bottom: 10px;
 }
 .university-hero {
-background: url(../img/university-hero.jpg) no-repeat center top #ff6908;
+background: url(../img/main2.jpg) no-repeat center top;
 width: 100%;
 background-attachment: fixed;
 background-size: 1729px 700px;
@@ -38,16 +42,68 @@ padding-top: 175px;
 margin-bottom: 80px;
 }
 .university-hero h1 {
-color: #fff;
+color: #000;
 margin-bottom: 30px;
 line-height: 1.1;
 }
 .university-hero p {
-color: #fff;
+color: #000;
 font-size: 1.25em;
 font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
 margin-bottom: 210px;
 }
 .centered-text {
     text-align: center;
+}
+.home1,.home2,.home3 {
+width: auto;
+height: 500px;
+margin-top: 0px;
+
+}
+.home1{
+  background: url(../img/home1.jpg) no-repeat;
+}
+.home2{
+  background: url(../img/home2.jpg) no-repeat;
+}
+.home3{
+  background: url(../img/home3.jpg) no-repeat;
+}
+.home-images {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.caption {
+background: rgba(0, 0, 0, 0.8);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#cc000000, endColorstr=#cc000000)\9;
+color: #fff;
+display: block;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+padding: 20px;
+
+}
+
+#bg1, #bg2, #bg3 {
+  z-index:-1;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:url(../img/bubbles.png) repeat 0 0;
+}
+
+#bg2 {
+  z-index:-1;
+  background-image:url(../img/bubbles2.png);
+}
+
+#bg3 {
+  z-index:-1;
+  background-image:url(../img/bubbles3.png);
 }

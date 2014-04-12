@@ -19,6 +19,7 @@
     <meta name="copyright" content="USTC-Software, inc. Copyright (c) 2014">
     
     <link rel="stylesheet" href="css/foundation.css" />
+    <link href="./css/fixed-positioning.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="css/main.css" />
     <script src="js/vendor/modernizr.js"></script>
     <!--[if lt IE 9]>
@@ -156,17 +157,55 @@
   </section>
 
 </nav>
-<div class="container">
+<div id="container">
   <div class="university-hero">
+    <div id="bg1" data-0="background-position:0px 0px;" data-end="background-position:-500px -10000px;"></div>
+    <div id="bg2" data-0="background-position:0px 0px;" data-end="background-position:-500px -8000px;"></div>
+    <div id="bg3" data-0="background-position:0px 0px;" data-end="background-position:-500px -6000px;"></div>
     <div class="row">
       <div class="large-10 columns large-centered">
+        <div  data-0="opacity:1;" data-500="opacity:0">
         <h1 class="centered-text">Become an Awesome Product Designer</h1>
         <p class="centered-text">Learn product design through courses, library resources and an active community.</p>
+       </div>
       </div>
     </div>
-  </div>
   
-  <div class="team-wrap">
+    <div class="row">
+      <div class="large-10 columns large-centered">
+        <div class="home1" data-0="left:200%;top:200%;opacity:0;" data-500="left:10%;top:15%;opacity:1" data-900="opacity:1;transform:rotate(0deg);transform-origin:0 0;" data-1000="opacity:0;transform:rotate(-90deg);" style="width:100%;left:100%" >
+          
+        </div>
+        <div class="caption" data-200="left:-100%;width: 0%;opacity:0" data-500="left:10%;width: 70%;opacity:1" data-600="left:10%;opacity:1;" data-1000="opacity:0;left:-100%" style="top:75%;position:fixed">
+                           Tasdfsdlfjadslfkasl;fjladsfkajdfkjadskfj
+
+      </div>
+    
+
+    <div class="home2" data-900="left:10%;top:15%;opacity:0;transform:scale(0) rotate(0deg);" data-1100="left:7%;top:15%;opacity:1;transform:scale(1) rotate(1440deg);" data-1300="" data-1500="opacity:0;transform:scale(3) rotate(3240deg);opacity:0;" style="width:100%;left:100%" >
+          
+        </div>
+        <div class="caption" data-700="left:100%;width: 0%;opacity:0" data-1000="left:7%;width: 79%;opacity:1" data-1400="opacity:1" data-1500="opacity:0" style="top:75%;position:fixed">
+                          rgregergergewrgwergerg
+
+      </div>
+      
+      <div data-1600="top:100%;" data-2000="top:15%;" data-2400="display:block;" data-2600="top:-100%;display:none;"style="width:100%;left:7%" >  
+          <div class="home3" style="width:100%;"></div>
+          <div class="caption" data-1600="left:100%;width: 0%;opacity:0" data-2000="left:7%;width: 79%;opacity:1" data-2400="opacity:1" data-2600="opacity:0" style="top:75%;position:fixed">
+                          rgregergergewrgwergerg
+
+      </div>
+        </div>
+        
+
+
+
+    </div>
+  </div>
+ </div>
+<!--
+  <div class="team-wrap" data-2500="top:100%;" data-2700="top:0%;" data-3000="display:block" data-5000="top:-100%;display:none;">
     <div class="row">
       <div class="large-4 columns centered-text zurbian">
         <img alt="bryan zmijewski" src="./img/bryan-home-3b154e2f21236aefb7b72f9e31106ca0.jpg">
@@ -208,10 +247,7 @@
       </div>
     </div>  
   </div>
-
- 
- 
- 
+ -->
 </div>
 
 
@@ -227,5 +263,22 @@
     <script>
       $(document).foundation();
     </script>
+    <script type="text/javascript" src="dist/skrollr.min.js"></script>
+
+  <!--[if lt IE 9]>
+  <script type="text/javascript" src="dist/skrollr.ie.min.js"></script>
+  <![endif]-->
+
+  <script type="text/javascript">
+  var s = skrollr.init({
+    edgeStrategy: 'set',
+    easing: {
+      WTF: Math.random,
+      inverted: function(p) {
+        return 1-p;
+      }
+    }
+  });
+  </script>
   </body>
 </html>
