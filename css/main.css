@@ -147,7 +147,7 @@ text-transform: uppercase;
 font-weight: 700;
 font-size: 0.75rem;
 }
-.ltx-footer-bottom ul.ltxlinks li a {
+.ltx-footer-bottom ul.ltx-links li a {
 color: #666666;
 padding: 3px 6px;
 }
