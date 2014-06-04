@@ -125,6 +125,12 @@ display: block;
 float: left;
 margin-left: 10px;
 }
+.zurb-footer-bottom ul.home-social li a {
+display: block;
+height: 50px;
+width: 50px;
+background: url("http://huodong.ustc.edu.cn/Web/igem2014-website/img/icons/social.png") no-repeat center 0;
+}
 .zurb-footer-bottom ul.home-social li:first-child {
 margin-left: 0;
 }
