@@ -114,3 +114,17 @@ margin-bottom: 20px;
 background: #333333;
 padding: 24px 0 10px;
 }
+.zurb-footer-bottom ul.home-social {
+display: block;
+float: right;
+margin-bottom: 8px;
+}
+.zurb-footer-bottom ul.home-social li {
+list-style: none;
+display: block;
+float: left;
+margin-left: 10px;
+}
+.zurb-footer-bottom ul.home-social li:first-child {
+margin-left: 0;
+}
