@@ -43,7 +43,7 @@
   <hr>
 
   <ul class="off-canvas-list">
-    <li><label class="first">About</label></li>
+    <li><label class="first">Project</label></li>
     <li><a href="learn/features.html">Overall</a></li>
     <li><a href="learn/faq.html">Software</a></li>
     <li><a href="learn/faq.html">Method</a></li>
@@ -54,35 +54,30 @@
   <hr>
 
   <ul class="off-canvas-list">
-    <li><label>Teams</label></li>
+    <li><label>Achieve</label></li>
   </ul>
 
   <hr>
 
   <ul class="off-canvas-list">
-    <li><label>Schedule</label></li>
+    <li><label>Dev Notes</label></li>
     <li><a href="support/support.html">Term</a></li>
     <li><a href="/forum">Vacation</a></li>
   </ul>
   <hr>
   <ul class="off-canvas-list">
-    <li><label>Media</label></li>
+    <li><label>Team</label></li>
   </ul>
 
   <hr> 
   <ul class="off-canvas-list">
-    <li><label>Results</label></li>
+    <li><label>Communicate</label></li>
+    <li><a href="support/support.html">Human Practice</a></li>
+    <li><a href="/forum">Safety</a></li>
+    <li><a href="/forum">Collaborate</a></li>
+    <li><a href="/forum">Develop</a></li>
   </ul>
   <hr> 
-  <ul class="off-canvas-list">
-    <li><label>Sponsors</label></li>
-  </ul>
-  <hr> 
-  <ul class="off-canvas-list">
-    <li><label>Contact</label></li>
-  </ul>
-  <hr> 
-
 </aside>
 <!-- -------------------------------------->
 
@@ -111,7 +106,7 @@
 
       <li class="divider"></li>
       <li class="has-dropdown">
-        <a href="learn/features.html" class="">About</a>
+        <a href="learn/features.html" class="">Project</a>
         <ul class="dropdown">
             <li><a href="learn/features.html">Overall</a></li>
             <li><a href="learn/faq.html">Software</a></li>
@@ -122,36 +117,28 @@
       </li>
       <li class="divider"></li>
       <li>
-        <a href="/docs" class="">Teams</a>
+        <a href="/docs" class="">Achieve</a>
       </li>
       <li class="divider"></li>
       <li class="has-dropdown">
-        <a href="templates.html" class="">Schedule</a>
+        <a href="templates.html" class="">Develop</a>
         <ul class="dropdown">
-          <li><a href="templates.html">test</a></li>
+          <li><a href="templates.html">Add-ons</a></li>
           <li><a href="/docs">Docs</a></li>
         </ul>
       </li>
       <li class="divider"></li>
       <li class="has-dropdown">
-        <a href="support/support.html" class="">Media</a>
+        <a href="support/support.html" class="">Dev Notes</a>
         <ul class="dropdown">
-            <li><a href="support/support.html">test</a></li>
-            <li><a href="/forum">test</a></li>
+            <li><a href="support/support.html">Term</a></li>
+            <li><a href="/forum">Vacation</a></li>
         </ul>
       </li>
 
      <li class="divider"></li>
       <li>
-        <a href="/docs" class="">Results</a>
-      </li>
-      <li class="divider"></li>
-      <li>
-        <a href="/docs" class="">Sponsors</a>
-      </li>
-      <li class="divider"></li>
-      <li>
-        <a href="/docs" class="">Contact</a>
+        <a href="/docs" class="">Team</a>
       </li>
 
 <!--
@@ -171,79 +158,53 @@
 
 </nav>
 <div id="container">
-    <div class="slide-box">
-    <div class="row large-12 columns large-centered">
-      <div class="orbit-container boxshadow">
+   <div id="bg1" data-0="background-position:0px 0px;" data-end="background-position:-500px -10000px;"></div>
+    <div id="bg2" data-0="background-position:0px 0px;" data-end="background-position:-500px -8000px;"></div>
+    <div id="bg3" data-0="background-position:0px 0px;" data-end="background-position:-500px -6000px;"></div>
+  <div class="university-hero">
+   
+    <div class="row">
+      <div class="large-10 columns large-centered">
+      
+        <h1 class="centered-text">THE DNA LANGUAGE</h1>
+        <p class="centered-text">A new programming language for designing and simulating genetic circuits to reprogram cell behaviour. </p>
+        </div>
+    </div>
+    <div class="row">
+      <div class="large-10 columns large-centered">
+        <div class="home1" data-0="left:200%;top:200%;opacity:0;" data-500="left:10%;top:15%;opacity:1" data-900="opacity:1;transform:rotate(0deg);transform-origin:0 0;" data-1000="opacity:0;transform:rotate(-90deg);" style="width:100%;left:100%" >
+          
+        </div>
+        <div class="caption" data-200="left:-100%;width: 0%;opacity:0" data-500="left:10%;width: 70%;opacity:1" data-600="left:10%;opacity:1;" data-1000="opacity:0;left:-100%" style="top:75%;position:fixed">
+                           Tasdfsdlfjadslfkasl;fjladsfkajdfkjadskfj
+
+      </div>
+    
+
+    <div class="home2" data-900="left:10%;top:15%;opacity:0;transform:scale(0) rotate(0deg);" data-1100="left:7%;top:15%;opacity:1;transform:scale(1) rotate(1440deg);" data-1300="" data-1500="opacity:0;transform:scale(3) rotate(3240deg);opacity:0;" style="width:100%;left:100%" >
+          
+        </div>
+        <div class="caption" data-700="left:100%;width: 0%;opacity:0" data-1000="left:7%;width: 79%;opacity:1" data-1400="opacity:1" data-1500="opacity:0" style="top:75%;position:fixed">
+                          rgregergergewrgwergerg
+
+      </div>
+      
+      <div data-1600="top:100%;" data-2000="top:15%;" data-2400="display:block;" data-2600="top:-100%;display:none;"style="width:100%;left:7%" >  
+          <div class="home3" style="width:100%;"></div>
+          <div class="caption" data-1600="left:100%;width: 0%;opacity:0" data-2000="left:7%;width: 79%;opacity:1" data-2400="opacity:1" data-2600="opacity:0" style="top:75%;position:fixed">
+                          rgregergergewrgwergerg
+
+      </div>
+        </div>
         
-      
-       <ul data-orbit data-options="timer_speed:2500; bullets:false;">
-              <li>
-                <img src="img/slide1.jpg" />
-                <div class="orbit-caption">...</div>
-              </li>
 
-              <li>
-                <img src="img/slide2.jpg" />
-                <div class="orbit-caption">...</div>
-              </li>
-             
-              <li>
-                <img src="img/slide3.jpg" />
-                <div class="orbit-caption">...</div>
-              </li>
-               <!--
-              <li>
-                <img src="img/slide4.jpg" />
-                <div class="orbit-caption">...</div>
-              </li>
-          -->    
-        </ul>
-      
-        </div>
-        </div>
+
+
     </div>
-      <div class="main-content">
-      <div class="row large-12 columns large-centered">
-        <h2>iGEM meets USTC-Software</h2>
-        <div class="underline-large"></div>
-      </div>
-      <div class="row large-12 columns large-centered">
-        <h3>Why?</h3>
-        <div class="underline-small"></div>
-        <p>The USTC Software team will organize a worldwide team meet up on August 15th, which will be held at University of Science and Technology of China and planed to last about three days. This meeting is mainly for software tracks. Because most of the meet-ups are among wet tracks, the meeting could be a great opportunity to enhance communication between software teams. Teams will present a brief overview of their project along with their specific summer goals, then discuss alternative ways to approach their projects, and end the meeting with brainstorming ways for the teams to collaborate on either coding or human practices. !
-        </p>
-      </div>
-      <div class="row">
-        <div class="large-6 columns">
-          <h3>When?</h3>
-          <div class="underline-small"></div>
-          <p>August 15 - August 17, 2014</p>
-        </div>
-
-        <div class="large-6 columns">
-          <h3>Where?</h3>
-          <div class="underline-small"></div>
-          <ul>
-            <li>University of Science and Technology of China</li>
-             <li>USTC-Software</li>
-           </ul>
-        </div>
-      </div>
-      <div class="row large-12 columns large-centered">
-        <h3>Who?</h3>
-        <div class="underline-small"></div>
-        <p>Members from iGEM teams will attend our meetup
-        </p>
-      </div>
-    </div>
- </div>
-
-
-
-
-<!--
-  <div class="team-wrap">
   </div>
+ </div>
+<!--
+  <div class="team-wrap" data-2500="top:100%;" data-2700="top:0%;" data-3000="display:block" data-5000="top:-100%;display:none;">
     <div class="row">
       <div class="large-4 columns centered-text zurbian">
         <img alt="bryan zmijewski" src="./img/bryan-home-3b154e2f21236aefb7b72f9e31106ca0.jpg">
@@ -284,8 +245,9 @@
         <p class="short-bio">Caleb is a core contributor to Foundation and the lead designer for Forrst. While he's amazing at code, you'll find him crushing all parts of our design process.</p>
       </div>
     </div>  
-  
--->
+  </div>
+ -->
+</div>
 
 
 
@@ -300,13 +262,12 @@
     <script>
       $(document).foundation();
     </script>
-    <!--
     <script type="text/javascript" src="dist/skrollr.min.js"></script>
--->
+
   <!--[if lt IE 9]>
   <script type="text/javascript" src="dist/skrollr.ie.min.js"></script>
   <![endif]-->
-<!--
+
   <script type="text/javascript">
   var s = skrollr.init({
     edgeStrategy: 'set',
@@ -318,6 +279,5 @@
     }
   });
   </script>
--->
   </body>
 </html>
