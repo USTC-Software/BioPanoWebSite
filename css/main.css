@@ -126,15 +126,20 @@ display: block;
 float: left;
 margin-left: 10px;
 }
+.ltx-footer-bottom ul.home-social li:first-child {
+margin-left: 0;
+}
 .ltx-footer-bottom ul.home-social li a {
 display: block;
 height: 50px;
 width: 50px;
 background: url("http://huodong.ustc.edu.cn/Web/igem2014-website/img/social.png") no-repeat center 0;
 }
-.ltx-footer-bottom ul.home-social li:first-child {
-margin-left: 0;
+.ltx-footer-bottom ul.home-social li a:hover {
+opacity: 0.8;
+filter: alpha(opacity=80);
 }
+
 .ltx-footer-bottom ul.ltx-links {
 margin: 0;
 display: inline-block;
