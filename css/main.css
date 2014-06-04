@@ -110,36 +110,36 @@ margin-bottom: 20px;
 .slide-box{
   margin:20px;
 }
-.zurb-footer-bottom {
+.ltx-footer-bottom {
 background: #333333;
 padding: 24px 0 10px;
 }
-.zurb-footer-bottom ul.home-social {
+.ltx-footer-bottom ul.home-social {
 display: block;
 float: right;
 margin-bottom: 8px;
 }
-.zurb-footer-bottom ul.home-social li {
+.ltx-footer-bottom ul.home-social li {
 list-style: none;
 display: block;
 float: left;
 margin-left: 10px;
 }
-.zurb-footer-bottom ul.home-social li a {
+.ltx-footer-bottom ul.home-social li a {
 display: block;
 height: 50px;
 width: 50px;
 background: url("http://huodong.ustc.edu.cn/Web/igem2014-website/img/social.png") no-repeat center 0;
 }
-.zurb-footer-bottom ul.home-social li:first-child {
+.ltx-footer-bottom ul.home-social li:first-child {
 margin-left: 0;
 }
-.zurb-footer-bottom ul.zurb-links {
+.ltx-footer-bottom ul.ltx-links {
 margin: 0;
 display: inline-block;
 padding-bottom: 0px;
 }
-.zurb-footer-bottom ul.zurb-links li {
+.ltx-footer-bottom ul.ltx-links li {
 display: block;
 float: left;
 margin-left: 6px;
@@ -147,16 +147,16 @@ text-transform: uppercase;
 font-weight: 700;
 font-size: 0.75rem;
 }
-.zurb-footer-bottom ul.zurb-links li a {
+.ltx-footer-bottom ul.ltxlinks li a {
 color: #666666;
 padding: 3px 6px;
 }
-.zurb-footer-bottom ul.home-social li a.twitter {
+.ltx-footer-bottom ul.home-social li a.twitter {
 background-position: center 0;
 }
-.zurb-footer-bottom ul.home-social li a.facebook {
+.ltx-footer-bottom ul.home-social li a.facebook {
 background-position: center -200px;
 }
-.zurb-footer-bottom ul.home-social li a.mail {
+.ltx-footer-bottom ul.home-social li a.mail {
 background-position: center -400px;
 }
