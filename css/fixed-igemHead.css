@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5 { font-family: Georgia, Times, "Times New Roman", serif;}
 
 #top-section { /*-- styling for default menu bar (edit, page, history, etc.) --*/
 	display: none;
-	background-color: #383838;
+	background-color: #ABABAB;
 	border: 0 none;
 	height: 14px;
 	z-index: 100;
