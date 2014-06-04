@@ -114,11 +114,15 @@ margin-bottom: 20px;
 background: #333333;
 padding: 24px 0 10px;
 margin-top: 50px;
+text-align: center;
 }
+
 .ltx-footer-bottom ul.home-social {
-display: block;
-float: right;
-margin-bottom: 8px;
+float: none;
+margin: 0 0 20px 0;
+text-align: center;
+height: 44px;
+display: inline-block;
 }
 .ltx-footer-bottom ul.home-social li {
 list-style: none;
@@ -171,3 +175,4 @@ margin: 6px 0 0;
 font-size: 0.75rem;
 color: #666666;
 }
+.clear{clear:both;}
