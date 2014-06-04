@@ -1,7 +1,7 @@
 
 
 #contentSub, #footer-box, #catlinks, #search-controls, #p-logo, .printfooter, .visualClear {display: none;} /*-- hides default wiki settings --*/
-.p{
+p{
 	margin-bottom: 0;
 }
 .firstHeading {
