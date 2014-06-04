@@ -128,3 +128,12 @@ margin-left: 10px;
 .zurb-footer-bottom ul.home-social li:first-child {
 margin-left: 0;
 }
+.zurb-footer-bottom ul.zurb-links {
+margin: 0;
+display: inline-block;
+padding-bottom: 0px;
+}
+.zurb-footer-bottom ul.zurb-links li a {
+color: #666666;
+padding: 3px 6px;
+}
