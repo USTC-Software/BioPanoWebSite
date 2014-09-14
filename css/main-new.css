@@ -1,0 +1,208 @@
+body{
+  /*background-color: #FFFCE8;*/
+}
+.left-off-canvas-menu hr {
+  border-color: #444444;
+  margin: 5px 0 10px 0 !important; }
+
+ul.off-canvas-list li.gs {
+  padding: 0 1.08rem;
+  margin-top: 8px; }
+
+ul.off-canvas-list li a {
+  border-bottom: none !important;
+  font-size: 1.25rem;
+  padding: 0.2rem 0.95rem !important;
+  color: #cccccc;
+  font-family: "Open Sans", "Helvetica Neue", "Helvetica", Helvetica, Arial, sans-serif;
+  font-weight: 500; }
+
+ul.off-canvas-list li label {
+  background: none !important;
+  border-top: none !important;
+  padding: 0.4rem 0.95rem 0.4rem 0.95rem !important;
+  font-size: 0.775rem !important; }
+
+ul.off-canvas-list li label.first {
+  padding-top: 0.75rem !important; }
+.zurbian img {
+border-radius: 1000px;
+height: 160px;
+width: 160px;
+display: inline-block;
+margin-bottom: 10px;
+}
+#features-hero {
+background: url(../img/MainBackgroundback.jpg) #074e68;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+height: 600px;
+text-align: center;
+position: relative;
+padding: 100px 20px 0 20px;
+}
+#features-hero {
+background: url(../img/MainBackgroundback.jpg) #074e68;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+height: 600px;
+text-align: center;
+position: relative;
+padding: 100px 20px 0 20px;
+}
+#last-info {
+background: #074e68;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+height: 400px;
+text-align: center;
+position: relative;
+padding: 100px 20px 0 20px;
+}
+.university-hero {
+background: url(../img/main3.jpg) no-repeat center top;
+width: 100%;
+background-size: 1729px 800px;
+padding-top: 175px;
+margin-bottom: 80px;
+}
+.university-hero h1 {
+color: #f00;
+margin-bottom: 30px;
+line-height: 1.1;
+}
+.university-hero p {
+color: #000;
+font-size: 1.25em;
+font-family: "Proxima Nova", "proxima-nova", "Helvetica Neue", Helvetica, Arial, sans-serif;
+margin-bottom: 350px;
+}
+.centered-text {
+    text-align: center;
+}
+
+.boxshadow{
+  box-shadow: 0 0 15px ;
+}
+.caption {
+background: rgba(0, 0, 0, 0.8);
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#cc000000, endColorstr=#cc000000)\9;
+color: #fff;
+display: block;
+font-size: 16px;
+font-family: Arial, Helvetica, sans-serif;
+padding: 20px;
+
+}
+
+#bg1, #bg2, #bg3 {
+  z-index:-1;
+  top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  background:url(../img/bubbles.png) repeat 0 0;
+}
+
+#bg2 {
+  z-index:-1;
+  background-image:url(../img/bubbles2.png);
+}
+
+#bg3 {
+  z-index:-1;
+  background-image:url(../img/bubbles3.png);
+}
+
+
+.underline-large {
+width: 100%;
+height: 8px;
+background-color: #606060;
+margin-bottom: 20px;
+}
+.underline-small {
+width: 100%;
+height: 4px;
+background-color: #ABABAB;
+margin-bottom: 20px;
+}
+.main-content{
+  color:#606060;
+}
+.slide-box{
+  margin:20px;
+}
+.underline{
+  border-bottom: 1px solid #ccc;
+}
+section{
+  padding-top: 50px;
+}
+
+.ltx-footer-bottom {
+background: #333333;
+padding: 24px 0 10px;
+margin-top: 0px;
+text-align: center;
+}
+
+.ltx-footer-bottom ul.home-social {
+float: none;
+margin: 0 0 20px 0;
+text-align: center;
+height: 44px;
+display: inline-block;
+}
+.ltx-footer-bottom ul.home-social li {
+list-style: none;
+display: block;
+float: left;
+margin-left: 10px;
+}
+.ltx-footer-bottom ul.home-social li:first-child {
+margin-left: 0;
+}
+.ltx-footer-bottom ul.home-social li a {
+display: block;
+height: 50px;
+width: 50px;
+background: url("http://huodong.ustc.edu.cn/Web/igem2014-website/img/social.png") no-repeat center 0;
+}
+.ltx-footer-bottom ul.home-social li a:hover {
+opacity: 0.8;
+filter: alpha(opacity=80);
+}
+
+.ltx-footer-bottom ul.ltx-links {
+margin: 0;
+display: inline-block;
+padding-bottom: 0px;
+}
+.ltx-footer-bottom ul.ltx-links li {
+display: block;
+float: left;
+margin-left: 6px;
+text-transform: uppercase;
+font-weight: 700;
+font-size: 0.75rem;
+}
+.ltx-footer-bottom ul.ltx-links li a {
+color: #666666;
+padding: 3px 6px;
+}
+.ltx-footer-bottom ul.home-social li a.twitter {
+background-position: center 0;
+}
+.ltx-footer-bottom ul.home-social li a.facebook {
+background-position: center -200px;
+}
+.ltx-footer-bottom ul.home-social li a.mail {
+background-position: center -400px;
+}
+.ltx-footer-bottom p.copyright {
+margin: 6px 0 0;
+font-size: 0.75rem;
+color: #666666;
+}
+.clear{clear:both;}
