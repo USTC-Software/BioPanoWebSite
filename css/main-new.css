@@ -31,7 +31,9 @@ padding: 20px;
 margin-top:20px;
 /*padding: 100px 20px 0 20px;*/
 }
-
+#last-info p{
+  line-height: 1.0; 
+}
 .centered-text {
     text-align: center;
 }
