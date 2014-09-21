@@ -14,14 +14,21 @@ nav{
 
 #features-hero {
 text-align: center;
-position: relative;
+position: absolute;
 padding: 47px 20px 0 20px;
+top:100px;
+left: 100px;
+z-index: 1000
 }
-.topbackground{
-  background: url(../img/MainBackgroundback.jpg) #074e68;
-  background-size: 100% 100%;
-  background-repeat: no-repeat;
+
+
+img.bg {
+width: 100%;
+height: auto;
+position: relative;
+
 }
+
 #last-info {
 background: #085a78;
 background-size: 100% 100%;
