@@ -64,10 +64,19 @@ height: 4px;
 background-color: #ABABAB;
 margin-bottom: 20px;
 }
-.igem{
-  -vendor-animation-duration: 10s;
-  -vendor-animation-delay: 10s;
-  -vendor-animation-iteration-count: infinite;
+.igem1{
+  -webkit-animation-duration: 0.5s;
+  -animation-duration: 0.5s;
+  
+}
+.igem2{
+  -webkit-animation-duration: 0.7s;
+  -animation-duration: 0.7s;
+  
+}
+.igem3{
+  -webkit-animation-duration: 0.9s;
+  -animation-duration: 0.9s;
 }
 .ltx-footer-bottom {
 background: #333333;
