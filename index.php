@@ -40,7 +40,7 @@ require_once("head.html")
   <div class="row">
       <div class="medium-12 medium-centered columns centered-text">
         
-         <h4 class="subheader" style="margin:40px">There’s so much shiny awesomeness in this release we think it speaks for itself. In case it doesn’t though, here’s a rundown on some of the new (and existing) features in the first, most-advanced responsive framework out there.</h4>
+         <h4 class="subheader" style="margin:40px">如果你正想将几个基因转入某个生物体中，你可以用我们的biopano来估计目标生物体自身调控网对转入的基因表达的影响。</h4>
          <div class="underline"></div>
         
       </div>
@@ -53,8 +53,12 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Title of section 1</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+        <h2>同源性</h2>
+        <img src="/img/pg2.png">
+        <p>
+
+你可以先利用blast搜索该物种数据库中与导入基因同源性较高的基因，我们有理由相信导入基因很可能与他们在生物体中受到同样的调控作用。
+        </p>
         <a href="#0" class="cd-read-more">Read more</a>
         <span class="cd-date">Jan 14</span>
       </div> <!-- cd-timeline-content -->
@@ -66,8 +70,9 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Title of section 2</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
+        <h2>Expand</h2>
+        <img src="/img/pg3.png">
+        <p>当你已经得到高度同源的目标生物体基因，你可以用动态展示网络的expand探索它在生物体内调控网的位置。</p>
         <a href="#0" class="cd-read-more">Read more</a>
         <span class="cd-date">Jan 18</span>
       </div> <!-- cd-timeline-content -->
@@ -79,8 +84,11 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Title of section 3</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
+        <h2>Link</h2>
+        <img src="/img/pg2.png">
+        <p>
+          当你想了解导入基因与已有基因的关系时，你可能会用到k-short功能，你可以将选中两个点在数据库中寻找他们间前k短的连通路径
+        </p>
         <a href="#0" class="cd-read-more">Read more</a>
         <span class="cd-date">Jan 24</span>
       </div> <!-- cd-timeline-content -->
@@ -92,8 +100,8 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Title of section 4</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+        <h2>Information</h2>
+        <p>你可以双击一点查看该点的详细信息，也可以用Paper方法在软件方便地阅读论文……</p>
         <a href="#0" class="cd-read-more">Read more</a>
         <span class="cd-date">Feb 14</span>
       </div> <!-- cd-timeline-content -->
@@ -105,8 +113,8 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Title of section 5</h2>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
+        <h2>Cloud</h2>
+        <p>当你通过paper或者自己的研究找到新的调控关系，你也可以分享你的发现到我们数据库中</p>
         <a href="#0" class="cd-read-more">Read more</a>
         <span class="cd-date">Feb 18</span>
       </div> <!-- cd-timeline-content -->
