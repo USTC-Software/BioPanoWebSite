@@ -60,11 +60,13 @@ require_once("head.html")
 你可以先利用blast搜索该物种数据库中与导入基因同源性较高的基因，我们有理由相信导入基因很可能与他们在生物体中受到同样的调控作用。
         </p>
         <a href="#0" class="cd-read-more">Read more</a>
-        <span class="cd-date">Jan 14</span>
+
+       <!-- <span class="cd-date">Jan 14</span>-->
       </div> <!-- cd-timeline-content -->
+
     </div> <!-- cd-timeline-block -->
 
-    <div class="cd-timeline-block">
+    <div class="cd-timeline-block" style="bottom:20em">
       <div class="cd-timeline-img cd-movie">
         <img src="img/cd-icon-movie.svg" alt="Movie">
       </div> <!-- cd-timeline-img -->
@@ -74,7 +76,9 @@ require_once("head.html")
         <img src="/img/pg3.png">
         <p>当你已经得到高度同源的目标生物体基因，你可以用动态展示网络的expand探索它在生物体内调控网的位置。</p>
         <a href="#0" class="cd-read-more">Read more</a>
+        <!--
         <span class="cd-date">Jan 18</span>
+        -->
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
 
