@@ -32,6 +32,33 @@ height: auto;
 position: relative;
 
 }*/
+.wiki-head{
+  background-color: #FFDFB9;padding:2em;margin-top:2em;
+}
+.wiki-head:after {
+    width: 180px;
+    height: 30px;
+    content: " ";
+    margin-left: -90px;
+    border: 1px solid rgba(200, 200, 200, .8);
+    background: rgba(254, 254, 254, .6);
+
+    -moz-box-shadow: 0px 0 3px rgba(0, 0, 0, 0.1);
+    -webkit-box-shadow: 0px 0 3px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 0 3px rgba(0, 0, 0, 0.1);
+
+    -moz-transform: rotate(-10deg); 
+    -webkit-transform: rotate(-10deg);
+    -o-transform: rotate(-10deg);
+    transform: rotate(-10deg);
+
+    position: absolute;
+    left: 50%;
+    top: -1em;
+}
+
+
+
 .main-box{
   background-color: #e9f0f5;
 }
