@@ -108,6 +108,12 @@ height: 4px;
 background-color: #ABABAB;
 margin-bottom: 20px;
 }
+.underline-tiny {
+width: 100%;
+height: 1 px;
+background-color: #ABABAB;
+margin-bottom: 20px;
+}
 .igem1{
   -webkit-animation-duration: 0.5s;
   -animation-duration: 0.5s;

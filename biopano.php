@@ -60,12 +60,9 @@ even interfere their thoughts. So you can choose to expand the nodes in a way yo
 <p>Biopano displays the network dynamically, which makes you able to tease out the relationship among thousands of materials of 
 E.coli K-12, satisfies your curiosity and helps you discover unknown biological field.</p></div>
                 </div>
-               
-                
-                
-                
-                
+                <div class="underline-tiny"></div>
         </li>
+
         <li>
                 <h5>2. Link Finder</h5>
                    <div class="row">
@@ -74,13 +71,21 @@ search the route connecting the two nodes for you. Since some routes are too sin
 you can set a specific number k, Biopano will search and show the k shortest routes for you.</p></div>
                     <div class="large-6 columns"><img src="img/feature-c.png"></div>
                     </div>
-                
+                    <div class="underline-tiny"></div>
                 
         </li>
         <li>
                 <h5>3. BLAST</h5>
-                <p>By BLAST method, Biopano finds E.coli K-12 gene highly similar to the injected sequence. These genes are regulated by other parts in E.coli K-12, so can provide information of the host environment’s impact on injected exogenous sequence. Biopano also offers BioBrick helper, enabling you search all kinds of BioBricks on iGEM’s official website. By BLAST analysis, it helps you design correct gene route with appropriate BioBricks.</p>
-                   <img src="img/feature-e.png">
+                <div class="row">
+                    <div class="large-6 columns"><img src="img/feature-e.png"></div>
+                    <div class="large-6 columns"><p>By BLAST method, Biopano finds E.coli K-12 gene highly similar to the injected sequence. 
+These genes are regulated by other parts in E.coli K-12, so can provide information of the host environment’s impact on injected 
+exogenous sequence. Biopano also offers BioBrick helper, enabling you search all kinds of BioBricks on iGEM’s official website. 
+By BLAST analysis, it helps you design correct gene route with appropriate BioBricks.</p></div>
+                </div>
+                  <div class="underline-tiny"></div>
+
+                   
         </li>
         <li>
                   <h5>4. Data Sharing</h5>
@@ -89,6 +94,7 @@ you can set a specific number k, Biopano will search and show the k shortest rou
           <li><img src="img/feature-f.png"></li>
           <li><img src="img/feature-g.png"></li>
           </ul>
+          <div class="underline-tiny"></div>
         </li>
         <li>
                   <h5>5. Details and Reference</h5>
