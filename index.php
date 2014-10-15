@@ -1,6 +1,11 @@
 <?php
 require_once("head.html")
 ?>
+<style type="text/css">
+  .wiki{
+    background-color: #e9f0f5;
+  }
+</style>
 <div style="position: relative;">
 <img src="img/MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 <img class="igem1 animated fadeInUpBig" src="img/1.png" style="width:26%;position: absolute; left:3.7em; bottom:0;">
@@ -36,6 +41,7 @@ require_once("head.html")
 -->
 
 <div class="clear"></div>
+<div class="main-box">
 <section id="main-content">
   <div class="row">
       <div class="medium-12 medium-centered columns centered-text">
@@ -136,7 +142,7 @@ require_once("head.html")
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
   </section> <!-- cd-timeline -->
-
+</div>
 <?php
 
 require_once("foot.html")

@@ -32,6 +32,9 @@ height: auto;
 position: relative;
 
 }*/
+.main-box{
+  background-color: #e9f0f5;
+}
 .main-content p{
   color: #000;
 }
@@ -48,6 +51,7 @@ padding-bottom: 15px;
 margin-top:20px;
 /*padding: 100px 20px 0 20px;*/
 }
+
 #last-info p{
   line-height: 0.5; 
 }
