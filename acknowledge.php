@@ -41,7 +41,7 @@ transaction banking
         
       </div>
        <p>
-          ???
+       http://www.teach.ustc.edu.cn/
         </p>
     
     <h4>RegulonDB</h4>
@@ -49,7 +49,7 @@ transaction banking
         
       </div>
        <p>
-          ???
+       http://regulondb.ccg.unam.mx/
         </p>
 
         <h4>Kegg</h4>
@@ -57,7 +57,7 @@ transaction banking
         
       </div>
        <p>
-          ???
+        http://www.kegg.jp/
         </p>
  
         <h4>NCBI</h4>
@@ -65,8 +65,17 @@ transaction banking
         
       </div>
        <p>
-          ???
+      http://www.ncbi.nlm.nih.gov/
         </p>
+
+        <h4>uniprot</h4>
+      <div class="underline-small">
+        
+      </div>
+       <p>
+      http://www.uniprot.org/
+        </p>
+
 
 
      </div>
