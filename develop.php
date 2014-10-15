@@ -3,7 +3,7 @@ require_once("head.html")
 ?>
 <div class="main-content">
      <div class="row large-12 columns large-centered">
-        <p style="font-size:32px">Develope</p>
+        <p style="font-size:32px">Develop</p>
         
       </div>
       <div class="row">

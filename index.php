@@ -46,7 +46,9 @@ require_once("head.html")
   <div class="row">
       <div class="medium-12 medium-centered columns centered-text">
         
-         <h4 class="subheader" style="margin:40px">如果你正想将几个基因转入某个生物体中，你可以用我们的biopano来估计目标生物体自身调控网对转入的基因表达的影响。</h4>
+         <h4 class="subheader" style="margin:40px">
+           If you want to inject several genes into some biological body, you can use Biopano to estimate the impact of host metabolism net on exogenous genetic expression.
+         </h4>
          <div class="underline"></div>
         
       </div>
@@ -59,11 +61,10 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>同源性</h2>
+        <h2>Homology</h2>
         <img src="/img/pg2.png">
         <p>
-
-你可以先利用blast搜索该物种数据库中与导入基因同源性较高的基因，我们有理由相信导入基因很可能与他们在生物体中受到同样的调控作用。
+        First you can find E.coli K-12 gene that shares deep homology with the injected sequence by Blast method. We have reason to believe that the injected genes are probably regulated in the same way in the host body.
         </p>
         <a href="#0" class="cd-read-more">Read more</a>
 
@@ -80,7 +81,7 @@ require_once("head.html")
       <div class="cd-timeline-content">
         <h2>Expand</h2>
         <img src="/img/pg3.png">
-        <p>当你已经得到高度同源的目标生物体基因，你可以用动态展示网络的expand探索它在生物体内调控网的位置。</p>
+        <p>When you have already found highly homologous gene of the target body, you can use “Expand” to dynamically show the network and find the role the genes plays in the biological metabolism network.</p>
         <a href="#0" class="cd-read-more">Read more</a>
         <!--
         <span class="cd-date">Jan 18</span>
@@ -97,7 +98,7 @@ require_once("head.html")
         <h2>Link</h2>
         <img src="/img/pg2.png">
         <p>
-          当你想了解导入基因与已有基因的关系时，你可能会用到k-short功能，你可以将选中两个点在数据库中寻找他们间前k短的连通路径
+          If you want to know about the relationship between inject gene and host gene, you might find the K-short function useful. You can select two nodes and find the k shortest routes connecting them in the database.
         </p>
         <a href="#0" class="cd-read-more">Read more</a>
         
@@ -111,7 +112,7 @@ require_once("head.html")
 
       <div class="cd-timeline-content">
         <h2>Information</h2>
-        <p>你可以双击一点查看该点的详细信息，也可以用Paper方法在软件方便地阅读论文……</p>
+        <p>You can double-click a node to see the detailed information of it. You can use Paper method to read literature in the software conveniently.</p>
         <a href="#0" class="cd-read-more">Read more</a>
         
       </div> <!-- cd-timeline-content -->
@@ -124,7 +125,7 @@ require_once("head.html")
 
       <div class="cd-timeline-content">
         <h2>Cloud</h2>
-        <p>当你通过paper或者自己的研究找到新的调控关系，你也可以分享你的发现到我们数据库中</p>
+        <p>When you discover new regulation by literature or your own research, you can upload it to our database to share.</p>
         <a href="#0" class="cd-read-more">Read more</a>
        
       </div> <!-- cd-timeline-content -->
@@ -136,8 +137,7 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Final Section</h2>
-        <p>This is the content of the last section</p>
+        <button style="button">Download Now!</button>
         
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
