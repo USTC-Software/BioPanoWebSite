@@ -35,6 +35,9 @@ position: relative;
 .main-content p{
   color: #000;
 }
+.main-content img{
+  padding: 1em;
+}
 #last-info {
 /*background: #085a78;*/
 background: #597B96;
