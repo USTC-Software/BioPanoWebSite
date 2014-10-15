@@ -40,34 +40,61 @@ hope to solve the problems above lucidly by data visualization.
       <div class="underline-small">
       </div>
         <p>Our software has many marvelous features, with which your biology research will become extremely easy and joyful.</p>
-        <div>
+        <ul>
         <li>
-          <h5>Expansion of a single node</h5>
-          <p>In Biopano, every biology part of E.coli K-12 will be displayed as a node of different types and regulation relationship will be displayed as arc of different types. They are displayed in the biological network in a visualizational way. You just need to select a node and click “Expand”, and the nodes associated with it will be “expanded”. Nodes are connected to each other by all kinds of relationship, so users can see how biological parts are connected clearly, such as Lac </p>
-          <img src="img/features.jpg">
-          <p>However, since there are so many biological parts connected to each other in various convoluted, the expansion of all nodes will give rise to extremely involved nets, which will fail to convey useful information to the users, even interfere their thoughts. So you can choose to expand the nodes in a way you see fit. Take 转录因子CRP as an example. When you have already got the entire view and want to know more about the details, double-click the nodes and arcs and the details will be shown.</p>
-          <p>Biopano displays the network dynamically, which makes you able to tease out the relationship among thousands of materials of E.coli K-12, satisfies your curiosity and helps you discover unknown biological field.</p>
+              <h5>1. Expansion of single node</h5>
+                <div class="row">
+                    <div class="large-6 columns"><p>In Biopano, every biology part of E.coli K-12 will be displayed as a node of different types and regulation relationship 
+will be  displayed as arc of different types. They are displayed in the biological network in a visualizational way. 
+You just need to select a node and click “Expand”, and the nodes associated with it will be “expanded”. 
+Nodes are connected to each other by all kinds of relationship, so users can see how biological parts are connected clearly, 
+such as LacI Operon. </p></div>
+                    <div class="large-6 columns"><img src="img/feature-a.png"></div>
+                </div>
+</div>
+                <div class="row">
+                    <div class="large-6 columns"><img src="img/feature-b.png"></div>
+                    <div class="large-6 columns"><p>However, since there are so many biological parts connected to each other in various convoluted, 
+the expansion of all nodes will give rise to extremely involved nets, which will fail to convey useful information to the users, 
+even interfere their thoughts. So you can choose to expand the nodes in a way you see fit. Take Transcription factor CRP as an example. </p>
+<p>Biopano displays the network dynamically, which makes you able to tease out the relationship among thousands of materials of 
+E.coli K-12, satisfies your curiosity and helps you discover unknown biological field.</p></div>
+                </div>
+               
+                
+                
+                
+                
         </li>
         <li>
-          <h5>Search of relationship</h5>
-          <p>You can input two nodes that seem irrelevant, such as gene A and B, and the software will search the route connecting the two nodes for you. Since some routes are too sinuous for further analysis or does not make sense, you can set a specific number k, Biopano will search and show the k shortest routes for you.</p>
+                <h5>2. Link Finder</h5>
+                   <div class="row">
+                    <div class="large-6 columns"><p>You can input two nodes that seem irrelevant, such as gene A and Transcription FactorB, and the software will 
+search the route connecting the two nodes for you. Since some routes are too sinuous for further analysis or does not make sense, 
+you can set a specific number k, Biopano will search and show the k shortest routes for you.</p></div>
+                    <div class="large-6 columns"><img src="img/feature-c.png"></div>
+                    </div>
+                
+                
         </li>
         <li>
-          <h5>Search for host environment’s impact on exogenous sequences</h5>
-          <p>By BLAST method, Biopano finds E.coli K-12 gene highly similar to the injected sequence. These genes are regulated by other parts in E.coli K-12, so can provide information of the host environment’s impact on injected exogenous sequence. Biopano also offers BioBrick helper, enabling you search all kinds of BioBricks on iGEM’s official website. By BLAST analysis, it helps you design correct gene route with appropriate BioBricks.</p>
+                <h5>3. BLAST</h5>
+                <p>By BLAST method, Biopano finds E.coli K-12 gene highly similar to the injected sequence. These genes are regulated by other parts in E.coli K-12, so can provide information of the host environment’s impact on injected exogenous sequence. Biopano also offers BioBrick helper, enabling you search all kinds of BioBricks on iGEM’s official website. By BLAST analysis, it helps you design correct gene route with appropriate BioBricks.</p>
+                   <img src="img/feature-e.png">
         </li>
         <li>
-          <h5>User-define network building and data sharing</h5>
-          <p>Hence, while offering various functions, Biopano also serves as a cooperative network building platform. When you create a project, you can add new nodes, name new biological parts and link them with respect to your comprehension to build a brand new net gradually. Meanwhile, Biopano provides log in service. You can sign up with Google or Baidu account and upload your network to the main database to make it more plentiful. Biopano also supports data importing in batch. You can even import data of a species and a database!</p>
-          <p>Moreover, you can choose company as the coworker of your project. Then can add and delete nodes and arcs like you, but they can’t delete the project. Building and sharing a more involved net together enhances communication of biologists from different fields greatly.</p>
+                  <h5>4. Data Sharing</h5>
+                  <p>Hence, while offering various functions, Biopano also serves as a cooperative network building platform. When you create a project, you can add new nodes, name new biological parts and link them with respect to your comprehension to build a brand new net gradually. Meanwhile, Biopano provides log in service. You can sign up with Google or Baidu account and upload your network to the main database to make it more plentiful. Biopano also supports data importing in batch. You can even import data of a species and a database.</p>
+       <ul class="small-block-grid-2">
+          <li><img src="img/feature-f.png"></li>
+          <li><img src="img/feature-g.png"></li>
+          </ul>
         </li>
         <li>
-          <h5>Literature network</h5>
-          <p>More surprisingly, Biopano supports literature reading in the network. You can view literature corresponding to every node and arc along any gene route in the network, and you will understand how the nodes in the net are associated with each other in depth. If you cast doubt on the reliability of our database, you can verify your thought with authoritative literature.</p>
+                  <h5>5. Details and Reference</h5>
+                  <p>When you have already got the entire view and want to know more about the details, double-click the nodes and arcs and the details will be shown. More surprisingly, Biopano supports literature reading in the network. You can view literature corresponding to every node and arc along any gene route in the network, and you will understand how the nodes in the net are associated with each other in depth. If you cast doubt on the reliability of our database, you can verify your thought with authoritative literature.</p>
         </li>
-        <p>To sum up, Biopano not only helps you know more, but enables you to study more as well!</p>
-      </div>
- 
+        </ul>
       <h4 id="features">Demo</h4>
       <div class="underline-small">
       </div>
