@@ -9,7 +9,7 @@ require_once("head.html")
       <div class="row">
         <div class="large-12 columns large-centered">
 
-
+        
       <h4 id="overview">Overview</h4>
       <div class="underline-small"></div>
         <p>Designed specifically for biological research, BioPano is a software platform targeted for visualisation of biological relationships as well as cooperative net-building. You can set up your own network of biological relationship by adding information about genetic regulation and metabolic system to the network we already provided for you. Also, the software allows you to explore the links among the substances by just several clicks, and you can even look into the details of the interaction between the exogenous gene and the host. What is even more exciting is that our software will end your loneliness and frustration in research, since it is providing you with cloud cooperating system so that you can view massive amounts of resources in databases, together with build up groups to share information and set up mutual network with others.
@@ -115,6 +115,7 @@ require_once("head.html")
      </div>
 
   </div>
+</div>
 
 <?php
 

@@ -32,7 +32,9 @@ height: auto;
 position: relative;
 
 }*/
-
+.main-content p{
+  color: #000;
+}
 #last-info {
 /*background: #085a78;*/
 background: #597B96;
