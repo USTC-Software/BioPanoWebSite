@@ -37,6 +37,7 @@ position: relative;
 }
 .main-content p{
   color: #000;
+  font-family: "Open Sans","Ubuntu",Helvetica, Arial, Geneva, sans-serif;
 }
 .main-content img{
   padding: 1em;
