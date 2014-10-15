@@ -86,6 +86,7 @@ header h1 {
   padding: 2em 0;
   margin-top: 2em;
   margin-bottom: 2em;
+
 }
 #cd-timeline::before {
   /* this is the vertical line */
@@ -96,15 +97,18 @@ header h1 {
   height: 100%;
   width: 4px;
   background: #d7e4ed;
+
 }
 @media only screen and (min-width: 1170px) {
   #cd-timeline {
     margin-top: 3em;
     margin-bottom: 3em;
+    
   }
   #cd-timeline::before {
     left: 50%;
     margin-left: -2px;
+   
   }
 }
 
@@ -124,8 +128,14 @@ header h1 {
   margin-bottom: 0;
 }
 @media only screen and (min-width: 1170px) {
+  
+  /*.bottom-15{
+    margin-top: -10em;
+  }*/
   .cd-timeline-block {
     margin: 4em 0;
+    margin-top: -10em;
+    
   }
   .cd-timeline-block:first-child {
     margin-top: 0;
@@ -133,12 +143,21 @@ header h1 {
   .cd-timeline-block:last-child {
     margin-bottom: 0;
   }
+  .top-15{
+    margin-top: -15em;
+  }
+    .top-10{
+    margin-top: -10em;
+  }
+  .top2-10{
+    margin-top: 0em;
+  }
 }
 
 .cd-timeline-img {
   position: absolute;
-  top: 0;
-  left: 0;
+ top: 0px;
+ /* left: 0;*/
   width: 40px;
   height: 40px;
   border-radius: 50%;

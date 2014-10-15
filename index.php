@@ -66,7 +66,7 @@ require_once("head.html")
 
     </div> <!-- cd-timeline-block -->
 
-    <div class="cd-timeline-block" style="bottom:20em">
+    <div class="cd-timeline-block top-15" >
       <div class="cd-timeline-img cd-movie">
         <img src="img/cd-icon-movie.svg" alt="Movie">
       </div> <!-- cd-timeline-img -->
@@ -82,7 +82,7 @@ require_once("head.html")
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
 
-    <div class="cd-timeline-block">
+    <div class="cd-timeline-block top-15" >
       <div class="cd-timeline-img cd-picture">
         <img src="img/cd-icon-picture.svg" alt="Picture">
       </div> <!-- cd-timeline-img -->
@@ -94,11 +94,11 @@ require_once("head.html")
           当你想了解导入基因与已有基因的关系时，你可能会用到k-short功能，你可以将选中两个点在数据库中寻找他们间前k短的连通路径
         </p>
         <a href="#0" class="cd-read-more">Read more</a>
-        <span class="cd-date">Jan 24</span>
+        
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
 
-    <div class="cd-timeline-block">
+    <div class="cd-timeline-block" >
       <div class="cd-timeline-img cd-location">
         <img src="img/cd-icon-location.svg" alt="Location">
       </div> <!-- cd-timeline-img -->
@@ -107,11 +107,11 @@ require_once("head.html")
         <h2>Information</h2>
         <p>你可以双击一点查看该点的详细信息，也可以用Paper方法在软件方便地阅读论文……</p>
         <a href="#0" class="cd-read-more">Read more</a>
-        <span class="cd-date">Feb 14</span>
+        
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
 
-    <div class="cd-timeline-block">
+    <div class="cd-timeline-block top2-10" >
       <div class="cd-timeline-img cd-location">
         <img src="img/cd-icon-location.svg" alt="Location">
       </div> <!-- cd-timeline-img -->
@@ -120,11 +120,11 @@ require_once("head.html")
         <h2>Cloud</h2>
         <p>当你通过paper或者自己的研究找到新的调控关系，你也可以分享你的发现到我们数据库中</p>
         <a href="#0" class="cd-read-more">Read more</a>
-        <span class="cd-date">Feb 18</span>
+       
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
 
-    <div class="cd-timeline-block">
+    <div class="cd-timeline-block top2-10" >
       <div class="cd-timeline-img cd-movie">
         <img src="img/cd-icon-movie.svg" alt="Movie">
       </div> <!-- cd-timeline-img -->
@@ -132,7 +132,7 @@ require_once("head.html")
       <div class="cd-timeline-content">
         <h2>Final Section</h2>
         <p>This is the content of the last section</p>
-        <span class="cd-date">Feb 26</span>
+        
       </div> <!-- cd-timeline-content -->
     </div> <!-- cd-timeline-block -->
   </section> <!-- cd-timeline -->
