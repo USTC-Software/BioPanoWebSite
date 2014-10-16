@@ -48,30 +48,33 @@ require_once("head.html")
 
         <h4>Safety</h4>
         <div class="underline-small">   </div>
-        <li>1. Are you using the iGEM Software repository at github.com/igemsoftware? If you have instead stored your code elsewhere, please explain where and why you have put it there. If your code is not in the iGEM repository, a re you using any version control system such as Git, CVS, or SVN?
-Yes, we use the iGEM Software repository at github.com/igemsoftware.
-        </li>2. Does your software store any private data supplied by the user? (For example: the user's name and email address, passwords, DNA sequences, circuit designs, etc.) If yes, please describe what kind of data is stored. If no, skip the rest of this question and move on to question 3.
-We store the user's name, the email address(if he/she logs in using Gmail account)or the username(if logged in using Baidu account), and the user's  all data designed with our software.
+        <h4>1. Are you using the iGEM Software repository at github.com/igemsoftware? If you have instead stored your code elsewhere, please explain where and why you have put it there. If your code is not in the iGEM repository, a re you using any version control system such as Git, CVS, or SVN?
+        </h4>
+        <p>Yes, we use the iGEM Software repository at github.com/igemsoftware.
+        </p>
+        <h4> 2. Does your software store any private data supplied by the user? (For example: the user's name and email address, passwords, DNA sequences, circuit designs, etc.) If yes, please describe what kind of data is stored. If no, skip the rest of this question and move on to question 3.
+        </h4>
+ <p>We store the user's name, the email address(if he/she logs in using Gmail account)or the username(if logged in using Baidu account), and the user's  all data designed with our software.
 Especially, we DO NOT store the user's password because we only allow users to log in with their Gmail account or Baidu account using OAuth2.0 ,
 which is a very secure protocol describing a third-party loggin pattern.
-        <li>3. Does your software include any other security features? Please describe them here.
-We use OAuth technology in user system. So user can log in with their GOOGLE account or BAIDU account without telling us password.
-        </li>
-        <li>4. Does your software let the user create a design by choosing parts/genes from a list/database, such as the Registry? If so, which lists/databases are included? Is there any restriction on which parts/ genes the user can choose?
+         </p>
+          <h4>3. Does your software include any other security features? Please describe them here. </h4>
+          <p>
+          We use OAuth technology in user system. So user can log in with their GOOGLE account or BAIDU account without telling us password.
+        </p> 
+       <h4> 4. Does your software let the user create a design by choosing parts/genes from a list/database, such as the Registry? If so, which lists/databases are included? Is there any restriction on which parts/ genes the user can choose?</h4>
+        <p> 
 Yes, user can use database which built by our team to assist themself create a design. The database we build is the result of merging and reforming parts of KEGG,RegulonDB,Uniport.
-        </li>
-        <li>5. Does your software allow users to write new data into any public lists or databases? If so, do you check the new data for errors before allowing it to be written?
+         </p>
+         <h4>5. Does your software allow users to write new data into any public lists or databases? </h4>
+          <p>If so, do you check the new data for errors before allowing it to be written?
 Yes, user can upload their data to our database anytime. Yes, we will check validation and format of data before they be written in backend.
-        </li>
-        <li>6. Does your software include any other features that encourage the user to create safe designs? Please describe them here.
-No
-        </li>
-        <li>7. Is your team also doing biological work in a wet lab ?
-No
-
-        </li>
-   
-        <p></p>
+         </p>
+          <h4>6. Does your software include any other features that encourage the user to create safe designs?Please describe them here. </h4>
+         <p>No</p>
+        
+        <h4>7. Is your team also doing biological work in a wet lab ? </h4>
+        <p>No</p>
 
         <h4>Collaboration</h4>
       <div class="underline-small">
