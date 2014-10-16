@@ -23,11 +23,11 @@ in synthetic biology. However, scientists are often faced with
 many unpredictable problems when carrying out experiments. 
 Each kind of biological substance is inextricably linked to the 
 biological environment to which it belongs, so we have to consider 
-a question: Can we attain the desired goal, if we simply follow the traditional idea of synthetic biology and avoid the problem merely by engineering?
+a question: Can we attain the desired goal, if we simply follow the traditional ideas of synthetic biology and avoid the problem merely by engineering?
           </p>
           <p>
             A synthetic biologist, Chris Voigt, has successfully transferred a
-switching system(Toggle Switch), which usually works in the Bacillus 
+Toggle Switch, which usually works in the Bacillus 
 subtilis, into E. coli. Unfortunately, it did not function properly. In 
 fact, in experiments, due to the unexpected interactions between 
 BioBrick and the host, it is very common that the designed path do 
