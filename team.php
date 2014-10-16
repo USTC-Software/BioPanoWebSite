@@ -184,6 +184,13 @@ top: 0;
               </div>
         </li>
         
+        <li class ="profilewrap">
+              <img src="img/clf.jpg" alt="Haiyan Liu">
+              <div class ="nameplate"><a href="#">Chen Lingfan</a></div>
+              <div class = "details"><img style="width:160px" src="img/clf.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
+              </div>
+        </li>
+        
  </ul>
  <h4>Instructors & Advisors</h4>
       <div class="underline-small"></div>
