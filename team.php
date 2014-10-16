@@ -112,7 +112,7 @@ top: 0;
           <li class ="profilewrap">
               <img src="img/ltx.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Lin Taixing</a></div>
-              <div class = "details"><img style="width:160px" src="img/ltx.jpg" alt="Haiyan Liu"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
+              <div class = "details"><img style="width:200px" src="img/ltx.jpg" alt="Haiyan Liu"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
               </div>
          </li>
           <li class ="profilewrap">
