@@ -50,7 +50,7 @@ top: 0;
 }
 #pop_up_content{
         height:100%;
-        width:96%;
+        width:100%;
         overflow-y:auto;
         padding-left:7px;
 }
@@ -69,12 +69,12 @@ top: 0;
         font-size:100%;
 }
 #pop_up_close{
-        position:relative;
+        position:absolute;
         z-index:9999;
         color:grey;
         font-family:Calibri;
-        float:right;
-        margin:-3px 5px 6px;
+        right: 1em;
+       /* margin:-3px 5px 6px;*/
         cursor:pointer;
         font-size:25px;
 }
@@ -174,44 +174,74 @@ top: 0;
 
 
       <div>
-       <li>
-        <img src="img/G.png">
-        <p>刘海燕，教授，博士生导师。1990年本科博士毕业于中国科学技术大学生物系。1996年博士毕业于中国科学技术大学，获郭沫若奖。1993-1995年作为联合培养研究生在瑞士苏黎世高等理工学院物理化学实验室学习。1998-2000年在杜克大学和北卡罗来纳大学博士后。现为我校生命科学学院教授、博士生导师。在生物分子计算机模拟与设计方法和酶催化模拟领域发表研究论文六十余篇。2000年入选中国科学院“引进国外杰出人才”项目。2001年获“国家杰出青年基金”资助。2004年获安徽省青年科技奖。</p>
-        <p>实验室主页：http://biocomp.ustc.edu.cn/</p>
-        <h4>主要研究兴趣：</h4>
-        <li>1) 蛋白质空间结构和动力学的计算机模拟方法与应用；</li>
-        <li>2) 蛋白质设计理论与实验方法及其在合成生物学中的应用。</li>
-       </li>
-       <li>
-        <img src="img/H.png">
-        <p>梁治，博士，特任副研究员。2000年毕业于中国科学技术大学生命科学学院，获生物学学士学位和电子与信息工程双学士学位。2006年毕业于中国科学技术大学生命科学学院蛋白质晶体学实验室，获博士学位。2007年至2012年在中国科学技术大学生命科学学院系统生物学实验室从事系统生物学方面的博士后研究。博士后期间先后获得中国博士后科学基金二等资助和自然科学青年基金资助。2012年任中国科学技术大学生命科学学院特任副研究员。研究成果发表于Nucleic Acids Res, Bioinformatics, BMC Bioinformatics, J Biol Chem等期刊。</p>
-        <h4>主要研究兴趣：</h4>
-        <li>1. 生物分子网络的拓扑和动力学研究及相关的实验方法发展</li>
-        <li>2. 非编码RNA的计算系统生物学研究</li>
-        <li>3. 结构生物信息学</li>
-        <li>4. 疾病（癌、病毒-宿主相互作用）的系统生物学研究</li>
-        <li>5. 大规模生物学数据的建模和分析方法及工具 </li>
-      <li>
-        <img src="img/I.png">
-        <p>洪泂, 博士，副教授。出生于安徽省。1989年至1993年就读于安徽师范大学生命科学学院获学士学位。1993年至1996年就读于北京师范大学生命科学学院，获硕士学位，2000年至2003年就读于日本京都大学，获博士学位。1996-2003年在北京师范大学生命科学学院工作，2003年至2006年在京都大学和石川县立大学作博士后研究，2006年至2008年在美国弗吉尼亚理工大学作博士后研究。 2008年4月作为中国科技大学优秀人才引进，现为生命科学学院副教授。共发表论文22篇。其中SCI学术期刊发表研究论文12篇。</p>
-      </li>
-      <li>
-        <img src="img/J.png">
-        <p>金帆：毕业于中国科学技术大学应用化学系。2007年毕业于香港中文大学化学系高分子物理化学专业，获理学博士学位。</p>
-        <li> 2007年6月-2009年1月   香港中文大学化学系，博士后</li>
-        <li> 2009年1月-2009年11月  美国伊利诺伊斯州大学香槟分校材料系，博士后</li>
-        <li> 2009年11月-2011年8月  美国加州大学洛杉矶分校生物工程系，博士后,合肥微尺度物质科学国家实验室Bio-X 研究部</li>
-        <li> 2011年8月-现今  中国科学技术大学高分子材料科学工程系,中国科学院软物质化学重点实验室，特任教授</li>
-        <h4>目前研究方向:</h4>
-        <li>1.聚电解质、胶体粒子在油水界面的排列和组装</li>
-        <li>2.抗菌多肽和磷脂双分子膜的相互作用</li>
-        <li>3.活细胞图像和活细胞的显微操作</li>
-        <li>4.生物大分子、超分子组装体的表征和其在药物载体和基因转染中的应用</li>
-        <li>5.细菌菌落，微生物社会学（生物膜的信号传递，运动行为，社会行为）</li>
-      </li>
+    <ul class="large-block-grid-6 medium-block-grid-4 small-block-grid-2 text-center">
+          <li class ="profilewrap">
+              <img src="img/G.png" alt="Haiyan Liu">
+              <div class ="nameplate"><a href="#">Haiyan Liu</a></div>
+              <div class = "details"><img style="width:160px" src="img/G.png" alt="Haiyan Liu" >
+            <p><b>Email:</b>hyliu@ustc.edu.cn</p>
+            <p><b>Brief Intro:</b>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland). From 1998 to 2000 he was post-doctoral research associate at Department of Chemistry, Duke University (USA) and Department of Biochemistry and Biophysics UNC-Chapel Hill (USA). Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC.</p>
+              </div>
+        </li>
 
 
-       </li>
+             <li class ="profilewrap">
+              <img src="img/H.png" alt="Zhi Liang">
+              <div class ="nameplate"><a href="#">Zhi Liang</a></div>
+              <div class = "details"><img style="width:160px" src="img/H.png" alt="Zhi Liang" >
+            <p><b>Email:</b>liangzhi@ustc.edu.cn</p>
+            <p><b>Brief Intro:</b>Liang Zhi, Ph.D., Associate Professor Extraordinary . 2000 graduated from the school of Life Sciences in the University of Science and Technology of China, received bachelor's degree in biology and electronics and information engineering dual degree. 2006 graduated from the school of Life Sciences in the University of Science and Technology of China protein crystallography laboratory , PhD. From 2007 to 2012 in the school of Life Sciences in the University of Science and Technology of China Systems Biology Laboratory in systems biology postdoctoral research. Postdoctoral period has won China Postdoctoral Science Foundation funded second and Natural Science Foundation funding. 2012 University of Science and Technology of China Extraordinary Life Sciences Research Associate . Research results published on Nucleic Acids Res, Bioinformatics, Bioinformatics, J Biol Chem.</p>
+              </div>
+        </li>
+
+           <li class ="profilewrap">
+               <img src="img/I.png">
+              <div class ="nameplate"><a href="#">Jiong Hong</a></div>
+              <div class = "details"><img style="width:160px" src="img/I.png" alt="Jiong Hong" >
+              <p>Professor, School of Life Sciences University of Science & Technology of China</p>
+              <p>
+                <b>Email:</b> hjiong@ustc.edu.cn<br /><br />
+                <b>Brief Intro:</b>Jiong Hong was born in Anhui Province, China. He received his BS degree in 1993 from Anhui Normal University, MSc degree in 1996 from Beijing Normal University, and Ph.D degree in 2003 from Kyoto University, all in Life Sciences. From 2006 to 2008, he did post-doctoral research in Virginia Tech University, USA. Since 2008, he has been introduced to the USTC as talented.
+              </p>
+              </div>
+        </li>
+
+
+       <li class ="profilewrap">
+              <img src="img/J.png" alt="Fan Jin">
+              <div class ="nameplate"><a href="#">Fan Jin</a></div>
+              <div class = "details"><img style="width:160px" src="img/J.png" alt="Fan Jin" >
+
+ <br /><br />
+<p>1997.07-2002.07 B.S., Student, Department of Applied Chemistry, University of Science & Technology of China, P. R. China.
+Degree awarded: B.S. in chemistry, 07/2002</p>
+ 
+<p>2003.08-2007.06 Ph.D. Candidate, Department of Chemistry, The Chinese University of Hong Kong.
+Degree awarded: Ph.D in chemistry, 06/2007</p>
+                                                                                                        
+<p>2002.07-2003.07 R.A.,  The Hefei National Laboratory of Physical Science at Microscale, Department of Chemical Physics, University of Science & Technology of China, P. R. China.</p>
+ 
+<p>2007.06-2009.01 Postdoctoral Associate,  Department of Chemistry, The Chinese University of Hong Kong.</p>
+ 
+<p>2009.01-2009.11 Postdoctoral Associate,   Department of Materials Science and Engineering, University of Illinois at Urbana Champaign.</p>
+ 
+<p>2009.11-2011.8 Postdoctoral Associate,  Department of  Bioengineering, California Nanosystems Institute, University of California, Los Angeles. </p>
+ 
+<p>2011.8-present Professor,  Department of Polymer Materials Science and Engineering, University of Science and Technology of China,  CAS Key Lab of Soft Matter Chemistry. </p>
+ 
+<h4>Research Interests</h4>
+ <p>Polyelectrolyte and colloidal particles in the oil-water interface. </p>
+<p>Interaction between Antibiotic peptides and lipids membrane. </p>
+<p>Living cell image and living cell micro-manipulation.</p>
+<p>Biological macromolecules, characterization of supramolecular assembly and its applications in drug delivery and gene transfection. </p>
+<p>Bacterial communities. (Ex: signaling, motility, social organization in biofilms)</p>
+
+
+
+              </div>
+        </li>
+        </ul>
+
       </div>
 
 
@@ -219,15 +249,28 @@ top: 0;
       <div class="underline-small">
         
       </div>
-       <p>感谢德意志银行，中科大校友基金会和中科大教务处的资金支持，有了他们，我们才得以完成比赛；</p>
-       <p>感谢Regulon DB,KEGG,Uniprot，biobrick和NCBI的数据支持，有了他们的数据及api才完善我们的软件生物数据；</p>
-       <p>感谢Pro刘海燕，梁治，金帆，洪炯的平时课题指导,有了他们建议指导，我们的课题才得以进一步深化改进；</p>
-       <p>感谢廖晨等学长参与软件的使用，评价和推广，他们指出软件的许多不足与bug。</p>    
+      <div style="line-height:200%">
+       <li>
+       Thanks for financial assistance from Deutsche Bank, USTCIF and USTC Teaching Affair Office. Only with their help could we finish the competition;
+       </li>
+         <li>
+        Thank data from RegulonDB, KEGG, Uniprot and NCBI. Only with their data and apis could we refine our database; 
+        </li>
+         <li>
+        Thank project guidance from Haiyan Liu, Zhi Liang, Fan Jin and Jiong Hong.
+         </li>
+         <li>
+        Only with their guidance could our project be improved and deepened; 
+        </li>
+         <li>
+        Thank Chen Liao for participating in the use, evaluation and popularization of Biopano.
+        </li>
+         <li>
+         He pointed out many deficiencies and bugs of our software. 
+       </li>
+       </div>
      </div>
-
-   
-
-  </div>
+    </div>
 
 <?php
 

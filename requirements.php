@@ -9,42 +9,28 @@ require_once("head.html")
      <div class="row large-12 columns large-centered">
        <h4>Medals</h4>
       <div class="underline-small">
-        
       </div>
-      <div>
-        <li>
-         <h5>Bronze. The following 4 goals must be achieved:</h5>
-         <p>Register the team, have a great summer, and have fun attending the Jamboree in Boston.</p>
-         <p>Create and share a description of the team's project via the iGEM wiki.</p>
-         <p>Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.</p>
-         <p>Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.</p>
-         <p>您可以直接输入Standard Parts的编号，进而将其序列与我们数据库中的序列进行对比，分析其与目标生物体中现有调控关系的联系</p>
-        </li>
-        <li>
-          <h5>Silver: In addition to the Bronze Medal requirements, the following 4 goals must be achieved:</h5>
-          <p>！Demonstrate the relevance of your development for Synthetic Biology based on standard Parts.</p>
-          <p>通过Part序列与我们数据库中的序列同源性，一定程度上可以预测将之导入目标生物体中可能造成的影响。</p>
-          <p>!Provide a comprehensive and well-designed User Guide. (Be creative! An instructional video may work as well.)</p>
-          <p>link用户手册</p>
-          <p>!Provide detailed API documentation, preferably, automatically built from source code documentation (use tools like doxygen, yard, rdoc, naturaldocs, etc).</p>
-          <p>!Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.</p>
-        </li>
-        <li>
-          <h5>Gold: In addition to the Bronze and Silver Medal requirements, two additional goals must be achieved:</h5>
-          <p>！Provide a convincing validation, testing the performance of the development -- experimentally (can be outsourced) or by other teams and users. Note, even if the algorithm or tool turns out not to work that well, the Gold requirement is fulfilled if the test is good and the analysis convincing. Validation may include: preferably experiments, informatics analysis (complexity, run time) of an algorithm, or user studies.</p>
-        </li>  
-        <li>
-          <h5>And the second goal can be any one of the following:</h5>
-          <p>！Make your software interact / interface with the Registry.</p>
-          <p>！Re-use and further develop previous iGEM software projects (or parts thereof) or use and/or improvement of existing synthetic biology tools or frameworks.</p>
-          <p>复用改进2013年的代码用于同源性比对</p>
-          <p>！Develop a well documented library or API for other developers (rather than “only” a stand-alone app for end users.)</p>
-          <p>！Support and use the SBOL and / or SBOLv standard.</p>
-          <p>我们软件完美支持文件格式转为sbol</p>
-          <p>iGEM projects involve important questions beyond the bench, for example relating to (but not limited to) ethics, sustainability, social justice, safety, security, or intellectual property rights. Describe an approach that your team used to address at least one of these questions. Evaluate your approach, including whether it allowed you to answer your question(s), how it influenced the team’s scientific project, and how it might be adapted for others to use (within and beyond iGEM). We encourage thoughtful and creative approaches, and those that draw on past Policy & Practice (formerly Human Practices) activities.</p>
-        </li>  
+     <h4>Bronze. The following 4 goals must be achieved:</h4>
+     <p>
+     ! Register the team, have a great summer, and have fun attending the Jamboree in Boston.
+     </p>
+     <p>
+   !Create and share a description of the team's project via the iGEM wiki.
+   </p>
+     <p>
+   !Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.
+   </p>
+     <p>
+   ?Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.
+   </p>
+    <p>
+     You can directly enter the number of numberStandard Part, then BioPano compare its sequence with the sequences in our database, analyze its existing regulatory relations contact with the target organism
+</p>
+    
+  <h4>Silver: In addition to the Bronze Medal requirements, the following 4 goals must be achieved: </h4>
 
-      </div>
+
+
 
         <h4>Safety</h4>
         <div class="underline-small">   </div>
