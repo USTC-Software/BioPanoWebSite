@@ -169,10 +169,18 @@ top: 0;
         </li>
         
         </li>
-               <li class ="profilewrap">
+        
+        <li class ="profilewrap">
               <img src="img/fyc.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Fei Yicheng</a></div>
               <div class = "details"><img style="width:160px" src="img/fyc.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
+              </div>
+        </li>
+        
+        <li class ="profilewrap">
+              <img src="img/ctl.jpg" alt="Haiyan Liu">
+              <div class ="nameplate"><a href="#">Chen Tianlong</a></div>
+              <div class = "details"><img style="width:160px" src="img/ctl.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
               </div>
         </li>
         
