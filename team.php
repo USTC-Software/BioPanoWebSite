@@ -161,7 +161,15 @@ top: 0;
               <div class = "details"><img style="width:160px" src="img/hlx.jpg" alt="Haiyan Liu"  align="left"><p>Where there is a will, there is a way.</p>
               </div>
         </li>
-               <li class ="profilewrap">
+        
+        <li class ="profilewrap">
+              <img src="img/ycp.jpg" alt="Haiyan Liu">
+              <div class ="nameplate"><a href="#">Yu Chuanping</a></div>
+              <div class = "details"><img style="width:160px" src="img/ycp.jpg" alt="Haiyan Liu"  align="left"><p>Please look at me!</p>
+              </div>
+        </li>
+        
+        <li class ="profilewrap">
               <img src="img/zhy.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Zhang Renying</a></div>
               <div class = "details"><img style="width:160px" src="img/zhy.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
