@@ -145,13 +145,10 @@ top: 0;
               <div class = "details"><img style="width:160px" src="img/dcx.jpg" alt="Haiyan Liu"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
               </div>
         </li>
-<<<<<<< HEAD
+      
         
-        
-=======
-        </ul>
->>>>>>> 8ad42ea02b1a6bb987b1c1c7bb49b35267d446bb
-      <h4>Instructors & Advisors</h4>
+ </ul>
+ <h4>Instructors & Advisors</h4>
       <div class="underline-small"></div>
 
 
