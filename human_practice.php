@@ -6,28 +6,18 @@ require_once("head.html")
         <p style="font-size:32px">Human Practice</p>
         
       </div>
-
-      <div class="row large-12 columns large-centered">
-       <h3>iGEM</h3>
-      <div class="underline-small">
-
      <div class="row large-12 columns large-centered">
        <h4>Management</h4>
       <div class="underline-small">
         
       </div>
-        <p>During the entire iGEM project, we adhered to the four elements, iGEM, efficiency, environment and enjoyment. When the project is drawing to a close, we tease out our project management experience according to them and put it online for reference to more people.</p>
+        <p>当然同时，将文件存储在云端也是一种极安全的存储方式，以防你万一把咖啡
+泼在了电脑或稿纸上。</p>
 
         <h4>Biology Cooperation</h4>
       <div class="underline-small">
         
       </div>
-
-
-
-
-
-
         <p>
 - Background（⽣物学家的交流⽅式，研究领域分⽴，影响）<br />
 - 软件合作功能描述（配图，配案例）<br />
