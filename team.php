@@ -165,7 +165,7 @@ top: 0;
         <li class ="profilewrap">
               <img src="img/ycp.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Yu Chuanping</a></div>
-              <div class = "details"><img style="width:160px" src="img/ycp.jpg" alt="Haiyan Liu"  align="left"><p>Please look at me!</p>
+              <div class = "details"><img style="width:160px" src="img/ycp.jpg" alt="Haiyan Liu"  align="left"><p>Do one thing at a time, and do well.</p>
               </div>
         </li>
         
