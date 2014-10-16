@@ -15,26 +15,33 @@ require_once("head.html")
         <p>Designed specifically for biological research, BioPano is a software platform targeted for visualisation of biological relationships as well as cooperative net-building. You can set up your own network of biological relationship by adding information about genetic regulation and metabolic system to the network we already provided for you. Also, the software allows you to explore the links among the substances by just several clicks, and you can even look into the details of the interaction between the exogenous gene and the host. What is even more exciting is that our software will end your loneliness and frustration in research, since it is providing you with cloud cooperating system so that you can view massive amounts of resources in databases, together with build up groups to share information and set up mutual network with others.
         </p>
       
-      <h4 id="m_b">Motivation & Background</h4>
+      <h4 id="motivation">Motivation</h4>
       <div class="underline-small"></div>
         <p>
-          As it is known to all, synthetic biology has achieved remarkable progresses recently. However, it is still facing great challenges.Synthetic biologist Chris Voigt once injected the toggle switch
-successfully works in bacillus subtilis to colibacillus. Nevertheless, it 
-failed to work as expected. In experiment, since the BioBrick interacts 
-with the host environment unexpectedly, it is common that the designed 
-circuit doesn’t work as anticipated.In fact, biological system is involved. Lots of biological parts interact
-with each other in complex ways to support the system to function 
-well. Many biologists try to simplify the model by finding the 
-important regulation modes. However, a myriad of data in various 
-databases makes combing the connection of materials difficult, 
-thus divergent thinking seems even tougher.Meanwhile, people realize that research focus on merely one thing
-cannot explain all biological phenomenon. Connection between c-
-di-GMP Signaling and Quorum Sensing plays a significant role in 
-transporting information in many cells, the study of which may 
-bring our research more inspiration, even enhance the 
-development of the cross biological areas.This is where our primary thought of the software comes from. We
-hope to solve the problems above lucidly by data visualization.
-        </p>
+        In recent years, people has made a lot of remarkable achievements 
+in synthetic biology. However, scientists are often faced with 
+many unpredictable problems when carrying out experiments. 
+Each kind of biological substance is inextricably linked to the 
+biological environment to which it belongs, so we have to consider 
+a question: Can we attain the desired goal, if we simply follow the traditional idea of synthetic biology and avoid the problem merely by engineering?
+          </p>
+          <p>
+            A synthetic biologist, Chris Voigt, has successfully transferred a
+switching system(Toggle Switch), which usually works in the Bacillus 
+subtilis, into E. coli. Unfortunately, it did not function properly. In 
+fact, in experiments, due to the unexpected interactions between 
+BioBrick and the host, it is very common that the designed path do 
+not work as anticipated.
+          </p>
+          <p>
+            In fact, the life system is so complex that there are many sorts of 
+biological substance to support it with complex interations in it. 
+In order to understand a phenomenon, we keep using new and 
+sophisticated methods to refine our research and to explore every 
+detail of life. However, if we widen our perspective, by looking at 
+our research objectives from a more comprehensive perspective, 
+we may have some unexpected discoveries.
+          </p>
     
       <h4 id="features">Features</h4>
       <div class="underline-small">
