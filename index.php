@@ -61,7 +61,7 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Sequences alignment</h2>
+        <h2>Sequences Alignment</h2>
         <img src="/img/pg1.png">
         <p>
        First you can find E.coli K-12 gene that shares deep similar with the injected sequence by Blast method. We have reason to believe that the injected genes are probably regulated in the same way in the host body.
@@ -95,7 +95,7 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Link finder</h2>
+        <h2>Link Finder</h2>
         <img src="/img/pg3.png">
         <p>
          If you want to know about the links between two genes, you can select two nodes and find the k-shortest routes connecting them in the database.
@@ -111,7 +111,7 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Details and Reference</h2>
+        <h2>Details And Reference</h2>
 
         <p>You can double-click a node to see the detailed information of it. You can also read Papers through the network conveniently.</p>
         <a href="#0" class="cd-read-more">Read more</a>

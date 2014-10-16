@@ -48,7 +48,7 @@ we may have some unexpected discoveries.
       </div>
         <p>Our software has many marvelous features, with which your biology research will become extremely easy and joyful.</p>
         <ul>
-        <li>
+       
               <h5>1. Expansion of single node</h5>
                 <div class="row">
                     <div class="large-6 columns"><p>In Biopano, every biology part of E.coli K-12 will be displayed as a node of different types and regulation relationship 
@@ -58,7 +58,7 @@ Nodes are connected to each other by all kinds of relationship, so users can see
 such as LacI Operon. </p></div>
                     <div class="large-6 columns"><img src="img/feature-a.png"></div>
                 </div>
-</div>
+
                 <div class="row">
                     <div class="large-6 columns"><img src="img/feature-b.png"></div>
                     <div class="large-6 columns"><p>However, since there are so many biological parts connected to each other in various convoluted, 
@@ -68,9 +68,9 @@ even interfere their thoughts. So you can choose to expand the nodes in a way yo
 E.coli K-12, satisfies your curiosity and helps you discover unknown biological field.</p></div>
                 </div>
                 <div class="underline-tiny"></div>
-        </li>
+       
 
-        <li>
+       
                 <h5>2. Link Finder</h5>
                    <div class="row">
                     <div class="large-6 columns"><p>You can input two nodes that seem irrelevant, such as gene A and Transcription FactorB, and the software will 
@@ -80,8 +80,7 @@ you can set a specific number k, Biopano will search and show the k shortest rou
                     </div>
                     <div class="underline-tiny"></div>
                 
-        </li>
-        <li>
+        
                 <h5>3. BLAST</h5>
                 <div class="row">
                     <div class="large-6 columns"><img src="img/feature-e.png"></div>
@@ -92,9 +91,7 @@ By BLAST analysis, it helps you design correct gene route with appropriate BioBr
                 </div>
                   <div class="underline-tiny"></div>
 
-                   
-        </li>
-        <li>
+          
                   <h5>4. Data Sharing</h5>
                   <p>Hence, while offering various functions, Biopano also serves as a cooperative network building platform. When you create a project, you can add new nodes, name new biological parts and link them with respect to your comprehension to build a brand new net gradually. Meanwhile, Biopano provides log in service. You can sign up with Google or Baidu account and upload your network to the main database to make it more plentiful. Biopano also supports data importing in batch. You can even import data of a species and a database.</p>
        <ul class="small-block-grid-2">
@@ -102,18 +99,17 @@ By BLAST analysis, it helps you design correct gene route with appropriate BioBr
           <li><img src="img/feature-g.png"></li>
           </ul>
           <div class="underline-tiny"></div>
-        </li>
-        <li>
+       
                   <h5>5. Details and Reference</h5>
                   <p>When you have already got the entire view and want to know more about the details, double-click the nodes and arcs and the details will be shown. More surprisingly, Biopano supports literature reading in the network. You can view literature corresponding to every node and arc along any gene route in the network, and you will understand how the nodes in the net are associated with each other in depth. If you cast doubt on the reliability of our database, you can verify your thought with authoritative literature.</p>
-        </li>
+     
         </ul>
       <h4 id="features">Demo</h4>
       <div class="underline-small">
       </div>
       <div>
         <h4>Next we will demonstrate some common modules of E.coli k-12:</h4>
-        <li>
+     
           <h5>1, Lac Operon: When you input LacZYA, a Transcription Unit(TU) of Lac Operon and Expand the node:</h5>
           <p>You will see four promoters, acZp1, lacZp2, lacZp3 and lacZp4 as
 upstream sequences and three structure genes, lacZ, lacY and lacA as 
@@ -140,12 +136,11 @@ displayed in full screen.</p>
           <li><img src="img/D.png"></li>
           <li><img src="img/E.png"></li>
           </ul>
-        </li>
-        <li>
+       
           <h5>2, Following the same steps, we can also get the regulation network of
 the Operon Trp.</h5>
           <img src="img/F.png">
-        </li>
+       
 
       </div>
 
