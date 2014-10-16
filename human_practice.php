@@ -6,11 +6,8 @@ require_once("head.html")
         <p style="font-size:32px">Human Practice</p>
         
       </div>
-
-     <div class="row large-12 columns large-centered">
-       <h3>Managementssssss</h3>
-      <div class="underline-small">
-
+      <div class="row large-12 columns large-centered">
+        <h3>Managementssss</h3>
      <div class="row large-12 columns large-centered">
        <h4>Management</h4>
       <div class="underline-small">
@@ -41,6 +38,8 @@ require_once("head.html")
 - 各队反馈<br />
         </p>
   </div>
+  </div>
+
 </div>
 <?php
 
