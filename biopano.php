@@ -170,19 +170,17 @@ the Operon Trp.</h5>
        <h4>Future Work</h4>
       <div class="underline-small"></div>
       <div>
-       <p>您目前所看到的biopano只是最初的版本，有很多事情我们希望完成，但由于时间所限，我们不能在比赛截止日期前完成这些。我们将会在未来完成这些。</p>
-       <li>
-        <p>1. 集成更多数据库。目前biopano只有三家数据库合并而成的E.coli顶级数据库，将来我们将会加入更多的物种的调控关系和代谢关系数据。为此，我们将会集成更多的相关数据库。而且我们的数据会和所有导入的数据库同步更新。</p>
-       </li>
-       <li>
-        <p>2. 提升数据质量。随着用户的增多，用户将会建立更多的小型数据库，而我们顶级数据库将会选择性吸取这些最新的研究成果，改进顶级数据库数据质量。我们也会公开这些小型数据库数据，支持其他生物学家的工作。</p>
-      </li>
-      <li>
-        <p>3. 增强前端分析功能。目前，我们提供的前端分析关系只有寻找联系这一项，未来我们将加入更实用的分析功能，如聚类分析，连通度计算等。</p>
-      </li>
-      <li>
-        <p>4. 增强多格式文件支持。目前，我们提供的前端文件格式转换只有xml与sbol，将来我们将支持更多的文件格式，与其他软件无缝兼容。</p>
-      </li>
+       <h4>It is undeniable that we still have a lot to do to improve Biopano in many aspects in order to make it even better. We need to think more and develop it as we can. In the future, we hope to:
+</h4>
+       
+        <p>1. Integrate more data in it. Currently, Biopano only integrates data of E.coli k-12 from Regulon DB, KEGG and Uniprot, and our data in regulatory interaction lack accurate numerical data to indicate its strength. etc. Therefore, not only will we update the existing data in the original species, we will also make complement of high-throughput data through other databases and papers, as well as expand information of other species, so that more biological researchers can benefit from our software.</p>
+     
+        <p>2. Normalize users' rights, improve quality of data. With the increase of the number of users, the data synchronized every day become not only massive, but also in many different forms, and some of them have nevitable errors or redundant information, or there may be different kinds of comprehension of certain regulatory relations. So we want the machine to automatically recognize the validity of the data submitted by the user, and establish a evaluation criteria of credibility. Thus, only those reliable users will be selected, and only their data can be synchronized to the main database, and the redundancy or errors will be eliminated, and they also continue to enhance the credibility and value of the main database.</p>
+    
+        <p>3. Enhance network analysis functions. When we add the high-throughput kinetic data for biological networks, we can build a variety of mathematical models on the network and carry out quantitative simulation analysis. For example, we can put the nodes that are closely related to one another together in a group. We can make out software automatically arrange the modules for different functions in the organism. We can even do things that are analogic to those in an electric circult. The network provides the entrance and the exit of the signals, and all you need to do is to enter the target product and we will help you find the substance needed for synthesizing it. </p>
+   
+        <p>4. Supports more file formats. Currently, the file formats we provide to the users are only XML and SBOL. In the future we will make our software support more file formats, such as sif, EMBL, etc., and we will develop its ability to be capable with other biological softwares such as cytoscape and Netscience, seamlessly. You can import and export any file that are constantly used. From this aspect, we will greatly broadens the scope of the functions of the software.</p>
+      
       </div>
      </div>
 
