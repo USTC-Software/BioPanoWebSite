@@ -14,10 +14,10 @@ require_once("head.html")
       <div>
         <li>
          <h5>Bronze. The following 4 goals must be achieved:</h5>
-         <p>! Register the team, have a great summer, and have fun attending the Jamboree in Boston.</p>
-         <p>!Create and share a description of the team's project via the iGEM wiki.</p>
-         <p>!Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.</p>
-         <p>?Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.</p>
+         <p>Register the team, have a great summer, and have fun attending the Jamboree in Boston.</p>
+         <p>Create and share a description of the team's project via the iGEM wiki.</p>
+         <p>Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.</p>
+         <p>Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.</p>
          <p>您可以直接输入Standard Parts的编号，进而将其序列与我们数据库中的序列进行对比，分析其与目标生物体中现有调控关系的联系</p>
         </li>
         <li>
@@ -47,7 +47,7 @@ require_once("head.html")
       </div>
 
         <h4>Safety</h4>
-        <div class="underline-small">
+        <div class="underline-small">   </div>
         <li>1. Are you using the iGEM Software repository at github.com/igemsoftware? If you have instead stored your code elsewhere, please explain where and why you have put it there. If your code is not in the iGEM repository, a re you using any version control system such as Git, CVS, or SVN?
 Yes, we use the iGEM Software repository at github.com/igemsoftware.
         </li>2. Does your software store any private data supplied by the user? (For example: the user's name and email address, passwords, DNA sequences, circuit designs, etc.) If yes, please describe what kind of data is stored. If no, skip the rest of this question and move on to question 3.
@@ -70,7 +70,7 @@ No
 No
 
         </li>
-      </div>
+   
         <p></p>
 
         <h4>Collaboration</h4>
