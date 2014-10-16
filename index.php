@@ -61,10 +61,10 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Homology</h2>
-        <img src="/img/pg2.png">
+        <h2>Sequences alignment</h2>
+        <img src="/img/pg1.png">
         <p>
-        First you can find E.coli K-12 gene that shares deep homology with the injected sequence by Blast method. We have reason to believe that the injected genes are probably regulated in the same way in the host body.
+       First you can find E.coli K-12 gene that shares deep similar with the injected sequence by Blast method. We have reason to believe that the injected genes are probably regulated in the same way in the host body.
         </p>
         <a href="#0" class="cd-read-more">Read more</a>
 
@@ -80,8 +80,8 @@ require_once("head.html")
 
       <div class="cd-timeline-content">
         <h2>Expand</h2>
-        <img src="/img/pg3.png">
-        <p>When you have already found highly homologous gene of the target body, you can use “Expand” to dynamically show the network and find the role the genes plays in the biological metabolism network.</p>
+        <img src="/img/pg2.png">
+        <p>When you have already found highly similar gene of the target body, you can use “Expand” to dynamically show the network and find the role the genes plays in the biological metabolism network.</p>
         <a href="#0" class="cd-read-more">Read more</a>
         <!--
         <span class="cd-date">Jan 18</span>
@@ -95,10 +95,10 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Link</h2>
-        <img src="/img/pg2.png">
+        <h2>Link finder</h2>
+        <img src="/img/pg3.png">
         <p>
-          If you want to know about the relationship between inject gene and host gene, you might find the K-short function useful. You can select two nodes and find the k shortest routes connecting them in the database.
+         If you want to know about the links between two genes, you can select two nodes and find the k-shortest routes connecting them in the database.
         </p>
         <a href="#0" class="cd-read-more">Read more</a>
         
@@ -111,8 +111,9 @@ require_once("head.html")
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
-        <h2>Information</h2>
-        <p>You can double-click a node to see the detailed information of it. You can use Paper method to read literature in the software conveniently.</p>
+        <h2>Details and Reference</h2>
+
+        <p>You can double-click a node to see the detailed information of it. You can also read Papers through the network conveniently.</p>
         <a href="#0" class="cd-read-more">Read more</a>
         
       </div> <!-- cd-timeline-content -->
@@ -125,7 +126,8 @@ require_once("head.html")
 
       <div class="cd-timeline-content">
         <h2>Cloud</h2>
-        <p>When you discover new regulation by literature or your own research, you can upload it to our database to share.</p>
+        <img src="/img/pg5.png">
+        <p>When you discover new regulation by literature or your own research, you can create a project to build a new network and upload it to our database to share with others</p>
         <a href="#0" class="cd-read-more">Read more</a>
        
       </div> <!-- cd-timeline-content -->
