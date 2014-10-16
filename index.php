@@ -75,7 +75,7 @@ require_once("head.html")
 
     <div class="cd-timeline-block top-15" >
       <div class="cd-timeline-img cd-movie">
-        <img src="img/cd-icon-movie.svg" alt="Movie">
+        <img src="img/cd-icon-picture.svg" alt="Movie">
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
@@ -107,7 +107,7 @@ require_once("head.html")
 
     <div class="cd-timeline-block" >
       <div class="cd-timeline-img cd-location">
-        <img src="img/cd-icon-location.svg" alt="Location">
+        <img src="img/cd-icon-picture.svg" alt="Location">
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
@@ -121,7 +121,7 @@ require_once("head.html")
 
     <div class="cd-timeline-block top2-10" >
       <div class="cd-timeline-img cd-location">
-        <img src="img/cd-icon-location.svg" alt="Location">
+        <img src="img/cd-icon-picture.svg" alt="Location">
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
@@ -135,7 +135,7 @@ require_once("head.html")
 
     <div class="cd-timeline-block top2-10" >
       <div class="cd-timeline-img cd-movie">
-        <img src="img/cd-icon-movie.svg" alt="Movie">
+        <img src="img/cd-icon-location.svg" alt="Movie">
       </div> <!-- cd-timeline-img -->
 
       <div class="cd-timeline-content">
