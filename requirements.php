@@ -80,15 +80,13 @@ Yes, user can upload their data to our database anytime. Yes, we will check vali
       <div class="underline-small">
         
       </div>
-        <p>Background（生物学家的交流方式，研究领域分立，影响</p>
-        <p>软件合作功能描述（配图，配案例）</p>
-        <p>展望</p>
-        <p>意义（增进联系，类比wikipedia，成果分享）</p>
-        <p>用户的使用体验</p>
-        <p>组委会提供的Meetup说明</p>
-        <p>活动过程记录、在校学生旁听</p>
-        <p>成果、合工大</p>
-        <p>各队反馈</p>
+      <p>While preparing for iGEM, we always hope we can accomplish more and more people can join this great project. Luckily, by cooperation with others, all these hopes come ture.</p>
+      <li>Collaboration with professors</li> 
+      <p>While completing our project, we encountered all kinds of problems, of which some could hardly solve by ourselves. We solved them by discussing and cooperating with many professors of USTC. At the same time, we knew more about the original thoughts of synthetic biological researchers. So we tried to combine their needs and our project, hoping we could also help them. Now, we believe that we realized our original intention.</p>
+        <li>Collaboration with Chinese iGEMers</li>
+        <p>One reason why iGEM competition is unforgettable is that it makes us know more like-minded people. This year, we hoped iGEM teams could communicate more with each other, so we organized iGEM meetup this summer. Teams from China got familiar through the meetup, and we kept in touch after it. We not only got to know each other by frequent communication, but helped each other with their problems to bring about good results for us all as well.</p>
+        <li>Collaboration with HFUT_CHINA</li>
+        <p>While enjoying iGEM, we hoped more people could join us. This year, HFUT_CHINA sent a team for iGEM for the first time. As a team new to iGEM, it would surely encounter more problems. As their neighbor, we kept in touch with them and did everything we could to help them with their project. Through the course, we got to know a lot of people enthusiastic about iGEM of our age. We are glad that they also join iGEM.</p>
   </div>
 </div>
 <?php
