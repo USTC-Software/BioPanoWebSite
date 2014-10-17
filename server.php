@@ -15,11 +15,12 @@ $(function () {
                                                                                     
         var chart,str="<br />",info=[],status=[];
            for(h in data2){
-     
+                            if(data2[h].status=="up"){
                               info.push({
                                     name:data2[h].database_center+"@"+data2[h].location,
                                     data:data2[h].history
                                 });
+                            }
                               status.push({
                                     name:data2[h].database_center+"@"+data2[h].location,
                                     status:data2[h].status,
