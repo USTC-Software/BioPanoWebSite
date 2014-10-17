@@ -1,5 +1,5 @@
 <?php
-require_once("./Team:USTC-Software/head.html")
+require_once("head.html")
 ?>
 <style type="text/css">
   .wiki{
@@ -40,5 +40,5 @@ require_once("./Team:USTC-Software/head.html")
       
 <?php
 
-require_once("./Team:USTC-Software/foot.html")
+require_once("foot.html")
 ?>
