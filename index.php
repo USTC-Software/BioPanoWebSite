@@ -1,6 +1,28 @@
 <?php
 require_once("head.html")
 ?>
+<script type="text/javascript">
+function checkOS(){
+    var OSName="unknownOS";
+    if (navigator.appVersion.indexOf("Win") != -1) OSName = "win";
+    if (navigator.appVersion.indexOf("Mac") != -1) OSName = "mac";
+    if (navigator.appVersion.indexOf("Linux") != -1 || navigator.userAgent.indexOf("Linux") != -1 || navigator.userAgent.indexOf("Unix") != -1) OSName = "linux";
+    return OSName;
+}
+
+function downloadFile(OSName) {
+    if(typeof(downloadFile.iframe) == "undefined") {
+          downloadFile.iframe = document.createElement("iframe");
+          document.body.appendChild(downloadFile.iframe);
+    }
+    if(OSName == "Win")
+    	downloadFile.iframe.src = "http://www.biopano.org/biopano.exe";
+    else if(OSName == "Mac")
+    	downloadFile.iframe.src = "http://www.biopano.org/biopano.air";
+    downloadFile.iframe.style.display = "none";
+}
+
+</script>
 <style type="text/css">
   .wiki{
     background-color: #434343;
@@ -43,7 +65,7 @@ require_once("head.html")
 </div>
 
 <div style="position: relative;" class="text-center ">
-	<div  class="button" style="margin: 1em 0;color:#fff;font-size:3em;background-color: #9DACBD;">
+	<div  class="button" onclick="downloadFile(checkOS())" style="margin: 1em 0;color:#fff;font-size:3em;background-color: #9DACBD;">
 		Download Now !
 	</div>
 </div>
