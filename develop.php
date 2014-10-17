@@ -32,7 +32,7 @@ require_once("head.html")
           <p>Our server has automated deployment capabilities. Server-side applications are bound with the Product branch of Git. All codes pushed to the Product branch will be deployed to many servers over the world in ten seconds. In order to prevent fault codes from being deployed to the servers by mistake, all the testing branches will be deployed to the testing server real-timely to be tested by developers.</p>
 
           <h5>Unit Testing:</h5>
-          <p>Our server has automated deployment capabilities. Serverside applications are bound with the Product branch of Git. All codes pushed to the Product branch will be deployed to many servers over the world in ten seconds. In order to prevent fault codes from being deployed to the servers by mistake, all the testing branches will be deployed to the testing server real-timely to be tested by developers.</p>
+          <p>Our server has automated deployment capabilities. Server-side applications are bound with the Product branch of Git. </p>
 
 			<h4>Alogrithm</h4>
             <div class = "underline-small"></div>	
