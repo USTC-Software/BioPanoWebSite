@@ -7,27 +7,84 @@ require_once("head.html")
         
       </div>
      <div class="row large-12 columns large-centered">
-       <h4>Medals</h4>
+      <h4>Medals</h4>
       <div class="underline-small">
       </div>
-     <h4>Bronze. The following 4 goals must be achieved:</h4>
-     <p>
-     ! Register the team, have a great summer, and have fun attending the Jamboree in Boston.
-     </p>
-     <p>
-   !Create and share a description of the team's project via the iGEM wiki.
-   </p>
-     <p>
-   !Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.
-   </p>
-     <p>
-   ?Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.
-   </p>
-    <p>
-     You can directly enter the number of numberStandard Part, then BioPano compare its sequence with the sequences in our database, analyze its existing regulatory relations contact with the target organism
-</p>
+      <img src="img/medal/2014USTC-Bronze.png" width="60" height="60" alt="Bronze" ></img>
+     <h4>Bronze</h4>
+     <p> The following 4 goals must be achieved:</p>
+     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+      <h5>
+     Register the team, have a great summer, and have fun attending the Jamboree in Boston.
+     </h5>
+     </p><p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+     Create and share a description of the team's project via the iGEM wiki.
+     </h5>
+       </p><p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+      Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.
+     </h5>
+       </p><p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+     Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.
+     </h5>
+     You can directly enter the precise number of Standard Part, you can get its all types in BioBrick Assistant Windows.
+      <div class="large-6 columns"><img src="img/feature-c.png"></div>
+                    </div>
+       </p>
     
-  <h4>Silver: In addition to the Bronze Medal requirements, the following 4 goals must be achieved: </h4>
+        
+      <img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" ></img>
+     <h4>Silver</h4>
+     <p> In addition to the Bronze Medal requirements, the following 4 goals must be achieved:</p>
+     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+    Demonstrate the relevance of your development for Synthetic Biology based on standard Parts.
+     </h5>
+      </p>
+      <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+    Provide a comprehensive and well-designed User Guide. (Be creative! An instructional video may work as well.)
+     </h5>
+       </p>
+       <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+    Provide detailed API documentation, preferably, automatically built from source code documentation (use tools like doxygen, yard, rdoc, naturaldocs, etc).
+     </h5>
+       </p>
+       <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+    Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.
+     </h5>
+       </p>
+
+       <img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" ></img>
+     <h4>Gold</h4>
+     <p> In addition to the Bronze and Silver Medal requirements, two additional goals must be achieved:</p>
+      <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+   Provide a convincing validation, testing the performance of the development -- experimentally (can be outsourced) or by other teams and users. Note, even if the algorithm or tool turns out not to work that well, the Gold requirement is fulfilled if the test is good and the analysis convincing. Validation may include: preferably experiments, informatics analysis (complexity, run time) of an algorithm, or user studies.
+     </h5>
+       </p>
+       <p>
+         And the second goal can be any one of the following:
+       </p>
+     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+    Make your software interact / interface with the Registry.
+     </h5>
+       </p>
+    <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+    Re-use and further develop previous iGEM software projects (or parts thereof) or use and/or improvement of existing synthetic biology tools or frameworks.
+     </h5>
+       </p>
+     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+    Develop a well documented library or API for other developers (rather than “only” a stand-alone app for end users.)
+     </h5>
+       </p>
 
 
 
