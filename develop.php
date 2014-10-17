@@ -1,3 +1,4 @@
+
 <?php
 require_once("head.html")
 ?>
@@ -45,13 +46,13 @@ require_once("head.html")
           
               <h6>2、MongoDB存储数据内容：</h6>
               <p> Mongodb的存储层次由大到小分别为：数据库（database）、集合（collection）、文档（document）。整体生物数据存储在同一个数据库下，目前命名为igemdata_new。</p>
-              <img src="img/4.jpg">
+              <img src="http://2014.igem.org/wiki/images/1/15/2014ustc-4.jpg">
               <p>其下面分为多个collection，名称分别为node、link、node_ref、link_ref、u_t_r与mongodb自动生成的system.indexes。</p>
-              <img src="img/5.jpg">
+              <img src="http://2014.igem.org/wiki/images/e/e5/2014ustc-5.jpg">
               <p>顾名思义，node和link存储所有生物节点信息和连接信息的数据。而node_ref和link_ref是稍后ref_object架构的产物，在这里简单说就是存储用户对数据库的使用情况。</p>
               <p>而u_t_r存储的是序列比对用到的序列库，在这个库里有序列和数据库内节点的键值对。序列比对匹配后可以快速找到数据库中被匹配到的节点。</p>
               <p>现在数据库中生物节点有51616，边共存储50858，可见是一个关联密集的网络。</p>
-              <img src="img/6.jpg">
+              <img src="http://2014.igem.org/wiki/images/5/58/2014ustc-6.jpg">
           
               <h6>3. ref_object框架</h6>
               <p>这个框架简单来讲，就是将数据公有化，用户私有的是对他们的使用（引用情况）。node里存储的是每一个节点的详细信息，而node_ref里存储不同用户对node里面数据的使用情况。</p>
