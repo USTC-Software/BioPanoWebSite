@@ -4,26 +4,12 @@ require_once("head.html");
 ?>
 <div class="main-content">
      <div class="row large-12 columns large-centered">
-        <p style="font-size:32px">Technology</p>  
+        <p style="font-size:32px">Technology</p>
+        
       </div>
-   
-   
       <div class="row">
         <div class="large-12 columns large-centered">
-			<h3>Frontend</h3>
-			<div class="underline-small"></div>
-			<p>The front is mainly used to display data from the back-end and provide a user-friendly interface. In order to achieve a better display of graphics, and a better user interaction, we choose to use Actionscript3 programming language. The exported .air package can run on any virtual machine which supports Adobe air.</p>    
-      <p></p>
-      <h5>BioBrick Assistant:</h5>
-      <p>BioBrick Assistant will get the BioPart in the form of XML from the official website when the user inputs keywords. Then we extract the important information by using Actionscript XML processing functions in the form of a table.</p>
-      <h5>Google API:</h5>
-      <p>When the user inputs the keyword, it will be searched on Google. Then we parse the returned HTML, and save the title, author, abstract, and URL of the literature, which is convenient for the user.</p>
-      <h5>Layout Algorithm:</h5>
-      <p>1 even layout: First we calculate the border region which the user selected, namely the minimum and maximum of X and Y. So that we can get the height and width of the area. During the process, the number of nodes is gotten. Then we select the value of m and n as below: m, n are integers, m / n is closest to the width / height and m*n is no smaller than the number of the nodes. After m and n are set, the nodes will be arranged that the horizontal interval between horizontally adjacent nodes is width / m, and the vertical interval between vertically adjacent nodes is height / n. 
-2 plasmid arrangement: the arrangement of the radius of the circle size is in proportion to the number of nodes selected. Node will be sorted according to the type and arranged on the circle. 
-3 gravitation-repulsion arrangement: Imagine that we assign each node with a positive charge, those nodes are mutually exclusive, and the repulsive force is inversely proportional to the square of the distance. Imagine that every edge is a spring, the force it applies on the nodes at its ends is proportional to the length of the spring. By calculating the force applied to each node, we can determine the direction and magnitude of its displacement. This process is called an iteration. After fifty times of iteration, all the nodes will be in steady state. We make their positions now their final positions for arrangement. The parameters of gravitation and repulsion are determined by experiments. The advantage of the algorithm is that it can arrange the graph like a tree and reduce the cross of edges greatly to show the relationships among the nodes more lucidly.
-Gravitation-repulsion arrangement algorithm and GPU acceleration: the time complexity of the arrangement algorithm is O(n^2), so it will take a long time if the number of the nodes is large. So we spill the algorithm among several threads (users can still operate while the back end is calculating) and use the powerful ability for floating-point computation and parallel computation of GPU to accelerate the calculation. Taken multi-platform support into consideration, we use opencl as our programming language. The acceleration uses socket communication for data transfer. The front end send the amount of the nodes, the number and position of each node, the amount of the links and the number of nodes each edge connects to the calculation end. The calculation end spill the computation that the computation of each node is done in a single thread. Visit all the nodes and edges only once and we can get the acceleration of each node. When the computation is done, the calculation end sends every node’s position to the front end.
-</p>
+    
       <h3>Backend</h3>
       <div class="underline-small">
       </div>
