@@ -7,7 +7,7 @@ require_once("head.html")
         
       </div>
       <div class="row large-12 columns large-centered">
-        <h4>Management</h4>
+        <h4 id="management">Management</h4>
         <div class="underline-small">
         
       </div>
