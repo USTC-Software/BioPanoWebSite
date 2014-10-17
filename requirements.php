@@ -10,70 +10,96 @@ require_once("head.html")
       <h4>Medals</h4>
       <div class="underline-small">
       </div>
-      <img src="img/medal/2014USTC-Bronze.png" width="60" height="60" alt="Bronze" ></img>
+
+      <img src="img/medal/2014USTC-Bronze.png" width="60" height="60" alt="Bronze" >
      <h4>Bronze</h4>
      <p> The following 4 goals must be achieved:</p>
-     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+
+  
+     <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
       <h5>
      Register the team, have a great summer, and have fun attending the Jamboree in Boston.
      </h5>
-     </p><p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+ 
+
+
+     <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
      Create and share a description of the team's project via the iGEM wiki.
      </h5>
-       </p><p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+   
+
+ 
+       <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
       Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.
      </h5>
-       </p><p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     
+
+
+       <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
      Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its all types in BioBrick Assistant Windows.
-      <div class="large-6 columns"><img src="img/2014ustc-medal1.png"></div>
+      <div class="large-6 columns">
+      <img src="img/2014ustc-medal1.png">
         </div>
-       </p>
+
     
         
-      <img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" ></img>
+      <img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" >
      <h4>Silver</h4>
      <p> In addition to the Bronze Medal requirements, the following 4 goals must be achieved:</p>
-     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+
+
+
+     <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
     Demonstrate the relevance of your development for Synthetic Biology based on standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
-      <div class="large-6 columns"><img src="img/2014ustc-medal2.png"></div>
+      <div class="large-6 columns">
+      <img src="img/2014ustc-medal2.png">
         </div>
-      </p>
-      <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+    
+
+
+
+      <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
     Provide a comprehensive and well-designed User Guide. (Be creative! An instructional video may work as well.)
      </h5>
      We have a complete user manual <a href="biopanohelp.pdf">here!</a>
-       </p>
-       <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+  
+
+   
+       <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
     Provide detailed API documentation, preferably, automatically built from source code documentation (use tools like doxygen, yard, rdoc, naturaldocs, etc).
      </h5>
      We use toc to automatically produce api document.<a href="./api.html">here!</a>
-       </p>
-       <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
-     <h5>
-    Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.
-     </h5>Problem feedback and bug tracking: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible.
-http://bug.biopano.org/dashboard
-version control :we use gitlab to manage our code. 
-<a href="http://dev.biopano.org"></a>
-automated united testing: 自动部署：
-<a href="ci.biopano.org"></a>
+      
 
-       </p>
+ 
+          <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+          <h5>
+          Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.
+          </h5>Problem feedback and bug tracking: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible.
+          http://bug.biopano.org/dashboard
+          version control :we use gitlab to manage our code. 
+          <a href="http://dev.biopano.org"></a>
+          automated united testing: 自动部署：
+          <a href="ci.biopano.org"></a>
+   
 
-       <img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" ></img>
+       <img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" >
      <h4>Gold</h4>
      <p> In addition to the Bronze and Silver Medal requirements, two additional goals must be achieved:</p>
-      <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+
+
+ 
+      <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
    Provide a convincing validation, testing the performance of the development -- experimentally (can be outsourced) or by other teams and users. Note, even if the algorithm or tool turns out not to work that well, the Gold requirement is fulfilled if the test is good and the analysis convincing. Validation may include: preferably experiments, informatics analysis (complexity, run time) of an algorithm, or user studies.
      </h5>
@@ -84,38 +110,50 @@ In the k shortest path problem, 不妨设是从S到T的k短路，we can use the 
 f(x)=g(x)+h(x)
 h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) represent the total cost needs at node X.We can expands the node x which f(x) is minimum, maintaining it using the a sorted priority queue to Ensure efficiency。When x equals t, we get a shortest solution except those we have got before. We can get the k shortest path using this approach efficiently.
 
-       </p>
+  
+
+
        <p>
          And the second goal can be any one of the following:
        </p>
-     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+
+
+     
+     <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
     Make your software interact / interface with the Registry.
      </h5>You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
-   <div class="large-6 columns"><img src="img/2014ustc-medal1.png"></div>
-        </div>       </p>
-    <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+   
+   <div class="large-6 columns">
+          <img src="img/2014ustc-medal1.png">
+   </div>
+        
+
+
+    <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
     Re-use and further develop previous iGEM software projects (or parts thereof) or use and/or improvement of existing synthetic biology tools or frameworks.
      </h5>
      We use blast code from <a href="http://blast.ncbi.nlm.nih.gov/Blast.cgi">ncbi </a>to comparing the homology.
-       </p>
-     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+    
+
+  
+
+  <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
     Develop a well documented library or API for other developers (rather than “only” a stand-alone app for end users.)
      </h5>
      We use toc to automatically produce api document.<a href="./docs/">here!</a>
-       </p>
-  <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+      
+
+
+<img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      <h5>
     Support and use the SBOL and / or SBOLv standard.
      </h5>
     Biopano supports file format conversion to sbol perfectly
-     <div class="large-6 columns"><img src="img/2014ustc-medal3.png"></div>
+     <div class="large-6 columns"><img src="img/2014ustc-medal3.png">
         </div>
-       </p>
-
-
 
 
         <h4>Safety</h4>
@@ -160,6 +198,7 @@ Yes, user can upload their data to our database anytime. Yes, we will check vali
         <li>Collaboration with HFUT_CHINA</li>
         <p>While enjoying iGEM, we hoped more people could join us. This year, HFUT_CHINA sent a team for iGEM for the first time. As a team new to iGEM, it would surely encounter more problems. As their neighbor, we kept in touch with them and did everything we could to help them with their project. Through the course, we got to know a lot of people enthusiastic about iGEM of our age. We are glad that they also join iGEM.</p>
   </div>
+</div>
 </div>
 <?php
 
