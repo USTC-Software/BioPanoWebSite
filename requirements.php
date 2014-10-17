@@ -16,8 +16,8 @@ padding: 0;
       <div class="underline-small">
       </div>
 
-      <img src="img/medal/2014USTC-Bronze.png" width="60" height="60" alt="Bronze" >
-     <h4>Bronze</h4>
+     
+     <h4><img src="img/medal/2014USTC-Bronze.png" width="60" height="60" alt="Bronze" >Bronze</h4>
      <p> The following 4 goals must be achieved:</p>
 
   
@@ -47,14 +47,14 @@ padding: 0;
      Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its all types in BioBrick Assistant Windows.
-      <div class="large-6 columns">
-      <img src="img/2014ustc-medal1.png">
+      <div class="large-12 columns text-center">
+      <img style="margin:1em" src="img/2014ustc-medal1.png">
         </div>
 
     
-        
-      
-     <h4><img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" >Silver</h4>
+    <div class="underline-tiny"></div>
+
+      <h4><img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" >Silver</h4>
      <p> In addition to the Bronze Medal requirements, the following 4 goals must be achieved:</p>
 
 
@@ -64,8 +64,8 @@ padding: 0;
     Demonstrate the relevance of your development for Synthetic Biology based on standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
-      <div class="large-6 columns">
-      <img src="img/2014ustc-medal2.png">
+      <div class="large-12 columns text-center">
+      <img style="margin:1em" src="img/2014ustc-medal2.png">
         </div>
     
 
@@ -90,7 +90,7 @@ padding: 0;
           
           <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
           Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.
-          </h5>Problem feedback and bug tracking: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible.
+          </h5>(update 1)Problem feedback and bug tracking: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible.
           http://bug.biopano.org/dashboard
           version control :we use gitlab to manage our code. 
           <a href="http://dev.biopano.org"></a>
@@ -98,7 +98,7 @@ padding: 0;
           <a href="ci.biopano.org"></a>
    
 
-       
+             <div class="underline-tiny"></div>
      <h4><img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" >Gold</h4>
      <p> In addition to the Bronze and Silver Medal requirements, two additional goals must be achieved:</p>
 
@@ -107,7 +107,7 @@ padding: 0;
       
      <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
    Provide a convincing validation, testing the performance of the development -- experimentally (can be outsourced) or by other teams and users. Note, even if the algorithm or tool turns out not to work that well, the Gold requirement is fulfilled if the test is good and the analysis convincing. Validation may include: preferably experiments, informatics analysis (complexity, run time) of an algorithm, or user studies.
-     </h5>
+     </h5>(update 2)
      algorithm pathway finder（ K short path search in our net） anylsis：
 It is sometimes crucial to have more than one path between two nodes in a given network. In the event there are additional constraints, other paths different from the shortest path can be computed. To find the shortest path one can use shortest path algorithms such as Dijkstra’s algorithm or Bellman Ford algorithm and extend them to find more than one path. The K Shortest path routing algorithm is a generalization of the shortest path problem. The algorithm not only finds the shortest path, but also K other paths in order of increasing cost. K is the number of shortest paths to find.
 A* algorithm is a search algorithm based on greedy, which can always visit fewer nodes and get a better solution at the same time. When we are searching, we always traversal a search tree, such as level traversal in bfs and preorder traversal in dfs. We will get the solution which is lowest in the search tree during bfs. But it is far from enough to judge only on depth. We can construct a heuristic function to judge whether the state is good or not, and then expand the good-state node to get a better solution more quickly.
@@ -118,9 +118,9 @@ h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) r
   
 
 
-       <p>
+       <h4>
          And the second goal can be any one of the following:
-       </p>
+       </h4>
 
 
      
@@ -129,8 +129,8 @@ h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) r
     Make your software interact / interface with the Registry.
      </h5>You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
    
-   <div class="large-6 columns">
-          <img src="img/2014ustc-medal1.png">
+   <div class="large-12 columns text-center">
+          <img style="margin:1em" src="img/2014ustc-medal1.png">
    </div>
         
 
@@ -157,7 +157,8 @@ h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) r
     Support and use the SBOL and / or SBOLv standard.
      </h5>
     Biopano supports file format conversion to sbol perfectly
-     <div class="large-6 columns"><img src="img/2014ustc-medal3.png">
+     <div class="large-12 columns text-center">
+     <img  style="margin:1em" src="img/2014ustc-medal3.png">
         </div>
 
 
