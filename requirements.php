@@ -99,7 +99,7 @@ Unit Testing:Our server applies automated unit testing to dealing with uploaded 
    
 <p>&nbsp;</p>
              <div class="underline-tiny"></div>
-     <h4><img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" >Gold</h4>
+     <h4><img src="img/medal/2014USA* TC-Gold.png" width="60" height="60" alt="Gold" >Gold</h4>
      <p> In addition to the Bronze and Silver Medal requirements, two additional goals must be achieved:</p>
 
 
@@ -107,15 +107,9 @@ Unit Testing:Our server applies automated unit testing to dealing with uploaded 
       
      <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
    Provide a convincing validation, testing the performance of the development -- experimentally (can be outsourced) or by other teams and users. Note, even if the algorithm or tool turns out not to work that well, the Gold requirement is fulfilled if the test is good and the analysis convincing. Validation may include: preferably experiments, informatics analysis (complexity, run time) of an algorithm, or user studies.
-     </h5>(update 2)
-     algorithm pathway finder（ K short path search in our net） anylsis：
-It is sometimes crucial to have more than one path between two nodes in a given network. In the event there are additional constraints, other paths different from the shortest path can be computed. To find the shortest path one can use shortest path algorithms such as Dijkstra’s algorithm or Bellman Ford algorithm and extend them to find more than one path. The K Shortest path routing algorithm is a generalization of the shortest path problem. The algorithm not only finds the shortest path, but also K other paths in order of increasing cost. K is the number of shortest paths to find.
-A* algorithm is a search algorithm based on greedy, which can always visit fewer nodes and get a better solution at the same time. When we are searching, we always traversal a search tree, such as level traversal in bfs and preorder traversal in dfs. We will get the solution which is lowest in the search tree during bfs. But it is far from enough to judge only on depth. We can construct a heuristic function to judge whether the state is good or not, and then expand the good-state node to get a better solution more quickly.
-In the k shortest path problem, 不妨设是从S到T的k短路，we can use the length of shortest path from node X to node T as node X’s heuristic function, which can be calculated in O((n+m)logn) using Dijkstra during the pretreatment of the algorithm. And we can make a function f as below:
-f(x)=g(x)+h(x)
-h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) represent the total cost needs at node X.We can expands the node x which f(x) is minimum, maintaining it using the a sorted priority queue to Ensure efficiency。When x equals t, we get a shortest solution except those we have got before. We can get the k shortest path using this approach efficiently.
-
-  
+     </h5>
+  Analysis of pathway finder (k-shortest pathway search):<br />
+We use a specail heuristic algorithm , <a href="http://en.wikipedia.org/wiki/A*_search_algorithm">A* search algorithm</a>, to find  more than one path connected two nodes in a given network.The run time of A* depends on structure of the given network. The space complexity is the number of edges plus the number of nodes. In our backend, we test this algorithm. The average of time which database reading costs is 1"40, the average of time which Vars initialization costs is 0"70, the average of time which <a href="http://en.wikipedia.org/wiki/Shortest_Path_Faster_Algorithm">SPFA(abbreviation for Shortest Path Faster Algorithm)</a> costs is 0"37, and the average of time which Serialize costs is 0"21. 
 
 
        <h4>
