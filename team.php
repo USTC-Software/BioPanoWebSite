@@ -112,7 +112,7 @@ top: 0;
           <li class ="profilewrap">
               <img src="http://2014.igem.org/wiki/images/6/6c/2014ustc-Ltx.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Lin Taixing</a></div>
-              <div class = "details"><img style="width:200px" src="http://2014.igem.org/wiki/images/6/6c/2014ustc-Ltx.jpg" alt="Haiyan Liu"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
+              <div class = "details"><img style="width:200px" src="http://2014.igem.org/wiki/images/6/6c/2014ustc-Ltx.jpg" alt="Haiyan Liu"  align="left"><p>Dream what you want to dream; go where you want to go; be what you want to be, because you have only one life and one chance to do all the things you want to do. </p>
               </div>
          </li>
           <li class ="profilewrap">
@@ -131,7 +131,7 @@ top: 0;
           <li class ="profilewrap">
               <img src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Gao Yifan</a></div>
-              <div class = "details"><img style="width:160px" src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Haiyan Liu"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
+              <div class = "details"><img style="width:160px" src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Yifan Gao"  align="left"><p>Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</p>
               </div>
          </li>
  		<li class ="profilewrap">
