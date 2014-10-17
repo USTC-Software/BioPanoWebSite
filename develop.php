@@ -1,6 +1,6 @@
 
 <?php
-require_once("head.html")
+require_once("head.html");
 ?>
 <div class="main-content">
      <div class="row large-12 columns large-centered">
@@ -39,10 +39,12 @@ require_once("head.html")
           <h5>Pathway Finder Alogrithm:</h5>
           <p>The software can search for paths between two selected nodes. We used a-stark short-path algorithm to achieve the function of discovering potential relationship in the biological network.</p>
           <p>A* algorithm is a search algorithm based on greedy, which can always visit fewer nodes and get a better solution at the same time.</p>
-          <p>In this way, however, we get the shortest path in graph theory. By giving different and appopraite weights to different edges, the algorithm can find the shortest path in the sense of biology.</p>
+          <p>In this way, however, we get the shortest path in graph theory. By giving different and appopraite weights to different edges, the algorithm can find the shortest path in the sense of biology.</p>
           
-          <h5>BLAST:</h5>
-          <p>We use two packages, namely, NCBI_Blast and the Python package called for NCBI_Blast. Different from NCBI, our alignment database combines RegulonDB and user-define databases. When the user inputs a sequence (such as a BioBrick sequence), Biopano will the node that shares the deepest homology with it in the server database, and show other nodes connected with it. Therefore, Biopano can show the nodes and regulations in the biological regulation network that probably has to do with the sequence (such as BioBrick sequece) the user inputs.</p>
+          <h5>BLAST：</h5>
+          <p>
+We use two packages, namely, NCBI_Blast and the Python package called for NCBI_Blast. Different from NCBI, our alignment database combines RegulonDB and user-define databases. When the user inputs a sequence (such as a BioBrick sequence), Biopano will the node that shares the deepest homology with it in the server database, and show other nodes connected with it. Therefore, Biopano can show the nodes and regulations in the biological regulation network that probably has to do with the sequence (such as BioBrick sequece) the user inputs.
+          </p>
      </div>
 
    
@@ -50,6 +52,5 @@ require_once("head.html")
   </div>
 
 <?php
-
-require_once("foot.html")
+require_once("foot.html");
 ?>
