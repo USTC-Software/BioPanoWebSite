@@ -13,19 +13,34 @@ $(function () {
             }                                                                       
         });                                                                         
                                                                                     
-        var chart,info=[];
+        var chart,str="<br />",info=[],status=[];
            for(h in data2){
      
                               info.push({
                                     name:data2[h].database_center+"@"+data2[h].location,
                                     data:data2[h].history
                                 });
+                              status.push({
+                                    name:data2[h].database_center+"@"+data2[h].location,
+                                    status:data2[h].status,
+                                    load:data2[h].lavg_1
+                              });
                                 
-                            }      
-
-
-
-console.log(info);
+                            }  
+for(s in status){
+    if(status[s].status=="up" && status[s].load < 8){
+        img = '<img src="img/green.png" style="width:20px;padding: 0;margin-right:0.5em ">';
+        
+    }
+   if (status[s].status=="up" && status[s].load > 8) {
+       img = '<img src="img/yellow.png" style="width:20px;padding: 0;margin-right:0.5em">';
+        }
+ if (status[s].status!="up" ) {
+      img = '<img src="img/red.png" style="width:20px;padding: 0;margin-right:0.5em">';
+        }
+        str = str + img + status[s].name+"<br /><br />";
+   }
+$("#server_status").html(str);
 
    $('#container').highcharts({                                                
             chart: {                                                                
@@ -73,7 +88,11 @@ console.log(info);
   </script>
 <div class="main-content">
      <div class="row large-12 columns large-centered">
+    
      <div id="container" style="min-width:400px;height:400px;"></div>
+      <div id="server_status" style="padding:2em">
+         
+     </div>
 </div>
   </div>
 
