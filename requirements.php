@@ -21,29 +21,29 @@ padding: 0;
      <p> The following 4 goals must be achieved:</p>
 
   
-     <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-      <h5>
+     
+      <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      Register the team, have a great summer, and have fun attending the Jamboree in Boston.
      </h5>
  
 
 
-     <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+     
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      Create and share a description of the team's project via the iGEM wiki.
      </h5>
    
 
  
-       <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+       
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
       Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.
      </h5>
      
 
 
-       <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+       
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
      Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its all types in BioBrick Assistant Windows.
@@ -53,14 +53,14 @@ padding: 0;
 
     
         
-      <img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" >
-     <h4>Silver</h4>
+      
+     <h4><img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" >Silver</h4>
      <p> In addition to the Bronze Medal requirements, the following 4 goals must be achieved:</p>
 
 
 
-     <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+     
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
     Demonstrate the relevance of your development for Synthetic Biology based on standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
@@ -71,24 +71,24 @@ padding: 0;
 
 
 
-      <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+      
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
     Provide a comprehensive and well-designed User Guide. (Be creative! An instructional video may work as well.)
      </h5>
      We have a complete user manual <a href="biopanohelp.pdf">here!</a>
   
 
    
-       <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+       
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
     Provide detailed API documentation, preferably, automatically built from source code documentation (use tools like doxygen, yard, rdoc, naturaldocs, etc).
      </h5>
      We use toc to automatically produce api document.<a href="./api.html">here!</a>
       
 
  
-          <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-          <h5>
+          
+          <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
           Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.
           </h5>Problem feedback and bug tracking: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible.
           http://bug.biopano.org/dashboard
@@ -98,14 +98,14 @@ padding: 0;
           <a href="ci.biopano.org"></a>
    
 
-       <img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" >
-     <h4>Gold</h4>
+       
+     <h4><img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" >Gold</h4>
      <p> In addition to the Bronze and Silver Medal requirements, two additional goals must be achieved:</p>
 
 
  
-      <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+      
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
    Provide a convincing validation, testing the performance of the development -- experimentally (can be outsourced) or by other teams and users. Note, even if the algorithm or tool turns out not to work that well, the Gold requirement is fulfilled if the test is good and the analysis convincing. Validation may include: preferably experiments, informatics analysis (complexity, run time) of an algorithm, or user studies.
      </h5>
      algorithm pathway finder（ K short path search in our net） anylsis：
@@ -124,8 +124,8 @@ h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) r
 
 
      
-     <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+     
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
     Make your software interact / interface with the Registry.
      </h5>You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
    
@@ -135,8 +135,8 @@ h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) r
         
 
 
-    <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+    
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
     Re-use and further develop previous iGEM software projects (or parts thereof) or use and/or improvement of existing synthetic biology tools or frameworks.
      </h5>
      We use blast code from <a href="http://blast.ncbi.nlm.nih.gov/Blast.cgi">ncbi </a>to comparing the homology.
@@ -144,16 +144,16 @@ h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) r
 
   
 
-  <img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+  
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
     Develop a well documented library or API for other developers (rather than “only” a stand-alone app for end users.)
      </h5>
      We use toc to automatically produce api document.<a href="./docs/">here!</a>
       
 
 
-<img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
-     <h5>
+
+     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
     Support and use the SBOL and / or SBOLv standard.
      </h5>
     Biopano supports file format conversion to sbol perfectly
