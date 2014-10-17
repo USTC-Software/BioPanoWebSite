@@ -1,6 +1,11 @@
 <?php
 require_once("head.html")
 ?>
+<style type="text/css">
+  .main-content img {
+padding: 0;
+}
+</style>
 <div class="main-content">
    <div class="row large-12 columns large-centered">
         <p style="font-size:32px">Requirements</p>
