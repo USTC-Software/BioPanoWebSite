@@ -7,15 +7,16 @@ require_once("head.html")
   }  
 </style>
 
-<!-- 
 
 <div style="position: relative;">
 <img src="img/MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+<!-- 
 <img class="igem1 animated fadeInUpBig" src="img/1.png" style="width:26%;position: absolute; left:3.7em; bottom:0;">
 <img class="igem2 animated fadeInUpBig" src="img/2.png" style="width:53%;position: absolute; left:26%; bottom:0;">
 <img class="igem3 animated fadeInUpBig" src="img/3.png" style="width:28%;position: absolute; right:3.7em; bottom:0;">
-</div>
  -->
+</div>
+
  
 <!--
 <section id="features-hero">
