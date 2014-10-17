@@ -4,28 +4,16 @@ require_once("head.html")
 ?>
 <div class="main-content">
      <div class="row large-12 columns large-centered">
-        <p style="font-size:32px">Develop</p>
+        <p style="font-size:32px">Technology</p>
         
       </div>
       <div class="row">
         <div class="large-12 columns large-centered">
-      <h4>Framework</h4>
-      <div class="underline-small"></div>
-        <p>
-          ???
-        </p>
     
-      <h4>Interface</h4>
-      <div class="underline-small"></div>
-       <li>Air & Flash Application</li>
-       <li>Framework</li>
-    
-      <h4>The Introduction of Backend</h4>
+      <h4>The Introduction of Backend Framework</h4>
       <div class="underline-small">
       </div>
 
-    
-        
         <p>Our server uses Linux as operating system, MongoDB to manage abundant biological data, including information of millions of nodes, and MySQL database to store data of users and information of projects and species. Our server-side program is based on Django development, and is optimized for multi-node and remote-controlling circumstances, ensuring that your request will be answered wherever you are. When a node breaks down, our server will separate the node from the group and realize automatic failover.</p>  
     
 
@@ -40,12 +28,14 @@ require_once("head.html")
           <h5>Interface Design:</h5>
           <p>The server communicate with frontend based on HTTP protocol. It uses interfaces of RESTful style. It is a kind of completely public and universal interface and offers detailed documentation. You can develop your own applications based on these interfaces. These interfaces have been optimized a lot for Biopano-client, so the communication efficiency has been enhanced significantly.</p>
 
-          <h5>Automated Deployment</h5>
-          <p>服务器采用自动部署技术。服务器端程序与git的product分支绑定，新推送(push)到product分支的代码都会在10秒以内部署到全球多台服务器中。同时为了防止人工操作失误造成错误的代码被部署到服务器上，所有的测试分支也会被实时部署到测试服务器上供开发人员测试。</p>
+          <h5>Automated Deployment:</h5>
+          <p>Our server has automated deployment capabilities. Server-side applications are bound with the Product branch of Git. All codes pushed to the Product branch will be deployed to many servers over the world in ten seconds. In order to prevent fault codes from being deployed to the servers by mistake, all the testing branches will be deployed to the testing server real-timely to be tested by developers.</p>
 
-          <h5>单元测试：</h5>
-          <p>Our server has automated deployment capabilities. Server-side applications are bound with the Product branch of Git. All codes pushed to the Product branch will be deployed to many servers over the world in ten seconds. In order to prevent fault codes from being deployed to the servers by mistake, all the testing branches will be deployed to the testing server real-timely to be tested by developers.</p>
+          <h5>Unit Testing:</h5>
+          <p>Our server has automated deployment capabilities. Server-side applications are bound with the Product branch of Git. </p>
 
+			<h4>Alogrithm</h4>
+            <div class = "underline-small"></div>	
           <h5>Pathway Finder Alogrithm:</h5>
           <p>The software can search for paths between two selected nodes. We used a-stark short-path algorithm to achieve the function of discovering potential relationship in the biological network.</p>
           <p>A* algorithm is a search algorithm based on greedy, which can always visit fewer nodes and get a better solution at the same time.</p>
