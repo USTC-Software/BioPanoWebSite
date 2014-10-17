@@ -302,7 +302,13 @@ Degree awarded: Ph.D in chemistry, 06/2007</p>
        </div>
      </div>
     </div>
-
+<div id="pop_up">
+        <div id="pop_up_underlay">&nbsp;</div>
+        <div id="pop_up_display">
+            <div id="pop_up_close">x</div>
+            <div id="pop_up_content">&nbsp;</div>
+        </div>
+</div>
 <?php
 
 require_once("foot.html")
