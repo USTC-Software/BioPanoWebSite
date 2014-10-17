@@ -91,86 +91,86 @@ top: 0;
      <ul class="large-block-grid-6 medium-block-grid-4 small-block-grid-2 text-center">
         
           <li class ="profilewrap">
-              <img src="img/xyc.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/6/62/2014ustc-Xyc.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Xue Yuechuan</a></div>
               <div class = "details"><img style="width:160px" src="img/xyc.jpg" alt="Xue Yuechuan"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
               </div>
          </li>
 
          <li class ="profilewrap">
-              <img src="img/zss.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/e/ee/2014ustc-Zss.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Zhao Shensen</a></div>
               <div class = "details"><img style="width:160px" src="img/zss.jpg" alt="Zhao Shensen"  align="left"><p>Work which make idea true make me happy.</p>
               </div>
          </li>
           <li class ="profilewrap">
-              <img src="img/glz.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/6/6e/2014ustc-Glz.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Gan Longzhi</a></div>
               <div class = "details"><img style="width:160px" src="img/glz.jpg" alt="Haiyan Liu"  align="left"><p>Try hard, have fun.</p>
               </div>
          </li>
           <li class ="profilewrap">
-              <img src="img/ltx.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/6/6c/2014ustc-Ltx.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Lin Taixing</a></div>
               <div class = "details"><img style="width:200px" src="img/ltx.jpg" alt="Haiyan Liu"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
               </div>
          </li>
           <li class ="profilewrap">
-              <img src="img/wws.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/1/1e/2014ustc-Wws.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Wang Wenshuo</a></div>
               <div class = "details"><img style="width:160px" src="img/wws.jpg" alt="Haiyan Liu"  align="left"><p>There is no fate but what we make.</p>
               </div>
          </li>
           <li class ="profilewrap">
-              <img src="img/zzy.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/d/d0/2014ustc-Zzy.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Zhang Zhiyuan</a></div>
               <div class = "details"><img style="width:160px" src="img/zzy.jpg" alt="Haiyan Liu"  align="left"><p>To see, to ask, to search, to believe.</p>
               </div>
          </li>
           
           <li class ="profilewrap">
-              <img src="img/gyf.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Gao Yifan</a></div>
               <div class = "details"><img style="width:160px" src="img/gyf.jpg" alt="Haiyan Liu"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
               </div>
          </li>
  		<li class ="profilewrap">
-              <img src="img/dcx.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/4/4b/2014ustc-Dcx.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Dong Chenxiao</a></div>
               <div class = "details"><img style="width:160px" src="img/dcx.jpg" alt="Haiyan Liu"  align="left"><p>All the time, try killing any idea from team.</p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="img/jzy.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/2/28/2014ustc-Jzy.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Jin Zeyu</a></div>
               <div class = "details"><img style="width:160px" src="img/jzy.jpg" alt="Haiyan Liu"  align="left"><p>Not most powerful, but highly responsible!</p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="img/zl.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/9/97/2014ustc-Zl.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Zhou Long</a></div>
               <div class = "details"><img style="width:160px" src="img/zl.jpg" alt="Haiyan Liu"  align="left"><p>Simply Enjoy.</p>
               </div>
         </li>
         
          <li class ="profilewrap">
-              <img src="img/hlx.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/a/a1/2014ustc-Hlx.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Han Luxin</a></div>
               <div class = "details"><img style="width:160px" src="img/hlx.jpg" alt="Haiyan Liu"  align="left"><p>Where there is a will, there is a way.</p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="img/ycp.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/8/8d/2014ustc-Ycp.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Yu Chuanping</a></div>
               <div class = "details"><img style="width:160px" src="img/ycp.jpg" alt="Haiyan Liu"  align="left"><p>Do one thing at a time, and do well.</p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="img/zhy.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Zhang Renying</a></div>
               <div class = "details"><img style="width:160px" src="img/zhy.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
               </div>
@@ -179,21 +179,21 @@ top: 0;
         </li>
         
         <li class ="profilewrap">
-              <img src="img/fyc.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/9/96/2014ustc-Fyc.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Fei Yicheng</a></div>
               <div class = "details"><img style="width:160px" src="img/fyc.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="img/ctl.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/b/bc/2014ustc-Ctl.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Chen Tianlong</a></div>
               <div class = "details"><img style="width:160px" src="img/ctl.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="img/clf.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/e/e8/Clf.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Chen Lingfan</a></div>
               <div class = "details"><img style="width:160px" src="img/clf.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
               </div>
@@ -207,7 +207,7 @@ top: 0;
       <div>
     <ul class="large-block-grid-6 medium-block-grid-4 small-block-grid-2 text-center">
           <li class ="profilewrap">
-              <img src="img/G.png" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/d/de/2014ustc-G.png" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Haiyan Liu</a></div>
               <div class = "details"><img style="width:160px" src="img/G.png" alt="Haiyan Liu" >
             <p><b>Email:</b>hyliu@ustc.edu.cn</p>
@@ -217,7 +217,7 @@ top: 0;
 
 
              <li class ="profilewrap">
-              <img src="img/H.png" alt="Zhi Liang">
+              <img src="http://2014.igem.org/wiki/images/a/af/2014ustc-H.png" alt="Zhi Liang">
               <div class ="nameplate"><a href="#">Zhi Liang</a></div>
               <div class = "details"><img style="width:160px" src="img/H.png" alt="Zhi Liang" >
             <p><b>Email:</b>liangzhi@ustc.edu.cn</p>
@@ -226,7 +226,7 @@ top: 0;
         </li>
 
            <li class ="profilewrap">
-               <img src="img/I.png">
+               <img src="http://2014.igem.org/wiki/images/9/93/2014ustc-I.png">
               <div class ="nameplate"><a href="#">Jiong Hong</a></div>
               <div class = "details"><img style="width:160px" src="img/I.png" alt="Jiong Hong" >
               <p>Professor, School of Life Sciences University of Science & Technology of China</p>
@@ -239,7 +239,7 @@ top: 0;
 
 
        <li class ="profilewrap">
-              <img src="img/J.png" alt="Fan Jin">
+              <img src="http://2014.igem.org/wiki/images/9/92/2014ustc-J.png" alt="Fan Jin">
               <div class ="nameplate"><a href="#">Fan Jin</a></div>
               <div class = "details"><img style="width:160px" src="img/J.png" alt="Fan Jin" >
 
