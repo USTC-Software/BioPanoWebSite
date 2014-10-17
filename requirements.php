@@ -90,12 +90,10 @@ padding: 0;
           
           <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
           Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.
-          </h5>(update 1)Problem feedback and bug tracking: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible.
-          http://bug.biopano.org/dashboard
-          version control :we use gitlab to manage our code. 
-          <a href="http://dev.biopano.org"></a>
-          automated united testing: 自动部署：
-          <a href="ci.biopano.org"></a>
+          </h5>
+          <p><a href="bug.biopano.org">Problem feedback and bug tracking</a>: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible. </p>
+<p><a href="ci.biopano.org"> Automated Deployment</a>:Our server has automated deployment capabilities. Server-side applications are bound with the Product branch of Git. All codes pushed to the Product branch will be deployed to many servers over the world in ten seconds. In order to prevent fault codes from being deployed to the servers by mistake, all the testing branches will be deployed to the testing server real-timely to be tested by developers.</p>
+<p>Unit Testing:Our server applies automated unit testing to dealing with uploaded backend codes. It will test the basic legitimacy and function of the codes, including robustness testing with respect to illegitimate uploaded parameters, legitimacy testing on data legitimacy, status testing of the database and testing of function realizaton, etc.</p>
    
 <p>&nbsp;</p>
              <div class="underline-tiny"></div>
