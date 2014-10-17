@@ -16,7 +16,7 @@ require_once("head.html")
        iGEM, efficiency, environment and enjoyment. When the project is drawing to a close,
         we tease out our project management experience according
          to them and put it online as reference for more people.</p>
-     
+     <div class="underline-tiny"></div>
        <h5>iGEM</h5>
      
         <p>Since our project is for participating in iGEM,
@@ -28,7 +28,7 @@ require_once("head.html")
               not majoring in biology some biological knowledge. A group focusing on the subject guarantees
                that the whole project runs smoothly on track. The experience above applies to project of any subject.
                 Just replace “iGEM” with your own word.</p>
-
+<div class="underline-tiny"></div>
         <h5>Efficiency</h5>
    
         <p>In any project, efficiency is always a significant factor.
@@ -41,7 +41,7 @@ require_once("head.html")
                Last but not least, we established a GitLab ourselves accessible to all team members,
                 which avoided the detriment of environment caused by paper-based platform 
                 (this will be mentioned again later).</p>
-
+<div class="underline-tiny"></div>
         <h5>Environment</h5>
       
         <p>
@@ -54,6 +54,7 @@ require_once("head.html")
        appropriate regulation can ensure that working group of any project can 
        do their work comfortably and protect the earth at the same time.
         </p>
+        <div class="underline-tiny"></div>
 <h5>Enjoyment</h5>
         <p>
  Although there were a lot of work to do, our project experience was joyful.
@@ -76,27 +77,33 @@ require_once("head.html")
     
        <h5>Google group</h5>
       
-        <p>At the formation of USTC-Software of 2014, the team leader of 2013 recommended Google group as an online platform for communication and team management. Although every team member was highly enthusiastic about iGEM, they had their own school work to worry about. Meanwhile, our team members lived in different areas of the campus. Hence it became a serious problem that how team members could receive notifications in time to accomplish the work separately while co-working time could not be guaranteed. Google group solved this problem. Google group offers open online platform to users and users can build their own platform for sharing. Messages on the platform are accessible to all users joining the group. Emails can also be pushed to users. We built a platform of our team, and all messages on the platform could be pushed to team members in time. By Google group, we were able to:<br /><br />1.send notifications and arrangements to all team members in time;<br /><br />2.make team members share their thoughts and innovation conveniently;<br /><br />3.make regulations, assessments and financal issues transparent by sharing work logs.<br /><br />We recommend Google group for project management based on our experience. It can enhance communication among team members by breaking through the limitations of time and space. It can also make team work transparent and increase management efficiency.
-        </p>
-
+        <p>At the formation of USTC-Software of 2014, the team leader of 2013 recommended Google group as an online platform for communication and team management. Although every team member was highly enthusiastic about iGEM, they had their own school work to worry about. Meanwhile, our team members lived in different areas of the campus. Hence it became a serious problem that how team members could receive notifications in time to accomplish the work separately while co-working time could not be guaranteed. Google group solved this problem. Google group offers open online platform to users and users can build their own platform for sharing. Messages on the platform are accessible to all users joining the group. Emails can also be pushed to users. We built a platform of our team, and all messages on the platform could be pushed to team members in time. By Google group, we were able to:</p>
+<ul>
+	<li>1. send notifications and arrangements to all team members in time;</li>
+	<li>2. make team members share their thoughts and innovation conveniently;</li>
+	<li>3. make regulations, assessments and financal issues transparent by sharing work logs.</li>
+</ul>
+<p>We recommend Google group for project management based on our experience. It can enhance communication among team members by breaking through the limitations of time and space. It can also make team work transparent and increase management efficiency.</p>
+<div class="underline-tiny"></div>
         <h5>Wunderlist</h5>
      
         <p>
         Conversation sharing of Google group became inconvenient as the project proceeded and our work became more and more complicated. So we chose to use Wunderlist at the same time.<br /><br />Wunderlist is specifically designed for work arrangement. People in charge can create lists for their part of work and invite other users to help them with the work. Specifically, they can assign different members for different tasks and set deadlines. Other members can give feedbacks to the list after the corresponding work is done, and people in charge can delete the work from the list. Another advantage of Wunderlist is that it is available for all platforms, including PC and mobile phone. This way, all team members could receive the latest work notices.<br /><br />During the project, we created lists based on our work, including iGEM-backend, iGEM-frontend, iGEM-wiki and iGEM-finance, etc. Complicated assignments were distributed to different people. We also used the feedback service of Wunderlist to monitor the work progress. The use of Wunderlist enabled us to assign tasks in a scientific way and keep us informed of the progress of our project all the time to make sure that everything goes according to the plan.
         </p>
-
+<div class="underline-tiny"></div>
         <h5>OneNote</h5>
      
         <p>
 For every team, the financial problem is a big one. Of course, you may think of separating money and account easily, but how do you keep two or more financial managers in the same stage? We chose to solve the problem by OneNote.<br /><br />OneNote is originally designed for instant creation and notes sharing, and so it can be applied to financial management smoothly. We could create notebooks according to different items and mark the accounts that have been cleared or have not yet been cleared. By inviting others, the team leader can supervise the manager about he financial situation timely and make sure about the accuracy of this.
         </p>
+        <div class="underline-tiny"></div>
 <h5>Omni outliner & Mindmap</h5>
     
         <p>
 No matter you are in what stage of what project, when you need new thoughts, it is always quite a hard time to get a satisfying result. Brainstorm might be a really nice idea, but in most of the time you have to stare at a whiteboard full of messy ideas on it without action. To solve the problem, you need some kind of software for thought assistance, such as Omni Outliner and Mingmap.<br /><br />Software like Omni Outliner can help you sort out all the necessary points and arrange your thoughts when you are writing articles, and software like Mindmap can enable you to draw a succinct "map" of your ideas to clarify your thoughts and summarize the viewpoints. Therefore you can quickly extract a wonderful idea from the numerous viewpoints raised in the brainstorm.
 
         </p>
-
+<div class="underline-tiny"></div>
         <h5>Dropbox</h5>
       
         <p>
@@ -108,7 +115,7 @@ During the project, all kinds of files were created unremittingly. To be specifi
         
       </div>
     
-       <p>Fine communication in any field enhances the development of the field, especially when it comes to biological field. Nowadays, there are already some ways of communication in biology. They are traditional ways, however. Communication by literature publishing, meeting attending and emailing is relatively slow and hard to be used in global range. What’s more important is that communication in these ways will restrict a biologist’s research field. This suppresses the cross-field communication of biology. As we all know, communication of different fields will bring about amazing breakthroughs. Therefore, if the restriction can be broken, it will benefit the development of biology astonishingly.<br /><br />Biopano is based on an online server, so it supports communication and cooperation perfectly. Users can release their research results on our software platform. Biopano will record the information and all biologists using the software all over the world can see the modifications. What’s better, we add group function usually in social software into Biopano. Biologists from different fields can form a group with Biopano. They can communicate more conveniently in the group. Meanwhile, Biopano offers other project co-management services to help biologists from different fields complete the research together.<br /><br />Popularization of Biopano will surely improve the connection among biologists greatly and enhance the progress of biology. Furthermore, Biopano will change the frequency and pattern of research results updating of biology, and even show every single change of biology real-timely like Wikipedia. Every researcher can share the progress of biology, and biological research will stride into the information age.<br /><br />We have already reccomended Biopano to many biological researchers, and received great feedbacks.</p>
+       <p>Fine communication in any field enhances the development of the field, especially when it comes to biological field. Nowadays, there are already some ways of communication in biology. They are traditional ways, however. Communication by literature publishing, meeting attending and emailing is relatively slow and hard to be used in global range. What’s more important is that communication in these ways will restrict a biologist’s research field. This suppresses the cross-field communication of biology. As we all know, communication of different fields will bring about amazing breakthroughs. Therefore, if the restriction can be broken, it will benefit the development of biology astonishingly.<br /><br />BioPano is based on an online server, so it supports communication and cooperation perfectly. Users can release their research results on our software platform. BioPano will record the information and all biologists using the software all over the world can see the modifications. What’s better, we add group function usually in social software into BioPano. Biologists from different fields can form a group with BioPano. They can communicate more conveniently in the group. Meanwhile, BioPano offers other project co-management services to help biologists from different fields complete the research together.<br /><br />Popularization of BioPano will surely improve the connection among biologists greatly and enhance the progress of biology. Furthermore, BioPano will change the frequency and pattern of research results updating of biology, and even show every single change of biology real-timely like Wikipedia. Every researcher can share the progress of biology, and biological research will stride into the information age.<br /><br />We have already reccomended BioPano to many biological researchers, and received great feedbacks.</p>
 
 <h3>Summer Vacation Meetup</h3>
         <div class="underline-small">
