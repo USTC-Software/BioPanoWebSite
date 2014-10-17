@@ -10,10 +10,10 @@ require_once("head.html");
       <div class="row">
         <div class="large-12 columns large-centered">
     
-      <h4>The Introduction of Backend Framework</h4>
+      <h3>Backend</h3>
       <div class="underline-small">
       </div>
-
+				<h5>Framework</h5>
         <p>Our server uses Linux as operating system, MongoDB to manage abundant biological data, including information of millions of nodes, and MySQL database to store data of users and information of projects and species. Our server-side program is based on Django development, and is optimized for multi-node and remote-controlling circumstances, ensuring that your request will be answered wherever you are. When a node breaks down, our server will separate the node from the group and realize automatic failover.</p>  
     
 
@@ -34,12 +34,12 @@ require_once("head.html");
           <h5>Unit Testing:</h5>
           <p>Our server applies automated unit testing to dealing with uploaded backend codes. It will test the basic legitimacy and function of the codes, including robustness testing with respect to illegitimate uploaded parameters, legitimacy testing on data legitimacy, status testing of the database and testing of function realizaton, etc.</p>
 
-			<h4>Alogrithm</h4>
+			<h3>Alogrithm</h3>
             <div class = "underline-small"></div>	
           <h5>Pathway Finder Alogrithm:</h5>
-          <p>The software can search for paths between two selected nodes. We used a-stark short-path algorithm to achieve the function of discovering potential relationship in the biological network.</p>
-          <p>A* algorithm is a search algorithm based on greedy, which can always visit fewer nodes and get a better solution at the same time.</p>
-          <p>In this way, however, we get the shortest path in graph theory. By giving different and appopraite weights to different edges, the algorithm can find the shortest path in the sense of biology.</p>
+          <p>The software can search for paths between two selected nodes. We used a-stark short-path algorithm to achieve the function of discovering potential relationship in the biological network.
+          A* algorithm is a search algorithm based on greedy, which can always visit fewer nodes and get a better solution at the same time.
+          In this way, however, we get the shortest path in graph theory. By giving different and appopraite weights to different edges, the algorithm can find the shortest path in the sense of biology.</p>
           
           <h5>BLAST：</h5>
           <p>

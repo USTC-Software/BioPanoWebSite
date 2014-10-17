@@ -104,7 +104,7 @@ By BLAST analysis, it helps you design correct gene route with appropriate BioBr
                   <p>When you have already got the entire view and want to know more about the details, double-click the nodes and arcs and the details will be shown. More surprisingly, Biopano supports literature reading in the network. You can view literature corresponding to every node and arc along any gene route in the network, and you will understand how the nodes in the net are associated with each other in depth. If you cast doubt on the reliability of our database, you can verify your thought with authoritative literature.</p>
      
         </ul>
-      <h4 id="features">Demo</h4>
+      <h4 id="demos">Demo</h4>
       <div class="underline-small">
       </div>
       <div>
@@ -145,10 +145,10 @@ the Operon Trp.</h5>
       </div>
 
 
-         <h4>Why choose BioPano?</h4>
+         <h4 id="why">Why choose BioPano?</h4>
       <div class="underline-small"></div>
       <div>
-       <p> Biopano ,do the experiment as you do in the lab.</p>
+       <p> Biopano, do the experiment as you do in the lab.</p>
        <p>In experiment, synthetic biologists always find gene circuits formed by BioBricks are incompatible with the host cell, thus cannot work as expected. However, Biopano uses sequence alignment to analyze the possible reasons of the failure and design more acute gene circuit for your consideration.</p>
        <p>Our Blast algorism derives from NCBI. However, the original version only offers sequence alignment and fails to analyze what impact the host environment might have on the injected gene circuit, let along predicts whether it will work.</p>
        <p>Firstly, Biopano offers BioBrick searching to make it convenient for you to study all standardized biological parts on the official website of iGEM. Secondly, you can input a BioBrick and even construct a brand new sequence. Biopano will find the gene nodes of E.coli K-12 sharing the deepest homology with it based on authoritative Blast algorithm. Then you can Expand these nodes to find out the possible regulation on them. In this way, Biopano helps you analyze whether the injected gene circuit will actually work.</p>
@@ -167,7 +167,7 @@ the Operon Trp.</h5>
        <p>Biopano, your right hand for biological research. Get it now!</p>
       </div>
 
-       <h4>Future Work</h4>
+       <h4 id="futurework">Future Work</h4>
       <div class="underline-small"></div>
       <div>
        <h4>It is undeniable that we still have a lot to do to improve Biopano in many aspects in order to make it even better. We need to think more and develop it as we can. In the future, we hope to:
