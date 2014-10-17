@@ -60,7 +60,7 @@ function downloadFile(OSName) {
 	<img src="img/page7.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
-<div style="position: relative; color: #D7D7D7;background-color: #D7D7D7;" class="text-center" >
+<div style="position: relative; color: #E0E0E0;background-color: #E0E0E0;" class="text-center" >
 	<div  class="button" onclick="downloadFile(checkOS());" style="margin: 1em 0;color:#fff;font-size:3em;background-color: #9DACBD;">
 		Download Now !
 	</div>
