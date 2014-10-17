@@ -9,7 +9,7 @@ require_once("head.html")
       <div class="row">
         <div class="large-12 columns large-centered">
 
-        
+      <p></p>
       <h4 id="overview">Overview</h4>
       <div class="underline-small"></div>
         <p>Designed specifically for biological research, BioPano is a software platform targeted for visualisation of biological relationships as well as cooperative net-building. You can set up your own network of biological relationship by adding information about genetic regulation and metabolic system to the network we already provided for you. Also, the software allows you to explore the links among the substances by just several clicks, and you can even look into the details of the interaction between the exogenous gene and the host. What is even more exciting is that our software will end your loneliness and frustration in research, since it is providing you with cloud cooperating system so that you can view massive amounts of resources in databases, together with build up groups to share information and set up mutual network with others.
@@ -104,6 +104,7 @@ By BLAST analysis, it helps you design correct gene route with appropriate BioBr
                   <p>When you have already got the entire view and want to know more about the details, double-click the nodes and arcs and the details will be shown. More surprisingly, Biopano supports literature reading in the network. You can view literature corresponding to every node and arc along any gene route in the network, and you will understand how the nodes in the net are associated with each other in depth. If you cast doubt on the reliability of our database, you can verify your thought with authoritative literature.</p>
      
         </ul>
+      <p></p>
       <h4 id="demos">Demo</h4>
       <div class="underline-small">
       </div>
