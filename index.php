@@ -65,7 +65,7 @@ function downloadFile(OSName) {
 </div>
 
 <div style="position: relative;" class="text-center ">
-	<div  class="button" onclick="downloadFile(checkOS())" style="margin: 1em 0;color:#fff;font-size:3em;background-color: #9DACBD;">
+	<div  class="button" onclick="downloadFile(checkOS());" style="margin: 1em 0;color:#fff;font-size:3em;background-color: #9DACBD;">
 		Download Now !
 	</div>
 </div>
