@@ -12,7 +12,7 @@ padding: 0;
         
       </div>
      <div class="row large-12 columns large-centered">
-      <h4>Medals</h4>
+      <h4  id="medals">Medals</h4>
       <div class="underline-small">
       </div>
 
@@ -162,7 +162,7 @@ h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) r
         </div>
 
 
-        <h4>Safety</h4>
+        <h4 id="safety">Safety</h4>
         <div class="underline-small">   </div>
         <h4>1. Are you using the iGEM Software repository at github.com/igemsoftware? If you have instead stored your code elsewhere, please explain where and why you have put it there. If your code is not in the iGEM repository, a re you using any version control system such as Git, CVS, or SVN?
         </h4>
@@ -192,7 +192,7 @@ Yes, user can upload their data to our database anytime. Yes, we will check vali
         <h4>7. Is your team also doing biological work in a wet lab ? </h4>
         <p>No</p>
 
-        <h4>Collaboration</h4>
+        <h4 id="collaboration">Collaboration</h4>
       <div class="underline-small">
         
       </div>
