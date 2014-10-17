@@ -10,7 +10,7 @@ require_once("head.html");
       <div class="row">
         <div class="large-12 columns large-centered">
     
-      <h4>Backend</h4>
+      <h3>Backend</h3>
       <div class="underline-small">
       </div>
 				<h5>Framework</h5>
@@ -34,7 +34,7 @@ require_once("head.html");
           <h5>Unit Testing:</h5>
           <p>Our server applies automated unit testing to dealing with uploaded backend codes. It will test the basic legitimacy and function of the codes, including robustness testing with respect to illegitimate uploaded parameters, legitimacy testing on data legitimacy, status testing of the database and testing of function realizaton, etc.</p>
 
-			<h4>Alogrithm</h4>
+			<h3>Alogrithm</h3>
             <div class = "underline-small"></div>	
           <h5>Pathway Finder Alogrithm:</h5>
           <p>The software can search for paths between two selected nodes. We used a-stark short-path algorithm to achieve the function of discovering potential relationship in the biological network.
