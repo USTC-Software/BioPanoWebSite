@@ -43,6 +43,8 @@ $(function(){
     var titleText = $(this).text();//text();
     $('#pop_up_content').html('<h2>' + titleText + '</h2>' + description);
         $('#pop_up').fadeIn();
+      $(document.body).css("overflow","hidden");//禁止body 滚动条
+        $("html").css("overflow","hidden");
         return false;
     });
     $('.row .profilewrap').click(function(){
@@ -50,13 +52,19 @@ $(function(){
     var titleText = $(this).find('.nameplate').text();//text();
     $('#pop_up_content').html('<h2>' + titleText + '</h2>' + description);
         $('#pop_up').fadeIn();
+        $(document.body).css("overflow","hidden");//禁止body 滚动条
+        $("html").css("overflow","hidden");
         return false;
     });    
     $('#pop_up #pop_up_close').click(function(){
         $('#pop_up').fadeOut();
+        $(document.body).css("overflow","auto");
+        $("html").css("overflow","auto");
     });
     $('#pop_up #pop_up_underlay').click(function(){
         $('#pop_up').fadeOut();
+        $(document.body).css("overflow","auto");
+        $("html").css("overflow","auto");
     });
   /*
     $(".profilewrap").hover(function(){
