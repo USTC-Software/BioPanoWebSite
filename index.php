@@ -9,7 +9,7 @@ require_once("head.html")
 
 
 <div style="position: relative;">
-	<img src="img/MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/5/50/2014ustc-MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
