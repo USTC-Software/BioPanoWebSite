@@ -7,21 +7,18 @@ require_once("head.html")
         
       </div>
       <div class="row large-12 columns large-centered">
-        <h4>Management<br />
-            ——IGEM Efficiency Environment Enjoyment
-        </h4>
+        <h4>Management</h4>
         <div class="underline-small">
         
       </div>
+      <h5> IGEM Efficiency Environment Enjoyment</h5>
       <p>During the entire iGEM project, we adhered to the four elements,
        iGEM, efficiency, environment and enjoyment. When the project is drawing to a close,
         we tease out our project management experience according
          to them and put it online for reference to more people.</p>
-     <div class="row large-12 columns large-centered">
-       <h4>iGEM</h4>
-      <div class="underline-small">
-        
-      </div>
+     
+       <h5>iGEM</h5>
+     
         <p>As our project is for participating in IGEM,
          we always emphasized the leading position of IGEM in our project.
           We set up study group specifically for IGEM project. Independent of the working group,
@@ -32,10 +29,8 @@ require_once("head.html")
                that the whole project runs smoothly on track. The experience above applies to project of any subject.
                 Just replace “IGEM” with your own word.</p>
 
-        <h4>Efficiency</h4>
-      <div class="underline-small">
-        
-      </div>
+        <h5>Efficiency</h5>
+   
         <p>In any project, efficiency is always a significant factor.
          During our project, we took regular and necessary methods,
           such as wholesome team management system (team leader, team manager,
@@ -47,10 +42,8 @@ require_once("head.html")
                 which avoided the detriment of environment caused by paper-based platform 
                 (this will be mentioned again later).</p>
 
-        <h4>Environment</h4>
-      <div class="underline-small">
-        
-      </div>
+        <h5>Environment</h5>
+      
         <p>
  Environmental protection is one of the most compelling problems nowadays.
   We kept thinking about this issue while proceeding the project. Firstly, as mentioned above,
@@ -61,10 +54,7 @@ require_once("head.html")
        appropriate regulation can ensure that working group of any project can 
        do their work comfortably and protect the earth at the same time.
         </p>
-<h4>Enjoyment</h4>
-      <div class="underline-small">
-        
-      </div>
+<h5>Enjoyment</h5>
         <p>
  Although there were a lot of work to do, our project experience was joyful.
   At the beginning of the project, team members with experience in software 
@@ -77,17 +67,15 @@ require_once("head.html")
      working experience enjoyable and unforgettable.
 
         </p>
-  </div>
-  <div class="row large-12 columns large-centered">
+  
+ 
         <h3>Examples with softwares</h3>
         <div class="underline-small">
         
       </div>
-     <div class="row large-12 columns large-centered">
-       <h4>Google group</h4>
-      <div class="underline-small">
-        
-      </div>
+    
+       <h5>Google group</h5>
+      
         <p>At the formation of USTC-Software of 2014, 
           the team leader of 2013 recommended Google group as an online platform f
           or communication and team management. Although every team member was highly en
@@ -111,11 +99,10 @@ require_once("head.html")
 
         </p>
 
-        <h4>Wunderlist</h4>
-      <div class="underline-small">
-        
-      </div>
-        <p>Conversation sharing of Google group became inconvenient a
+        <h5>Wunderlist</h5>
+     
+        <p>
+        Conversation sharing of Google group became inconvenient a
           s the project proceeded and our work became complicated. So we chose to use Wunderlist.<br />
           Wunderlist is specifically designed for work arrangement. 
           People in charge can create lists for their part of work and invite
@@ -130,12 +117,11 @@ require_once("head.html")
                  were distributed to different people. We also used the feedback service
                   of Wunderlist to monitor the work progress. The use of Wunderlist enabled 
                   us to assign work in a scientific way and keep us informed of the progress
-                   of our project all the time to make sure that everything goes according to the plan.</p>
+                   of our project all the time to make sure that everything goes according to the plan.
+        </p>
 
-        <h4>OneNote</h4>
-      <div class="underline-small">
-        
-      </div>
+        <h5>OneNote</h5>
+     
         <p>
  For every team, the financial problem is a big one. Of course, you m
  ay separate money and account, but how do you keep two or more financ
@@ -149,10 +135,8 @@ require_once("head.html")
 
 
         </p>
-<h4>Omni outliner & Mindmap</h4>
-      <div class="underline-small">
-        
-      </div>
+<h5>Omni outliner & Mindmap</h5>
+    
         <p>
  No matter you are in what stage of what project, wh
  en you need new thoughts, it is always quite a hard time 
@@ -172,10 +156,8 @@ ints raised in the brainstorm.
 
         </p>
 
-        <h4>Dropbox</h4>
-      <div class="underline-small">
-        
-      </div>
+        <h5>Dropbox</h5>
+      
         <p>
  During the project, all kinds of files were created 
  unremittingly. To be specific, articles to read, work l
