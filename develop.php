@@ -20,12 +20,12 @@ require_once("head.html")
        <li>Air & Flash Application</li>
        <li>Framework</li>
     
-      <h4>Cloud</h4>
+      <h4>The Introduction of Backend</h4>
       <div class="underline-small">
       </div>
 
     
-        <h4>后端技术简介</h4>
+        
         <p>Our server uses Linux as operating system, MongoDB to manage abundant biological data, including information of millions of nodes, and MySQL database to store data of users and information of projects and species. Our server-side program is based on Django development, and is optimized for multi-node and remote-controlling circumstances, ensuring that your request will be answered wherever you are. When a node breaks down, our server will separate the node from the group and realize automatic failover.</p>  
     
 
