@@ -11,15 +11,11 @@ function checkOS(){
 }
 
 function downloadFile(OSName) {
-    if(typeof(downloadFile.iframe) == "undefined") {
-          downloadFile.iframe = document.createElement("iframe");
-          document.body.appendChild(downloadFile.iframe);
-    }
     if(OSName == "Win")
-    	downloadFile.iframe.src = "http://www.biopano.org/biopano.exe";
-    else if(OSName == "Mac")
-    	downloadFile.iframe.src = "http://www.biopano.org/biopano.air";
-    downloadFile.iframe.style.display = "none";
+    	url = "http://www.biopano.org/biopano.exe";
+    else// if(OSName == "Mac")
+    	url = "http://www.biopano.org/biopano.air";
+    window.location.href=url;
 }
 
 </script>
