@@ -30,10 +30,7 @@ transaction banking
       <h4>USTCIF</h4>
       <div class="underline-small"></div>
        <p>
-         USTCIF,全称 The University of Science and Technology of China Initiative Foundation。
-新创基金会是为中国科大发展服务的教育类NGO。她作为中国科大之校友基金之一,旨在建设
-强大校友基金,服务科大发展。新创基金会是中国大陆第一个由校友自发筹建、独立于校方的
-高校校友基金,她将为凝聚校友对科大的长期、草根性支持做出探索。
+         USTCIF, The University of Science and Technology of China Initiative Foundation, is a educational NGO serves to help with the development of USTC. As one of USTC's alumni foundations, its purpose is to enhence the alumni foundations to make USTC better. USTIF is the first college alumni foundation indepentant from the university.
         </p>
     
       <h4>USTC Teaching Affair Office</h4>
@@ -43,40 +40,17 @@ transaction banking
        <p>
        http://www.teach.ustc.edu.cn/
         </p>
+  <h4></h4>
+  <div class="underline-small">
     
-    <h4>RegulonDB</h4>
-      <div class="underline-small">
-        
-      </div>
-       <p>
-       http://regulondb.ccg.unam.mx/
-        </p>
-
-        <h4>Kegg</h4>
-      <div class="underline-small">
-        
-      </div>
-       <p>
-        http://www.kegg.jp/
-        </p>
- 
-        <h4>NCBI</h4>
-      <div class="underline-small">
-        
-      </div>
-       <p>
-      http://www.ncbi.nlm.nih.gov/
-        </p>
-
-        <h4>uniprot</h4>
-      <div class="underline-small">
-        
-      </div>
-       <p>
-      http://www.uniprot.org/
-        </p>
-
-
+  </div>
+ <ul class="small-block-grid-4">
+          <li><a href="http://regulondb.ccg.unam.mx/"><img src="img/RegulonDB.jpg" style="height:100px"></a></li>
+          <li><a href="http://www.kegg.jp/"><img src="img/Kegg.jpg" style="height:100px"></a></li>
+          <li><a href="http://www.ncbi.nlm.nih.gov/"><img src="img/NCBI.jpg" style="height:100px"></a></li>
+          <li><a href=" http://www.uniprot.org/"><img src="img/uniprot.png" style="height:100px"></a></li>
+          </ul>
+<p>We would like to thank RegulonDB, Kegg, NCBI and uniprot for their data, without which Biopano can never be finished. Thanks again for their work and effort.</p>
 
      </div>
 
