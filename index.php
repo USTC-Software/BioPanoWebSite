@@ -43,7 +43,7 @@ require_once("head.html")
 </div>
 
 <div style="position: relative;" class="text-center ">
-	<div  class="button" style="margin: 1em 0;color:#fff;font-size:3em;background-color: #6DA69D;">
+	<div  class="button" style="margin: 1em 0;color:#fff;font-size:3em;background-color: #9DACBD;">
 		Download Now !
 	</div>
 </div>
