@@ -14,7 +14,7 @@ padding: 0;
      <div class="row large-12 columns large-centered">
       <h4  id="medals">Medals</h4>
       <div class="underline-small">
-      </div>
+	      </div>
 
      
      <h4><img src="img/medal/2014USTC-Bronze.png" width="60" height="60" alt="Bronze" >Bronze</h4>
@@ -49,17 +49,17 @@ padding: 0;
      You can directly enter the precise number of Standard Part, you can get its all types in BioBrick Assistant Windows.
       <div class="large-12 columns text-center">
       <img style="margin:1em" src="img/2014ustc-medal1.png">
-        </div>
+        </div>    
+        <p>&nbsp;</p>
 
-    
-    <div class="underline-tiny"></div>
+    <div class="underline-tiny"></div>     
 
       <h4><img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" >Silver</h4>
      <p> In addition to the Bronze Medal requirements, the following 4 goals must be achieved:</p>
 
 
 
-     
+
      <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
     Demonstrate the relevance of your development for Synthetic Biology based on standard Parts.
      </h5>
@@ -97,7 +97,7 @@ padding: 0;
           automated united testing: 自动部署：
           <a href="ci.biopano.org"></a>
    
-
+<p>&nbsp;</p>
              <div class="underline-tiny"></div>
      <h4><img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" >Gold</h4>
      <p> In addition to the Bronze and Silver Medal requirements, two additional goals must be achieved:</p>
