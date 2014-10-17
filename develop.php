@@ -32,7 +32,7 @@ require_once("head.html")
           <p>Our server has automated deployment capabilities. Server-side applications are bound with the Product branch of Git. All codes pushed to the Product branch will be deployed to many servers over the world in ten seconds. In order to prevent fault codes from being deployed to the servers by mistake, all the testing branches will be deployed to the testing server real-timely to be tested by developers.</p>
 
           <h5>Unit Testing:</h5>
-          <p>Our server has automated deployment capabilities. Server-side applications are bound with the Product branch of Git. </p>
+          <p>Our server applies automated unit testing to dealing with uploaded backend codes. It will test the basic legitimacy and function of the codes, including robustness testing with respect to illegitimate uploaded parameters, legitimacy testing on data legitimacy, status testing of the database and testing of function realizaton, etc.</p>
 
 			<h4>Alogrithm</h4>
             <div class = "underline-small"></div>	
@@ -41,7 +41,7 @@ require_once("head.html")
           <p>A* algorithm is a search algorithm based on greedy, which can always visit fewer nodes and get a better solution at the same time.</p>
           <p>In this way, however, we get the shortest path in graph theory. By giving different and appopraite weights to different edges, the algorithm can find the shortest path in the sense of biology.</p>
           
-          <h5>BLAST：</h5>
+          <h5>BLAST:</h5>
           <p>We use two packages, namely, NCBI_Blast and the Python package called for NCBI_Blast. Different from NCBI, our alignment database combines RegulonDB and user-define databases. When the user inputs a sequence (such as a BioBrick sequence), Biopano will the node that shares the deepest homology with it in the server database, and show other nodes connected with it. Therefore, Biopano can show the nodes and regulations in the biological regulation network that probably has to do with the sequence (such as BioBrick sequece) the user inputs.</p>
      </div>
 
