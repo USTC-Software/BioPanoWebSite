@@ -155,7 +155,7 @@ We use a specail heuristic algorithm , <a href="http://en.wikipedia.org/wiki/A*_
      <img  style="margin:1em" src="img/2014ustc-medal3.png">
         </div>
 
-				<p><\p>
+				<p></p>
         <h4 id="safety">Safety</h4>
         <div class="underline-small">   </div>
         <h5>1. Are you using the iGEM Software repository at github.com/igemsoftware? If you have instead stored your code elsewhere, please explain where and why you have put it there. If your code is not in the iGEM repository, a re you using any version control system such as Git, CVS, or SVN?
