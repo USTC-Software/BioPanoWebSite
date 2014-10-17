@@ -148,7 +148,7 @@ the Operon Trp.</h5>
          <h4>Why choose BioPano?</h4>
       <div class="underline-small"></div>
       <div>
-       <p> Biopano ,do the experiment as you do in the lab.</p>
+       <p> Biopano, do the experiment as you do in the lab.</p>
        <p>In experiment, synthetic biologists always find gene circuits formed by BioBricks are incompatible with the host cell, thus cannot work as expected. However, Biopano uses sequence alignment to analyze the possible reasons of the failure and design more acute gene circuit for your consideration.</p>
        <p>Our Blast algorism derives from NCBI. However, the original version only offers sequence alignment and fails to analyze what impact the host environment might have on the injected gene circuit, let along predicts whether it will work.</p>
        <p>Firstly, Biopano offers BioBrick searching to make it convenient for you to study all standardized biological parts on the official website of iGEM. Secondly, you can input a BioBrick and even construct a brand new sequence. Biopano will find the gene nodes of E.coli K-12 sharing the deepest homology with it based on authoritative Blast algorithm. Then you can Expand these nodes to find out the possible regulation on them. In this way, Biopano helps you analyze whether the injected gene circuit will actually work.</p>
