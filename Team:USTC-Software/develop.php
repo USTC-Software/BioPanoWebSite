@@ -1,5 +1,5 @@
 <?php
-require_once("./Team:USTC-Software/head.html")
+require_once("head.html")
 ?>
 <div class="main-content">
      <div class="row large-12 columns large-centered">
@@ -91,5 +91,5 @@ require_once("./Team:USTC-Software/head.html")
 
 <?php
 
-require_once("./Team:USTC-Software/foot.html")
+require_once("foot.html")
 ?>
