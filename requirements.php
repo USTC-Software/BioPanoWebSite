@@ -30,8 +30,8 @@ require_once("head.html")
      Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its all types in BioBrick Assistant Windows.
-      <div class="large-6 columns"><img src="img/feature-c.png"></div>
-                    </div>
+      <div class="large-6 columns"><img src="img/2014ustc-medal1.png"></div>
+        </div>
        </p>
     
         
@@ -42,21 +42,32 @@ require_once("head.html")
      <h5>
     Demonstrate the relevance of your development for Synthetic Biology based on standard Parts.
      </h5>
+     You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
+      <div class="large-6 columns"><img src="img/2014ustc-medal2.png"></div>
+        </div>
       </p>
       <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
      <h5>
     Provide a comprehensive and well-designed User Guide. (Be creative! An instructional video may work as well.)
      </h5>
+     We have a complete user manual <a href="biopanohelp.pdf">here!</a>
        </p>
        <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
      <h5>
     Provide detailed API documentation, preferably, automatically built from source code documentation (use tools like doxygen, yard, rdoc, naturaldocs, etc).
      </h5>
+     We use toc to automatically produce api document.<a href="./api.html">here!</a>
        </p>
        <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
      <h5>
     Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.
-     </h5>
+     </h5>Problem feedback and bug tracking: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible.
+http://bug.biopano.org/dashboard
+version control :we use gitlab to manage our code. 
+<a href="http://dev.biopano.org"></a>
+automated united testing: 自动部署：
+<a href="ci.biopano.org"></a>
+
        </p>
 
        <img src="img/medal/2014USTC-Gold.png" width="60" height="60" alt="Gold" ></img>
@@ -66,6 +77,13 @@ require_once("head.html")
      <h5>
    Provide a convincing validation, testing the performance of the development -- experimentally (can be outsourced) or by other teams and users. Note, even if the algorithm or tool turns out not to work that well, the Gold requirement is fulfilled if the test is good and the analysis convincing. Validation may include: preferably experiments, informatics analysis (complexity, run time) of an algorithm, or user studies.
      </h5>
+     algorithm pathway finder（ K short path search in our net） anylsis：
+It is sometimes crucial to have more than one path between two nodes in a given network. In the event there are additional constraints, other paths different from the shortest path can be computed. To find the shortest path one can use shortest path algorithms such as Dijkstra’s algorithm or Bellman Ford algorithm and extend them to find more than one path. The K Shortest path routing algorithm is a generalization of the shortest path problem. The algorithm not only finds the shortest path, but also K other paths in order of increasing cost. K is the number of shortest paths to find.
+A* algorithm is a search algorithm based on greedy, which can always visit fewer nodes and get a better solution at the same time. When we are searching, we always traversal a search tree, such as level traversal in bfs and preorder traversal in dfs. We will get the solution which is lowest in the search tree during bfs. But it is far from enough to judge only on depth. We can construct a heuristic function to judge whether the state is good or not, and then expand the good-state node to get a better solution more quickly.
+In the k shortest path problem, 不妨设是从S到T的k短路，we can use the length of shortest path from node X to node T as node X’s heuristic function, which can be calculated in O((n+m)logn) using Dijkstra during the pretreatment of the algorithm. And we can make a function f as below:
+f(x)=g(x)+h(x)
+h(x) is X’s heuristic function, g(x) is the actual cost from S to X and f(x) represent the total cost needs at node X.We can expands the node x which f(x) is minimum, maintaining it using the a sorted priority queue to Ensure efficiency。When x equals t, we get a shortest solution except those we have got before. We can get the k shortest path using this approach efficiently.
+
        </p>
        <p>
          And the second goal can be any one of the following:
@@ -73,17 +91,28 @@ require_once("head.html")
      <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
      <h5>
     Make your software interact / interface with the Registry.
-     </h5>
-       </p>
+     </h5>You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
+   <div class="large-6 columns"><img src="img/2014ustc-medal1.png"></div>
+        </div>       </p>
     <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
      <h5>
     Re-use and further develop previous iGEM software projects (or parts thereof) or use and/or improvement of existing synthetic biology tools or frameworks.
      </h5>
+     We use blast code from <a href="http://blast.ncbi.nlm.nih.gov/Blast.cgi">ncbi </a>to comparing the homology.
        </p>
      <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
      <h5>
     Develop a well documented library or API for other developers (rather than “only” a stand-alone app for end users.)
      </h5>
+     We use toc to automatically produce api document.<a href="./docs/">here!</a>
+       </p>
+  <p><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" ></img>
+     <h5>
+    Support and use the SBOL and / or SBOLv standard.
+     </h5>
+    Biopano supports file format conversion to sbol perfectly
+     <div class="large-6 columns"><img src="img/2014ustc-medal3.png"></div>
+        </div>
        </p>
 
 
