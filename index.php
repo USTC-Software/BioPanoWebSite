@@ -11,11 +11,11 @@ function checkOS(){
 }
 
 function downloadFile(OSName) {
-    if(OSName == "Win")
+    if(OSName == "win")
     	url = "http://www.biopano.org/biopano.exe";
     else// if(OSName == "Mac")
     	url = "http://www.biopano.org/biopano.air";
-    window.location.href=url;
+    window.open(url);
 }
 
 </script>
