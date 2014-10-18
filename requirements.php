@@ -17,62 +17,62 @@ padding: 0;
 	      </div>
 
      
-     <h4><img src="img/medal/2014USTC-Bronze.png" width="60" height="60" alt="Bronze" >Bronze</h4>
+     <h4><img src="http://2014.igem.org/wiki/images/4/4c/2014ustc-Bronze.png" width="60" height="60" alt="Bronze" >Bronze</h4>
      <p> The following 4 goals must be achieved:</p>
 
   
      
-      <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+      <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
      Register the team, have a great summer, and have fun attending the Jamboree in Boston.
      </h5>
  
 
 
      
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
      Create and share a description of the team's project via the iGEM wiki.
      </h5>
    
 
  
        
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
       Present a Poster and Talk at the Regional Jamboree and World Championship Jamboree.
      </h5>
      
 
 
        
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
      Develop and make available via The Registry of Software Tools, an open source software tool that supports Synthetic Biology based on Standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its all types in BioBrick Assistant Windows.
       <div class="large-12 columns text-center">
-      <img style="margin:1em" src="img/2014ustc-medal1.png">
+      <img style="margin:1em" src="http://2014.igem.org/wiki/images/c/ce/2014ustc-medal1.png">
         </div>    
         <p>&nbsp;</p>
 
     <div class="underline-tiny"></div>     
 
-      <h4><img src="img/medal/2014USTC-Silver.png" width="60" height="60" alt="Sliver" >Silver</h4>
+      <h4><img src="http://2014.igem.org/wiki/images/c/c6/2014ustc-Silver.png" width="60" height="60" alt="Sliver" >Silver</h4>
      <p> In addition to the Bronze Medal requirements, the following 4 goals must be achieved:</p>
 
 
 
 
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
     Demonstrate the relevance of your development for Synthetic Biology based on standard Parts.
      </h5>
      You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
       <div class="large-12 columns text-center">
-      <img style="margin:1em" src="img/2014ustc-medal2.png">
+      <img style="margin:1em" src="http://2014.igem.org/wiki/images/e/ee/2014ustc-medal2.png">
         </div>
     
 
 
 
       
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
     Provide a comprehensive and well-designed User Guide. (Be creative! An instructional video may work as well.)
      </h5>
      We have a complete user manual <a href="biopanohelp.pdf">here!</a>
@@ -80,7 +80,7 @@ padding: 0;
 
    
        
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
     Provide detailed API documentation, preferably, automatically built from source code documentation (use tools like doxygen, yard, rdoc, naturaldocs, etc).
      </h5>
      We use toc to automatically produce api document.<a href="./api.html">here!</a>
@@ -88,7 +88,7 @@ padding: 0;
 
  
           
-          <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+          <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
           Demonstrate that you followed best practises in software development so that other developers can modify, use and reuse your code. Provide more than one realistic test case. Examples of best practices are automated unit testing and documentation of test coverage , bug tracking facilities, documentation of releases and changes between releases.
           </h5>
           <a href="bug.biopano.org">Problem feedback and bug tracking</a>: You can cast inquiry on us by GitHub, GitLab and YouTrack. Meanwhile, YouTrack is also used for bug tracking, ensuring your feedback goes to the developer as soon as possible. 
@@ -99,13 +99,13 @@ Unit Testing:Our server applies automated unit testing to dealing with uploaded 
    
 <p>&nbsp;</p>
              <div class="underline-tiny"></div>
-     <h4><img src="img/medal/2014USA* TC-Gold.png" width="60" height="60" alt="Gold" >Gold</h4>
+     <h4><img src="http://2014.igem.org/wiki/images/8/88/2014ustc-Gold.png" width="60" height="60" alt="Gold" >Gold</h4>
      <p> In addition to the Bronze and Silver Medal requirements, two additional goals must be achieved:</p>
 
 
  
       
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
    Provide a convincing validation, testing the performance of the development -- experimentally (can be outsourced) or by other teams and users. Note, even if the algorithm or tool turns out not to work that well, the Gold requirement is fulfilled if the test is good and the analysis convincing. Validation may include: preferably experiments, informatics analysis (complexity, run time) of an algorithm, or user studies.
      </h5>
   Analysis of pathway finder (k-shortest pathway search):<br />
@@ -119,18 +119,18 @@ We use a specail heuristic algorithm , <a href="http://en.wikipedia.org/wiki/A*_
 
      
      
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
     Make your software interact / interface with the Registry.
      </h5>You can directly enter the precise number of Standard Part, you can get its types in BioBrick Assistant Windows .then you can use blast tool with the sequence from BioBrick Assistant.By comparing the homology between the sequence of the part and in our database, we could predict its impact on the target body when injected to some extent.
    
    <div class="large-12 columns text-center">
-          <img style="margin:1em" src="img/2014ustc-medal1.png">
+          <img style="margin:1em" src="http://2014.igem.org/wiki/images/c/ce/2014ustc-medal1.png">
    </div>
         
 
 
     
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
     Re-use and further develop previous iGEM software projects (or parts thereof) or use and/or improvement of existing synthetic biology tools or frameworks.
      </h5>
      We use blast code from <a href="http://blast.ncbi.nlm.nih.gov/Blast.cgi">ncbi </a>to comparing the homology.
@@ -139,7 +139,7 @@ We use a specail heuristic algorithm , <a href="http://en.wikipedia.org/wiki/A*_
   
 
   
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
     Develop a well documented library or API for other developers (rather than “only” a stand-alone app for end users.)
      </h5>
      We use toc to automatically produce api document.<a href="./docs/">here!</a>
@@ -147,12 +147,12 @@ We use a specail heuristic algorithm , <a href="http://en.wikipedia.org/wiki/A*_
 
 
 
-     <h5><img src="img/medal/2014USTC-check.png" width="30" height="30" alt="Complete" >
+     <h5><img src="http://2014.igem.org/wiki/images/c/c1/Hfut-A.png" width="30" height="30" alt="Complete" >
     Support and use the SBOL and / or SBOLv standard.
      </h5>
     Biopano supports file format conversion to sbol perfectly
      <div class="large-12 columns text-center">
-     <img  style="margin:1em" src="img/2014ustc-medal3.png">
+     <img  style="margin:1em" src="http://2014.igem.org/wiki/images/d/dd/2014ustc-medal3.png">
         </div>
 
 				<p></p>

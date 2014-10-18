@@ -30,34 +30,34 @@ function downloadFile(OSName) {
 	<!--
 	<img src="http://2014.igem.org/wiki/image/5/50/2014ustc-MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 	-->
-	<img src="img/2014ustc-MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/image/5/50/2014ustc-MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 	
 </div>
 
 <div style="position: relative;">
-	<img src="img/page1.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/1/1a/2014ustc-page1.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
-	<img src="img/page2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/a/a5/2014ustc-page2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
-	<img src="img/page3.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/a/a3/2014ustc-page3.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
-	<img src="img/page4.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/5/54/2014ustc-Page4.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
-	<img src="img/page5.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/5/5f/2014ustc-page5.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 
 
 <div style="position: relative;">
-	<img src="img/page7.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/2/20/2014ustc-page7.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative; color: #DFDFDF;background-color: #DFDFDF;" class="text-center" >
