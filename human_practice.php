@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 require_once("head.html")
 ?>
 <div class="main-content">
@@ -70,7 +70,7 @@ require_once("head.html")
         </p>
   
  
-        <h3 id="hlx">Software & Platforms We Used</h3>
+        <h3 id="hlxisveryhandsome">Software & Platforms We Used</h3>
         <div class="underline-small">
         
       </div>
@@ -87,8 +87,6 @@ require_once("head.html")
 <div class="underline-tiny"></div>
         <h5>Wunderlist</h5>
      
-        <p>
-        Conversation sharing of Google group became inconvenient as the project proceeded and our work became more and more complicated. So we chose to use Wunderlist at the same time.<br /><br />Wunderlist is specifically designed for work arrangement. People in charge can create lists for their part of work and invite other users to help them with the work. Specifically, they can assign different members for different tasks and set deadlines. Other members can give feedbacks to the list after the corresponding work is done, and people in charge can delete the work from the list. Another advantage of Wunderlist is that it is available for all platforms, including PC and mobile phone. This way, all team members could receive the latest work notices.<br /><br />During the project, we created lists based on our work, including iGEM-backend, iGEM-frontend, iGEM-wiki and iGEM-finance, etc. Complicated assignments were distributed to different people. We also used the feedback service of Wunderlist to monitor the work progress. The use of Wunderlist enabled us to assign tasks in a scientific way and keep us informed of the progress of our project all the time to make sure that everything goes according to the plan.
         </p>
 <div class="underline-tiny"></div>
         <h5>OneNote</h5>
