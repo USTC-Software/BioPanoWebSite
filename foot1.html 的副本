@@ -35,7 +35,7 @@
   </div>
 </div>
 </div>
-     
+     <script src="http://2014.igem.org/Team:USTC-Software/jquery.js?action=raw&ctype=text/javascript"></script>
 <script>
 $(function(){
     $('.row .nameplate').click(function(){
@@ -43,8 +43,6 @@ $(function(){
     var titleText = $(this).text();//text();
     $('#pop_up_content').html('<h2>' + titleText + '</h2>' + description);
         $('#pop_up').fadeIn();
-      $(document.body).css("overflow","hidden");//禁止body 滚动条
-        $("html").css("overflow","hidden");
         return false;
     });
     $('.row .profilewrap').click(function(){
@@ -52,20 +50,23 @@ $(function(){
     var titleText = $(this).find('.nameplate').text();//text();
     $('#pop_up_content').html('<h2>' + titleText + '</h2>' + description);
         $('#pop_up').fadeIn();
-        $(document.body).css("overflow","hidden");//禁止body 滚动条
-        $("html").css("overflow","hidden");
         return false;
     });    
     $('#pop_up #pop_up_close').click(function(){
         $('#pop_up').fadeOut();
-        $(document.body).css("overflow","auto");
-        $("html").css("overflow","auto");
     });
     $('#pop_up #pop_up_underlay').click(function(){
         $('#pop_up').fadeOut();
-        $(document.body).css("overflow","auto");
-        $("html").css("overflow","auto");
     });
+  /*
+    $(".profilewrap").hover(function(){
+    $(this).find('.normal').hide();
+    $(this).find('.crazy').show();
+    },function(){
+    $(this).find('.normal').show();
+    $(this).find('.crazy').hide();
+    }); 
+*/
 });
 </script>
       <script src="http://2014.igem.org/Team:USTC-Software/main.js?action=raw&ctype=text/javascript"></script> <!-- Resource jQuery -->
@@ -74,56 +75,6 @@ $(function(){
     <script>
       $(document).foundation();
     </script>
-    <style type="text/css">
-#totop_item {
-display: none;
-width: 60px;
-height: 100px;
-position: fixed;
-right: 2px;
-bottom: 10px;
--webkit-transition: opacity .4s ease-in-out;
--moz-transition: opacity .4s ease-in-out;
--o-transition: opacity .4s ease-in-out;
-opacity: 1;
-z-index: 100000000;
-}
-
-#totop {
-display: block;
-width: 60px;
-height: 50px;
-background: url(http://2014.igem.org/wiki/images/3/31/2014ustc-Totop.png) center center no-repeat;
-background-color: #444;
-background-color: rgba(0,0,0,.6);
-border-radius: 2px;
-box-shadow: 0 1px 3px rgba(0,0,0,.2);
-cursor: pointer;
-margin-bottom: 10px;
-}
-
-</style>
-<div id="totop_item" class=""> 
-  <a id="totop" onclick="return false;" title="回到顶部"></a> 
-</div>
-    <script type="text/javascript">
-function goTop()
-{
-    $(window).scroll(function(e) {
-        if($(window).scrollTop()>300)
-            $("#totop_item").fadeIn(1000);
-        else
-          $("#totop_item").fadeOut(1000);
-    });
-};
-$(function(){
-    $("#totop").click(function(e) {
-            $('body,html').animate({scrollTop:0},1000);
-    });
-    goTop();
-});
-</script>
-
     
   </body>
 </html>
