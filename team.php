@@ -132,7 +132,9 @@ top: 0;
           <li class ="profilewrap">
               <img src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Gao Yifan</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Yifan Gao"  align="left"><p>Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Yifan Gao"  align="left"><p>[POSI]The backend team leader
+[WORK]Software Architecture Design, Server Development, Server Maintenance
+[INTR]Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</p>
               </div>
          </li>
  		<li class ="profilewrap">
