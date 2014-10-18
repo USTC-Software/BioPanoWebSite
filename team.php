@@ -289,17 +289,11 @@ Degree awarded: Ph.D in chemistry, 06/2007</p>
         Thank data from RegulonDB, KEGG, Uniprot and NCBI. Only with their data and apis could we refine our database; 
         </li>
          <li>
-        Thank project guidance from Haiyan Liu, Zhi Liang, Fan Jin and Jiong Hong.
+        Thank project guidance from Haiyan Liu, Zhi Liang, Fan Jin and Jiong Hong. Only with their guidance could our project be improved and deepened; 
          </li>
          <li>
-        Only with their guidance could our project be improved and deepened; 
+        Thank Chen Liao for participating in the use, evaluation and popularization of Biopano.He pointed out many deficiencies and bugs of our software.
         </li>
-         <li>
-        Thank Chen Liao for participating in the use, evaluation and popularization of Biopano.
-        </li>
-         <li>
-         He pointed out many deficiencies and bugs of our software. 
-       </li>
        </div>
      </div>
     </div>
