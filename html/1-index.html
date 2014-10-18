@@ -1,3 +1,4 @@
+<!doctype html>
 <html class="no-js" lang="en">
 <head>
     <meta charset="utf-8" />
@@ -9,22 +10,17 @@
     <meta name="copyright" content="USTC-Software, inc. Copyright (c) 2014">
  
     <link href="http://2014.igem.org/Team:USTC-Software/fixed-igemHead.css?action=raw&ctype=text/css" rel="stylesheet" type="text/css" />
-    <!--
-<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
-    
-    -->
+
     <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/reset.css?action=raw&ctype=text/css"> <!-- CSS reset -->
     
-    
-     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/foundation.css?action=raw&ctype=text/css" />
-     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/animate.css?action=raw&ctype=text/css">
+    <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/foundation.css?action=raw&ctype=text/css" />
+   
     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/main-new.css?action=raw&ctype=text/css" />
-    
-    <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/style.css?action=raw&ctype=text/css"> <!-- Resource style -->
-     
+ 
     <script src="http://2014.igem.org/Team:USTC-Software/modernizr.js?action=raw&ctype=text/javascript"></script>
+
+<script src="http://2014.igem.org/Team:USTC-Software/jquery.js?action=raw&ctype=text/javascript"></script>
    
     <!--[if lt IE 9]>
     <link href="http://huodong.ustc.edu.cn/Web/igem2014-website/css/ie.css" media="screen" rel="stylesheet" />
@@ -39,39 +35,6 @@
 </head>
   <body class="off-canvas hide-extras wiki" style="">
 
-<!--
-<aside class="left-off-canvas-menu">
-  <ul class="off-canvas-list">
-    <li><label class="first">USTC-Software</label></li>
-    <li><a href="index.html">Home</a></li>
-  </ul>
-
-  <hr>
-
-  <ul class="off-canvas-list">
-    <li><label class="first">About</label></li>
-    <li><a href="learn/features.html">Overall</a></li>
-    <li><a href="learn/faq.html">Software</a></li>
-    <li><a href="learn/faq.html">Method</a></li>
-    <li><a href="learn/faq.html">Examples</a></li>
-    <li><a href="learn/faq.html">Future Work</a></li>
-  </ul>
-
-  <hr>
-
-</aside>
--->
-<!-- -------------------------------------->
-
- <!--
-<nav class="tab-bar show-for-small">
-  <a class="left-off-canvas-toggle menu-icon" style="line-height: 1.0625rem;">
-     
-    <span>USTC_Software</span>
-   
-  </a>
-</nav>
--->
 <nav class="top-bar" data-topbar role="navigation">
   <ul class="title-area">
     <li class="name" >
@@ -89,7 +52,7 @@
         <a href="/Team:USTC-Software/biopano.php" class="">BioPano</a>
         <ul class="dropdown">
             <li><a href="/Team:USTC-Software/biopano.php#overview">Overview</a></li>
-            <li><a href="/Team:USTC-Software/biopano.php#motiation">Motivation</a></li>
+            <li><a href="/Team:USTC-Software/biopano.php#motivation">Motivation</a></li>
             <li><a href="/Team:USTC-Software/biopano.php#features">Features</a></li>
             <li><a href="/Team:USTC-Software/biopano.php#demos">Demos</a></li>
             <li><a href="/Team:USTC-Software/biopano.php#why">Why choose BioPano?</a></li>
@@ -98,14 +61,18 @@
       </li>
       <li class="divider"></li>
       <li class="has-dropdown">
-        <a href="/Team:USTC-Software/develop.php" class="">Develop</a>
+        <a href="/Team:USTC-Software/develop.php" class="">Technology</a>
          <ul class="dropdown">
-            <li><a href="/Team:USTC-Software/develop.php#framework">Framework</a></li>
-            <li><a href="/Team:USTC-Software/develop.php#interface">Interface</a></li>
-            <li><a href="/Team:USTC-Software/develop.php#cloud">Cloud</a></li>
-            <li><a href="/Team:USTC-Software/develop.php#algorithm">Algorithm</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#front_end">Front End</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#back_end">Back End</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#alogrithm">Alogrithm</a></li>
         </ul>
       </li>
+ <li class="divider"></li>
+      <li>
+        <a href="server.php" class="">Server</a>
+      </li>
+
       <li class="divider"></li>
       <li class="has-dropdown">
         <a href="/Team:USTC-Software/requirements.php" class="">Requirements</a>
@@ -121,8 +88,7 @@
         <a href="/Team:USTC-Software/human_practice.php" class="">Human Practice</a>
         <ul class="dropdown">
             <li><a href="/Team:USTC-Software/human_practice.php#management">Management</a></li>
-            <li><a href="/Team:USTC-Software/human_practice.php#biology_cooperation">Biology Cooperation</a></li>
-            <li><a href="/Team:USTC-Software/human_practice.php#igem_meetups">iGEM Meetups</a></li>
+            <li><a href="/Team:USTC-Software/human_practice.php#hlx">Software & Platform We Used</a></li>
         </ul>
       </li>
       <li class="divider"></li>
@@ -142,48 +108,76 @@
             <li><a href="/Team:USTC-Software/acknowledge.php#dbank">Deutsche Bank</a></li>
             <li><a href="/Team:USTC-Software/acknowledge.php#ustcif">USTCIF</a></li>
             <li><a href="/Team:USTC-Software/acknowledge.php#utao">USTC Teaching Affair Office</a></li>
-            <li><a href="/Team:USTC-Software/acknowledge.php#regulondb">RegulonDB</a></li>
-            <li><a href="/Team:USTC-Software/acknowledge.php#kegg">Kegg</a></li>
-            <li><a href="/Team:USTC-Software/acknowledge.php#ncbi">NCBI</a></li>
+            <li><a href="/Team:USTC-Software/acknowledge.php#database">Database</a></li>
         </ul>
       </li>
       <ul>
   </section>
 
 </nav>
+<script type="text/javascript">
+function checkOS(){
+    var OSName="unknownOS";
+    if (navigator.appVersion.indexOf("Win") != -1) OSName = "win";
+    if (navigator.appVersion.indexOf("Mac") != -1) OSName = "mac";
+    if (navigator.appVersion.indexOf("Linux") != -1 || navigator.userAgent.indexOf("Linux") != -1 || navigator.userAgent.indexOf("Unix") != -1) OSName = "linux";
+    return OSName;
+}
+
+function downloadFile(OSName) {
+    if(OSName == "win")
+    	url = "http://www.biopano.org/biopano.exe";
+    else// if(OSName == "Mac")
+    	url = "http://www.biopano.org/biopano.air";
+    window.open(url);
+}
+
+</script>
 <style type="text/css">
   .wiki{
-    background-color: #e9f0f5;
+    background-color: #434343;
   }  
 </style>
 
 
 <div style="position: relative;">
+	<!--
+	<img src="http://2014.igem.org/wiki/image/5/50/2014ustc-MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	-->
 	<img src="http://2014.igem.org/wiki/images/5/50/2014ustc-MainBackgroundback2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	
 </div>
 
 <div style="position: relative;">
-	<img src="img/page1.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/1/1a/2014ustc-page1.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
-	<img src="img/page2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/a/a5/2014ustc-page2.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
-	<img src="img/page3.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/a/a3/2014ustc-page3.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
-	<img src="img/page4.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/5/54/2014ustc-Page4.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
 <div style="position: relative;">
-	<img src="img/page5.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/5/5f/2014ustc-page5.jpg" alt="" class="bg" style="width:100%;max-width:100%">
 </div>
 
+
+
 <div style="position: relative;">
-	<img src="img/page6.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+	<img src="http://2014.igem.org/wiki/images/2/20/2014ustc-page7.jpg" alt="" class="bg" style="width:100%;max-width:100%">
+</div>
+
+<div style="position: relative; color: #DFDFDF;background-color: #DFDFDF;" class="text-center" >
+	<div  class="button" onclick="downloadFile(checkOS());" style="margin: 1em 0;color:#fff;font-size:3em;background-color: #9DACBD;">
+		Download Now !
+	</div>
 </div>
 
 <div class="clear"></div>
@@ -225,7 +219,7 @@
   </div>
 </div>
 </div>
-     <script src="http://2014.igem.org/Team:USTC-Software/jquery.js?action=raw&ctype=text/javascript"></script>
+     
 <script>
 $(function(){
     $('.row .nameplate').click(function(){
@@ -233,6 +227,8 @@ $(function(){
     var titleText = $(this).text();//text();
     $('#pop_up_content').html('<h2>' + titleText + '</h2>' + description);
         $('#pop_up').fadeIn();
+      $(document.body).css("overflow","hidden");//禁止body 滚动条
+        $("html").css("overflow","hidden");
         return false;
     });
     $('.row .profilewrap').click(function(){
@@ -240,23 +236,20 @@ $(function(){
     var titleText = $(this).find('.nameplate').text();//text();
     $('#pop_up_content').html('<h2>' + titleText + '</h2>' + description);
         $('#pop_up').fadeIn();
+        $(document.body).css("overflow","hidden");//禁止body 滚动条
+        $("html").css("overflow","hidden");
         return false;
     });    
     $('#pop_up #pop_up_close').click(function(){
         $('#pop_up').fadeOut();
+        $(document.body).css("overflow","auto");
+        $("html").css("overflow","auto");
     });
     $('#pop_up #pop_up_underlay').click(function(){
         $('#pop_up').fadeOut();
+        $(document.body).css("overflow","auto");
+        $("html").css("overflow","auto");
     });
-  /*
-    $(".profilewrap").hover(function(){
-    $(this).find('.normal').hide();
-    $(this).find('.crazy').show();
-    },function(){
-    $(this).find('.normal').show();
-    $(this).find('.crazy').hide();
-    }); 
-*/
 });
 </script>
       <script src="http://2014.igem.org/Team:USTC-Software/main.js?action=raw&ctype=text/javascript"></script> <!-- Resource jQuery -->
@@ -265,6 +258,56 @@ $(function(){
     <script>
       $(document).foundation();
     </script>
+    <style type="text/css">
+#totop_item {
+display: none;
+width: 60px;
+height: 100px;
+position: fixed;
+right: 2px;
+bottom: 10px;
+-webkit-transition: opacity .4s ease-in-out;
+-moz-transition: opacity .4s ease-in-out;
+-o-transition: opacity .4s ease-in-out;
+opacity: 1;
+z-index: 100000000;
+}
+
+#totop {
+display: block;
+width: 60px;
+height: 50px;
+background: url(http://2014.igem.org/wiki/images/3/31/2014ustc-Totop.png) center center no-repeat;
+background-color: #444;
+background-color: rgba(0,0,0,.6);
+border-radius: 2px;
+box-shadow: 0 1px 3px rgba(0,0,0,.2);
+cursor: pointer;
+margin-bottom: 10px;
+}
+
+</style>
+<div id="totop_item" class=""> 
+  <a id="totop" onclick="return false;" title="回到顶部"></a> 
+</div>
+    <script type="text/javascript">
+function goTop()
+{
+    $(window).scroll(function(e) {
+        if($(window).scrollTop()>300)
+            $("#totop_item").fadeIn(1000);
+        else
+          $("#totop_item").fadeOut(1000);
+    });
+};
+$(function(){
+    $("#totop").click(function(e) {
+            $('body,html').animate({scrollTop:0},1000);
+    });
+    goTop();
+});
+</script>
+
     
   </body>
 </html>
