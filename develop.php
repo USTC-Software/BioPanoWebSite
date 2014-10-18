@@ -4,7 +4,7 @@ require_once("head.html");
 ?>
 <div class="main-content">
      <div class="row large-12 columns large-centered">
-        <p style="font-size:32px">Technical Introduction</p>  
+        <p style="font-size:32px">Technology</p>  
       </div>
    
    
@@ -12,7 +12,7 @@ require_once("head.html");
         <div class="large-12 columns large-centered">
 			<h3>Front End</h3>
 			<div class="underline-small"></div>
-      <p>The work of front-end is various and complicated. We generally divided it into 4 large parts as below:</p>
+      <p>The work of front end is various and complicated. We generally divided it into 4 large parts as below:</p>
       <ul>
         <li>UI Framework</li>
         <li>Canvas System</li>
@@ -70,7 +70,7 @@ require_once("head.html");
       <p></p>
       <p>Building projects on cloud is strongly recommended, for not only these projects can be open and edit on any computer with your account, but the existence of the nodes and links in the project are recorded in the global biological network database, in which all the nodes and links exist together as well. With more projects uploaded to the cloud, the global database will be extended, thus more information will be provided to users and an ultimate biological network will be built up someday.</p>
       <p></p>
-      <p>With projects on cloud, researchers worldwide will be able to share and quote the findings of each other or directly build one project together by registering as colleagues. For more information about project management, see documentation of the Back-End.</p>
+      <p>With projects on cloud, researchers worldwide will be able to share and quote the findings of each other or directly build one project together by registering as colleagues. For more information about project management, see documentation of the Back End.</p>
       <div class="underline-tiny"> </div>
       <h5>Functional Units</h5>
       <p><b>BioBrick Assistant:</b><br />BioBrick Assistant will get the BioPart in the form of XML from the official website when the user inputs keywords. Then we extract the important information by using Actionscript XML processing functions in the form of a table.</p>
@@ -79,9 +79,9 @@ require_once("head.html");
       <p></p>
       <p><b>Layout Algorithm:</b></p>
       <p></p>
-      <p>1. even layout: First we calculate the border region which the user selected, namely the minimum and maximum of X and Y. So that we can get the height and width of the area. During the process, the number of nodes is gotten. Then we select the value of m and n as below: m, n are integers, m / n is closest to the width / height and m*n is no smaller than the number of the nodes. After m and n are set, the nodes will be arranged that the horizontal interval between horizontally adjacent nodes is width / m, and the vertical interval between vertically adjacent nodes is height / n.</p>
-      <p>2. plasmid arrangement: the arrangement of the radius of the circle size is in proportion to the number of nodes selected. Node will be sorted according to the type and arranged on the circle.</p>
-      <p>3. force-directed arrangement: Imagine that we assign each node with a positive charge, those nodes are mutually exclusive, and the repulsive force is inversely proportional to the square of the distance. Imagine that every edge is a spring, the force it applies on the nodes at its ends is proportional to the length of the spring. By calculating the force applied to each node, we can determine the direction and magnitude of its displacement. This process is called an iteration. After fifty times of iteration, all the nodes will be in steady state. We make their positions now their final positions for arrangement. The parameters of gravitation and repulsion are determined by experiments. The advantage of the algorithm is that it can arrange the graph like a tree and reduce the cross of edges greatly to show the relationships among the nodes more lucidly.
+      <p>1. Even Layout: First we calculate the border region which the user selected, namely the minimum and maximum of X and Y. So that we can get the height and width of the area. During the process, the number of nodes is gotten. Then we select the value of m and n as below: m, n are integers, m / n is closest to the width / height and m*n is no smaller than the number of the nodes. After m and n are set, the nodes will be arranged that the horizontal interval between horizontally adjacent nodes is width / m, and the vertical interval between vertically adjacent nodes is height / n.</p>
+      <p>2. Plasmid Arrangement: the arrangement of the radius of the circle size is in proportion to the number of nodes selected. Node will be sorted according to the type and arranged on the circle.</p>
+      <p>3. Force-directed Arrangement: Imagine that we assign each node with a positive charge, those nodes are mutually exclusive, and the repulsive force is inversely proportional to the square of the distance. Imagine that every edge is a spring, the force it applies on the nodes at its ends is proportional to the length of the spring. By calculating the force applied to each node, we can determine the direction and magnitude of its displacement. This process is called an iteration. After fifty times of iteration, all the nodes will be in steady state. We make their positions now their final positions for arrangement. The parameters of gravitation and repulsion are determined by experiments. The advantage of the algorithm is that it can arrange the graph like a tree and reduce the cross of edges greatly to show the relationships among the nodes more lucidly.
 <br />Force-directed algorithm and GPU acceleration: the time complexity of the arrangement algorithm is O(n^2), so it will take a long time if the number of the nodes is large. So we spill the algorithm among several threads (users can still operate while the back end is calculating) and use the powerful ability for floating-point computation and parallel computation of GPU to accelerate the calculation. Taken multi-platform support into consideration, we use opencl as our programming language. The acceleration uses socket communication for data transfer. The front end send the amount of the nodes, the number and position of each node, the amount of the links and the number of nodes each edge connects to the calculation end. The calculation end spill the computation that the computation of each node is done in a single thread. Visit all the nodes and edges only once and we can get the acceleration of each node. When the computation is done, the calculation end sends every node’s position to the front end.</p>
       <p></p>
       <h3>Back End</h3>
@@ -103,7 +103,7 @@ require_once("head.html");
         
           <div class="underline-tiny"> </div>
           <h5>Interface Design:</h5>
-          <p>The server communicate with frontend based on HTTP protocol. It uses interfaces of RESTful style. It is a kind of completely public and universal interface and offers detailed documentation. You can develop your own applications based on these interfaces. These interfaces have been optimized a lot for Biopano-client, so the communication efficiency has been enhanced significantly.</p>
+          <p>The server communicate with front end based on HTTP protocol. It uses interfaces of RESTful style. It is a kind of completely public and universal interface and offers detailed documentation. You can develop your own applications based on these interfaces. These interfaces have been optimized a lot for Biopano-client, so the communication efficiency has been enhanced significantly.</p>
 
           <div class="underline-tiny"> </div>
           <h5>Automated Deployment:</h5>
@@ -111,7 +111,7 @@ require_once("head.html");
 
           <div class="underline-tiny"> </div>
           <h5>Unit Testing:</h5>
-          <p>Our server applies automated unit testing to dealing with uploaded backend codes. It will test the basic legitimacy and function of the codes, including robustness testing with respect to illegitimate uploaded parameters, legitimacy testing on data legitimacy, status testing of the database and testing of function realizaton, etc.</p>
+          <p>Our server applies automated unit testing to dealing with uploaded back end codes. It will test the basic legitimacy and function of the codes, including robustness testing with respect to illegitimate uploaded parameters, legitimacy testing on data legitimacy, status testing of the database and testing of function realizaton, etc.</p>
 
 			<h3>Alogrithm</h3>
             <div class = "underline-small"></div>	
