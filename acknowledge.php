@@ -45,10 +45,14 @@ transaction banking
     
   </div>
  <ul class="small-block-grid-4">
-          <li><a href="http://regulondb.ccg.unam.mx/"><img src="img/RegulonDB.jpg" style="height:100px"></a></li>
-          <li><a href="http://www.kegg.jp/"><img src="img/Kegg.jpg" style="height:100px"></a></li>
-          <li><a href="http://www.ncbi.nlm.nih.gov/"><img src="img/NCBI.jpg" style="height:100px"></a></li>
-          <li><a href=" http://www.uniprot.org/"><img src="img/uniprot.png" style="height:100px"></a></li>
+          <li><a href="http://regulondb.ccg.unam.mx/">
+          <img src="http://2014.igem.org/wiki/images/4/43/2014ustc-RegulonDB.jpg" style="height:100px"></a></li>
+          <li><a href="http://www.kegg.jp/">
+          <img src="http://2014.igem.org/wiki/images/c/ca/2014ustc-Kegg.jpg" style="height:100px"></a></li>
+          <li><a href="http://www.ncbi.nlm.nih.gov/">
+          <img src="http://2014.igem.org/wiki/images/5/55/2014ustc-NCBI.jpg" style="height:100px"></a></li>
+          <li><a href=" http://www.uniprot.org/">
+          <img src="http://2014.igem.org/wiki/images/4/47/2014ustc-Uniprot.png" style="height:100px"></a></li>
           </ul>
 <p>We would like to thank RegulonDB, Kegg, NCBI and uniprot for their data, without which Biopano can never be finished. Thanks again for their work and effort.</p>
 
