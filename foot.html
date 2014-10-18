@@ -74,6 +74,56 @@ $(function(){
     <script>
       $(document).foundation();
     </script>
+    <style type="text/css">
+#totop_item {
+display: none;
+width: 60px;
+height: 100px;
+position: fixed;
+right: 2px;
+bottom: 10px;
+-webkit-transition: opacity .4s ease-in-out;
+-moz-transition: opacity .4s ease-in-out;
+-o-transition: opacity .4s ease-in-out;
+opacity: 1;
+z-index: 100000000;
+}
+
+#totop {
+display: block;
+width: 60px;
+height: 50px;
+background: url(img/totop.png) center center no-repeat;
+background-color: #444;
+background-color: rgba(0,0,0,.6);
+border-radius: 2px;
+box-shadow: 0 1px 3px rgba(0,0,0,.2);
+cursor: pointer;
+margin-bottom: 10px;
+}
+
+</style>
+<div id="totop_item" class=""> 
+  <a id="totop" onclick="return false;" title="回到顶部"></a> 
+</div>
+    <script type="text/javascript">
+function goTop()
+{
+    $(window).scroll(function(e) {
+        if($(window).scrollTop()>300)
+            $("#totop_item").fadeIn(1000);
+        else
+          $("#totop_item").fadeOut(1000);
+    });
+};
+$(function(){
+    $("#totop").click(function(e) {
+            $('body,html').animate({scrollTop:0},1000);
+    });
+    goTop();
+});
+</script>
+
     
   </body>
 </html>
