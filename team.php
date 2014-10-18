@@ -204,7 +204,7 @@ top: 0;
         </li>
         
  </ul>
- <h4>Instructors & Advisors</h4>
+ <h4 id="I_A">Instructors & Advisors</h4>
       <div class="underline-small"></div>
 
 
@@ -280,7 +280,7 @@ Degree awarded: Ph.D in chemistry, 06/2007</p>
       </div>
 
 
-      <h4>Additional Thanks</h4>
+      <h4 id="Additional_thanks">Additional Thanks</h4>
       <div class="underline-small">
         
       </div>

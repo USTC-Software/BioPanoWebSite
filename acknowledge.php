@@ -8,7 +8,7 @@ require_once("head.html")
       </div>
       <div class="row">
         <div class="large-12 columns large-centered">
-      <h4>Deutsche Bank</h4>
+      <h4 id="dbank">Deutsche Bank</h4>
       <div class="underline-small"></div>
         <p>
         Deutsche Bank is a German global banking and financial services company with its
@@ -27,13 +27,13 @@ derivatives, corporate finance, wealth management, retail banking, fund manageme
 transaction banking
         </p>
     
-      <h4>USTCIF</h4>
+      <h4 id="ustcif">USTCIF</h4>
       <div class="underline-small"></div>
        <p>
          USTCIF, The University of Science and Technology of China Initiative Foundation, is a educational NGO serves to help with the development of USTC. As one of USTC's alumni foundations, its purpose is to enhence the alumni foundations to make USTC better. USTIF is the first college alumni foundation indepentant from the university.
         </p>
     
-      <h4>USTC Teaching Affair Office</h4>
+      <h4 id="utao">USTC Teaching Affair Office</h4>
       <div class="underline-small">
         
       </div>
@@ -44,7 +44,7 @@ transaction banking
   <div class="underline-small">
     
   </div>
- <ul class="small-block-grid-4">
+ <ul class="small-block-grid-4" id="database">
           <li><a href="http://regulondb.ccg.unam.mx/"><img src="img/RegulonDB.jpg" style="height:100px"></a></li>
           <li><a href="http://www.kegg.jp/"><img src="img/Kegg.jpg" style="height:100px"></a></li>
           <li><a href="http://www.ncbi.nlm.nih.gov/"><img src="img/NCBI.jpg" style="height:100px"></a></li>

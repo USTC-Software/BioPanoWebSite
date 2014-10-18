@@ -10,7 +10,7 @@ require_once("head.html");
    
       <div class="row">
         <div class="large-12 columns large-centered">
-			<h3>Front End</h3>
+			<h3 id="front_end">Front End</h3>
 			<div class="underline-small"></div>
       <p>The work of front end is various and complicated. We generally divided it into 4 large parts as below:</p>
       <ul>
@@ -84,7 +84,7 @@ require_once("head.html");
       <p>3. Force-directed Arrangement: Imagine that we assign each node with a positive charge, those nodes are mutually exclusive, and the repulsive force is inversely proportional to the square of the distance. Imagine that every edge is a spring, the force it applies on the nodes at its ends is proportional to the length of the spring. By calculating the force applied to each node, we can determine the direction and magnitude of its displacement. This process is called an iteration. After fifty times of iteration, all the nodes will be in steady state. We make their positions now their final positions for arrangement. The parameters of gravitation and repulsion are determined by experiments. The advantage of the algorithm is that it can arrange the graph like a tree and reduce the cross of edges greatly to show the relationships among the nodes more lucidly.
 <br />Force-directed algorithm and GPU acceleration: the time complexity of the arrangement algorithm is O(n^2), so it will take a long time if the number of the nodes is large. So we spill the algorithm among several threads (users can still operate while the back end is calculating) and use the powerful ability for floating-point computation and parallel computation of GPU to accelerate the calculation. Taken multi-platform support into consideration, we use opencl as our programming language. The acceleration uses socket communication for data transfer. The front end send the amount of the nodes, the number and position of each node, the amount of the links and the number of nodes each edge connects to the calculation end. The calculation end spill the computation that the computation of each node is done in a single thread. Visit all the nodes and edges only once and we can get the acceleration of each node. When the computation is done, the calculation end sends every node’s position to the front end.</p>
       <p></p>
-      <h3>Back End</h3>
+      <h3 id="back_end">Back End</h3>
       <div class="underline-small">
       </div>
 				<h5>Framework</h5>
@@ -113,7 +113,7 @@ require_once("head.html");
           <h5>Unit Testing:</h5>
           <p>Our server applies automated unit testing to dealing with uploaded back end codes. It will test the basic legitimacy and function of the codes, including robustness testing with respect to illegitimate uploaded parameters, legitimacy testing on data legitimacy, status testing of the database and testing of function realizaton, etc.</p>
 
-			<h3>Alogrithm</h3>
+			<h3 id="alogrithm">Alogrithm</h3>
             <div class = "underline-small"></div>	
           <h5>Pathway Finder Alogrithm:</h5>
           <p>The software can search for paths between two selected nodes. We used a-stark short-path algorithm to achieve the function of discovering potential relationship in the biological network.
