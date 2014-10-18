@@ -70,7 +70,7 @@ require_once("head.html")
         </p>
   
  
-        <h3>Software & Platforms We Used</h3>
+        <h3 id="hlx">Software & Platforms We Used</h3>
         <div class="underline-small">
         
       </div>
