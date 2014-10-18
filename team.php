@@ -171,9 +171,9 @@ top: 0;
         </li>
         
         <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Zhang Renying">
-              <div class ="nameplate"><a href="#">Zhang Renying</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Zhang Renying"  align="left"><p>member<br>sophomore from school of physics science<br>Front End work<br>his words:Be the best yourself, to be No.1. </p>
+              <img src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Zhang Huayu">
+              <div class ="nameplate"><a href="#">Zhang Huayu</a></div>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Zhang Huayu"  align="left"><p>member<br>sophomore from school of physics science<br>Front End work<br>his words:Be the best yourself, to be No.1. </p>
               </div>
         </li>
         
