@@ -92,91 +92,88 @@ top: 0;
      <ul class="large-block-grid-6 medium-block-grid-4 small-block-grid-2 text-center">
         
           <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/6/62/2014ustc-Xyc.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/6/62/2014ustc-Xyc.jpg" alt="Xue Yuechuan">
               <div class ="nameplate"><a href="#">Xue Yuechuan</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/6/62/2014ustc-Xyc.jpg" alt="Xue Yuechuan"  align="left"><p>Haiyan Liu was born in Sichuan Province, China. He received his BS degree in Biology in 1990 and PhD degree in Biochemistry and Molecular Biology in 1996, both from USTC. Between 1993 and 1995 he was a visiting graduate student in Laboratory of Physical Chemistry of ETH, Zurich (Switzerland).  Since 2001, he has been a professor of computational biology at School of Life Sciences, USTC. </p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/6/62/2014ustc-Xyc.jpg" alt="Xue Yuechuan"  align="left"><p>captain<br>junior from physical electronics major<br>team leader and art designer</p>
               </div>
          </li>
 
          <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/e/ee/2014ustc-Zss.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/e/ee/2014ustc-Zss.jpg" alt="Zhao Shensen">
               <div class ="nameplate"><a href="#">Zhao Shensen</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/e/ee/2014ustc-Zss.jpg" alt="Zhao Shensen"  align="left"><p>Work which make idea true make me happy.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/e/ee/2014ustc-Zss.jpg" alt="Zhao Shensen"  align="left"><p>vice captain<br>senior from physical electronics major<br>help team managing,join back end work</br>his words:Work which make idea true make me happy</p>
               </div>
          </li>
           <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/6/6e/2014ustc-Glz.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/6/6e/2014ustc-Glz.jpg" alt="Gan Longzhi">
               <div class ="nameplate"><a href="#">Gan Longzhi</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/6/6e/2014ustc-Glz.jpg" alt="Haiyan Liu"  align="left"><p>Try hard, have fun.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/6/6e/2014ustc-Glz.jpg" alt="Gan Longzhi"  align="left"><p>team manager<br>sophomore from school of earth and space science<br>help team managing,web and document writing<br>his words:Try hard, have fun.</p>
               </div>
          </li>
           <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/6/6c/2014ustc-Ltx.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/6/6c/2014ustc-Ltx.jpg" alt="Lin Taixing">
               <div class ="nameplate"><a href="#">Lin Taixing</a></div>
-              <div class = "details"><img style="width:200px" src="http://2014.igem.org/wiki/images/6/6c/2014ustc-Ltx.jpg" alt="Haiyan Liu"  align="left"><p>Dream what you want to dream; go where you want to go; be what you want to be, because you have only one life and one chance to do all the things you want to do. </p>
+              <div class = "details"><img style="width:200px" src="http://2014.igem.org/wiki/images/6/6c/2014ustc-Ltx.jpg" alt="Lin Taixing"  align="left"><p>member<br>junior from Atomic and molecular physics major<br>Responsible for web designing<br>his words:Dream what you want to dream; go where you want to go; be what you want to be, because you have only one life and one chance to do all the things you want to do. </p>
               </div>
          </li>
           <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/1/1e/2014ustc-Wws.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/1/1e/2014ustc-Wws.jpg" alt="Wang Wenshuo">
               <div class ="nameplate"><a href="#">Wang Wenshuo</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/1/1e/2014ustc-Wws.jpg" alt="Haiyan Liu"  align="left"><p>There is no fate but what we make.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/1/1e/2014ustc-Wws.jpg" alt="Wang Wenshuo"  align="left"><p>member<br>Junior of the Special Class for the Gifted Young, majoring in Statistics<br>tranlates and document writing<br>his words:There is no fate but what we make.</p>
               </div>
          </li>
           <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/d/d0/2014ustc-Zzy.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/d/d0/2014ustc-Zzy.jpg" alt="Zhang Zhiyuan">
               <div class ="nameplate"><a href="#">Zhang Zhiyuan</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/d/d0/2014ustc-Zzy.jpg" alt="Haiyan Liu"  align="left"><p>To see, to ask, to search, to believe.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/d/d0/2014ustc-Zzy.jpg" alt="Zhang Zhiyuan"  align="left"><p>member<br>Senior of Hua Loo-Keng Talent Program in Mathematics, majoring in fundamental mathematics<br>tranlates and document writing<br>his words:To see, to ask, to search, to believe.</p>
               </div>
          </li>
           
           <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Gao Yifan">
               <div class ="nameplate"><a href="#">Gao Yifan</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Yifan Gao"  align="left">
-                <p><b>POSI:</b>The backend team leader</p>
-                <p><b>WORK:</b>Software Architecture Design, Server Development, Server Maintenance</p>
-                <p><b>INTR:</b>Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/7/7d/2014ustc-Gyf.jpg" alt="Yifan Gao"  align="left"><p>member<br>junior from optics major<br>Responsible for back end work<br>his words:Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.</p>
               </div>
          </li>
  		<li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/4/4b/2014ustc-Dcx.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/4/4b/2014ustc-Dcx.jpg" alt="Dong Chenxiao">
               <div class ="nameplate"><a href="#">Dong Chenxiao</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/4/4b/2014ustc-Dcx.jpg" alt="Haiyan Liu"  align="left"><p>All the time, try killing any idea from team.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/4/4b/2014ustc-Dcx.jpg" alt="Dong Chenxiao"  align="left"><p>member<br>sophomore from school of physics science<br>data hunting and organizing,software design and document writing<br>his words:All the time, try retroting any idea from team.</p>
               </div>
         </li>
         
         <li class ="profilewrap">
               <img src="http://2014.igem.org/wiki/images/2/28/2014ustc-Jzy.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Jin Zeyu</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/2/28/2014ustc-Jzy.jpg" alt="Haiyan Liu"  align="left"><p>Not most powerful, but highly responsible!</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/2/28/2014ustc-Jzy.jpg" alt="Haiyan Liu"  align="left"><p>member<br>sophomore from school of earth and space science<br>data hunting and organizing,software design and document writing<br>his words:Not most powerful, but highly responsible!</p>
               </div>
         </li>
         
         <li class ="profilewrap">
               <img src="http://2014.igem.org/wiki/images/9/97/2014ustc-Zl.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Zhou Long</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/9/97/2014ustc-Zl.jpg" alt="Haiyan Liu"  align="left"><p>Simply Enjoy.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/9/97/2014ustc-Zl.jpg" alt="Haiyan Liu"  align="left"><p>member<br>junior from Nuclear physics major<br>>Responsible for Front End work<br>his words:Simply Enjoy.</p>
               </div>
         </li>
         
          <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/a/a1/2014ustc-Hlx.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/a/a1/2014ustc-Hlx.jpg" alt="Han Luxin">
               <div class ="nameplate"><a href="#">Han Luxin</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/a/a1/2014ustc-Hlx.jpg" alt="Haiyan Liu"  align="left"><p>Where there is a will, there is a way.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/a/a1/2014ustc-Hlx.jpg" alt="Han Luxin"  align="left"><p>member<br>sophomore from school of computer science<br>Algorithm design and writing,web writing<br>his word:Where there is a will, there is a way.</p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/8/8d/2014ustc-Ycp.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/8/8d/2014ustc-Ycp.jpg" alt="Yu Chuanping">
               <div class ="nameplate"><a href="#">Yu Chuanping</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/8/8d/2014ustc-Ycp.jpg" alt="Haiyan Liu"  align="left"><p>Do one thing at a time, and do well.</p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/8/8d/2014ustc-Ycp.jpg" alt="Yu Chuanping"  align="left"><p>member<br>senior from statistics major<br>translate<br>his words:Do one thing at a time, and do well.</p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Zhang Renying">
               <div class ="nameplate"><a href="#">Zhang Renying</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/4/44/2014ustc-Zhy.jpg" alt="Zhang Renying"  align="left"><p>member<br>sophomore from school of physics science<br>Front End work<br>his words:Be the best yourself, to be No.1. </p>
               </div>
         </li>
         
@@ -185,21 +182,21 @@ top: 0;
         <li class ="profilewrap">
               <img src="http://2014.igem.org/wiki/images/9/96/2014ustc-Fyc.jpg" alt="Haiyan Liu">
               <div class ="nameplate"><a href="#">Fei Yicheng</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/9/96/2014ustc-Fyc.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/9/96/2014ustc-Fyc.jpg" alt="Haiyan Liu"  align="left"><p>member<br>sophomore from school of physics science<br>back end work<br>his words:Be the best yourself, to be No.1. </p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/b/bc/2014ustc-Ctl.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/b/bc/2014ustc-Ctl.jpg" alt="Chen Tianlong">
               <div class ="nameplate"><a href="#">Chen Tianlong</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/b/bc/2014ustc-Ctl.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/b/bc/2014ustc-Ctl.jpg" alt="Chen Tianlong"  align="left"><p>member<br>sophomore from school of matnematics<br>web design<br>his words:Be the best yourself, to be No.1. </p>
               </div>
         </li>
         
         <li class ="profilewrap">
-              <img src="http://2014.igem.org/wiki/images/e/e8/Clf.jpg" alt="Haiyan Liu">
+              <img src="http://2014.igem.org/wiki/images/e/e8/Clf.jpg" alt="Chen Lingfan">
               <div class ="nameplate"><a href="#">Chen Lingfan</a></div>
-              <div class = "details"><img  src="http://2014.igem.org/wiki/images/e/e8/Clf.jpg" alt="Haiyan Liu"  align="left"><p>Be the best yourself, to be No.1. </p>
+              <div class = "details"><img  src="http://2014.igem.org/wiki/images/e/e8/Clf.jpg" alt="Chen Lingfan"  align="left"><p>member<br>junior from computational mathematics major<br>algorithm design<br>his words:Be the best yourself, to be No.1. </p>
               </div>
         </li>
         
