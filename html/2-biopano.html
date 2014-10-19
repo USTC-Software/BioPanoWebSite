@@ -9,22 +9,17 @@
     <meta name="copyright" content="USTC-Software, inc. Copyright (c) 2014">
  
     <link href="http://2014.igem.org/Team:USTC-Software/fixed-igemHead.css?action=raw&ctype=text/css" rel="stylesheet" type="text/css" />
-    <!--
-<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
-<link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
-    
-    -->
+
     <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/reset.css?action=raw&ctype=text/css"> <!-- CSS reset -->
     
-    
-     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/foundation.css?action=raw&ctype=text/css" />
-     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/animate.css?action=raw&ctype=text/css">
+    <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/foundation.css?action=raw&ctype=text/css" />
+   
     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/main-new.css?action=raw&ctype=text/css" />
-    
-    <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/style.css?action=raw&ctype=text/css"> <!-- Resource style -->
-     
+ 
     <script src="http://2014.igem.org/Team:USTC-Software/modernizr.js?action=raw&ctype=text/javascript"></script>
+
+<script src="http://2014.igem.org/Team:USTC-Software/jquery.js?action=raw&ctype=text/javascript"></script>
    
     <!--[if lt IE 9]>
     <link href="http://huodong.ustc.edu.cn/Web/igem2014-website/css/ie.css" media="screen" rel="stylesheet" />
@@ -39,39 +34,6 @@
 </head>
   <body class="off-canvas hide-extras wiki" style="">
 
-<!--
-<aside class="left-off-canvas-menu">
-  <ul class="off-canvas-list">
-    <li><label class="first">USTC-Software</label></li>
-    <li><a href="index.html">Home</a></li>
-  </ul>
-
-  <hr>
-
-  <ul class="off-canvas-list">
-    <li><label class="first">About</label></li>
-    <li><a href="learn/features.html">Overall</a></li>
-    <li><a href="learn/faq.html">Software</a></li>
-    <li><a href="learn/faq.html">Method</a></li>
-    <li><a href="learn/faq.html">Examples</a></li>
-    <li><a href="learn/faq.html">Future Work</a></li>
-  </ul>
-
-  <hr>
-
-</aside>
--->
-<!-- -------------------------------------->
-
- <!--
-<nav class="tab-bar show-for-small">
-  <a class="left-off-canvas-toggle menu-icon" style="line-height: 1.0625rem;">
-     
-    <span>USTC_Software</span>
-   
-  </a>
-</nav>
--->
 <nav class="top-bar" data-topbar role="navigation">
   <ul class="title-area">
     <li class="name" >
@@ -89,7 +51,7 @@
         <a href="/Team:USTC-Software/biopano.php" class="">BioPano</a>
         <ul class="dropdown">
             <li><a href="/Team:USTC-Software/biopano.php#overview">Overview</a></li>
-            <li><a href="/Team:USTC-Software/biopano.php#motiation">Motivation</a></li>
+            <li><a href="/Team:USTC-Software/biopano.php#motivation">Motivation</a></li>
             <li><a href="/Team:USTC-Software/biopano.php#features">Features</a></li>
             <li><a href="/Team:USTC-Software/biopano.php#demos">Demos</a></li>
             <li><a href="/Team:USTC-Software/biopano.php#why">Why choose BioPano?</a></li>
@@ -98,14 +60,18 @@
       </li>
       <li class="divider"></li>
       <li class="has-dropdown">
-        <a href="/Team:USTC-Software/develop.php" class="">Develop</a>
+        <a href="/Team:USTC-Software/develop.php" class="">Technology</a>
          <ul class="dropdown">
-            <li><a href="/Team:USTC-Software/develop.php#framework">Framework</a></li>
-            <li><a href="/Team:USTC-Software/develop.php#interface">Interface</a></li>
-            <li><a href="/Team:USTC-Software/develop.php#cloud">Cloud</a></li>
-            <li><a href="/Team:USTC-Software/develop.php#algorithm">Algorithm</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#front_end">Front End</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#back_end">Back End</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#alogrithm">Alogrithm</a></li>
         </ul>
       </li>
+ <li class="divider"></li>
+      <li>
+        <a href="server.php" class="">Server</a>
+      </li>
+
       <li class="divider"></li>
       <li class="has-dropdown">
         <a href="/Team:USTC-Software/requirements.php" class="">Requirements</a>
@@ -121,8 +87,7 @@
         <a href="/Team:USTC-Software/human_practice.php" class="">Human Practice</a>
         <ul class="dropdown">
             <li><a href="/Team:USTC-Software/human_practice.php#management">Management</a></li>
-            <li><a href="/Team:USTC-Software/human_practice.php#biology_cooperation">Biology Cooperation</a></li>
-            <li><a href="/Team:USTC-Software/human_practice.php#igem_meetups">iGEM Meetups</a></li>
+            <li><a href="/Team:USTC-Software/human_practice.php#hlx">Software & Platform We Used</a></li>
         </ul>
       </li>
       <li class="divider"></li>
@@ -142,9 +107,7 @@
             <li><a href="/Team:USTC-Software/acknowledge.php#dbank">Deutsche Bank</a></li>
             <li><a href="/Team:USTC-Software/acknowledge.php#ustcif">USTCIF</a></li>
             <li><a href="/Team:USTC-Software/acknowledge.php#utao">USTC Teaching Affair Office</a></li>
-            <li><a href="/Team:USTC-Software/acknowledge.php#regulondb">RegulonDB</a></li>
-            <li><a href="/Team:USTC-Software/acknowledge.php#kegg">Kegg</a></li>
-            <li><a href="/Team:USTC-Software/acknowledge.php#ncbi">NCBI</a></li>
+            <li><a href="/Team:USTC-Software/acknowledge.php#database">Database</a></li>
         </ul>
       </li>
       <ul>
@@ -159,7 +122,7 @@
       <div class="row">
         <div class="large-12 columns large-centered">
 
-        
+      <p></p>
       <h4 id="overview">Overview</h4>
       <div class="underline-small"></div>
         <p>Designed specifically for biological research, BioPano is a software platform targeted for visualisation of biological relationships as well as cooperative net-building. You can set up your own network of biological relationship by adding information about genetic regulation and metabolic system to the network we already provided for you. Also, the software allows you to explore the links among the substances by just several clicks, and you can even look into the details of the interaction between the exogenous gene and the host. What is even more exciting is that our software will end your loneliness and frustration in research, since it is providing you with cloud cooperating system so that you can view massive amounts of resources in databases, together with build up groups to share information and set up mutual network with others.
@@ -254,7 +217,8 @@ By BLAST analysis, it helps you design correct gene route with appropriate BioBr
                   <p>When you have already got the entire view and want to know more about the details, double-click the nodes and arcs and the details will be shown. More surprisingly, Biopano supports literature reading in the network. You can view literature corresponding to every node and arc along any gene route in the network, and you will understand how the nodes in the net are associated with each other in depth. If you cast doubt on the reliability of our database, you can verify your thought with authoritative literature.</p>
      
         </ul>
-      <h4 id="features">Demo</h4>
+      <p></p>
+      <h4 id="demos">Demo</h4>
       <div class="underline-small">
       </div>
       <div>
@@ -295,10 +259,10 @@ the Operon Trp.</h5>
       </div>
 
 
-         <h4>Why choose BioPano?</h4>
+         <h4 id="why">Why choose BioPano?</h4>
       <div class="underline-small"></div>
       <div>
-       <p> Biopano ,do the experiment as you do in the lab.</p>
+       <p> Biopano, do the experiment as you do in the lab.</p>
        <p>In experiment, synthetic biologists always find gene circuits formed by BioBricks are incompatible with the host cell, thus cannot work as expected. However, Biopano uses sequence alignment to analyze the possible reasons of the failure and design more acute gene circuit for your consideration.</p>
        <p>Our Blast algorism derives from NCBI. However, the original version only offers sequence alignment and fails to analyze what impact the host environment might have on the injected gene circuit, let along predicts whether it will work.</p>
        <p>Firstly, Biopano offers BioBrick searching to make it convenient for you to study all standardized biological parts on the official website of iGEM. Secondly, you can input a BioBrick and even construct a brand new sequence. Biopano will find the gene nodes of E.coli K-12 sharing the deepest homology with it based on authoritative Blast algorithm. Then you can Expand these nodes to find out the possible regulation on them. In this way, Biopano helps you analyze whether the injected gene circuit will actually work.</p>
@@ -317,7 +281,7 @@ the Operon Trp.</h5>
        <p>Biopano, your right hand for biological research. Get it now!</p>
       </div>
 
-       <h4>Future Work</h4>
+       <h4 id="futurework">Future Work</h4>
       <div class="underline-small"></div>
       <div>
        <h4>It is undeniable that we still have a lot to do to improve Biopano in many aspects in order to make it even better. We need to think more and develop it as we can. In the future, we hope to:
@@ -374,7 +338,7 @@ the Operon Trp.</h5>
   </div>
 </div>
 </div>
-     <script src="http://2014.igem.org/Team:USTC-Software/jquery.js?action=raw&ctype=text/javascript"></script>
+     
 <script>
 $(function(){
     $('.row .nameplate').click(function(){
@@ -382,6 +346,8 @@ $(function(){
     var titleText = $(this).text();//text();
     $('#pop_up_content').html('<h2>' + titleText + '</h2>' + description);
         $('#pop_up').fadeIn();
+      $(document.body).css("overflow","hidden");//禁止body 滚动条
+        $("html").css("overflow","hidden");
         return false;
     });
     $('.row .profilewrap').click(function(){
@@ -389,23 +355,20 @@ $(function(){
     var titleText = $(this).find('.nameplate').text();//text();
     $('#pop_up_content').html('<h2>' + titleText + '</h2>' + description);
         $('#pop_up').fadeIn();
+        $(document.body).css("overflow","hidden");//禁止body 滚动条
+        $("html").css("overflow","hidden");
         return false;
     });    
     $('#pop_up #pop_up_close').click(function(){
         $('#pop_up').fadeOut();
+        $(document.body).css("overflow","auto");
+        $("html").css("overflow","auto");
     });
     $('#pop_up #pop_up_underlay').click(function(){
         $('#pop_up').fadeOut();
+        $(document.body).css("overflow","auto");
+        $("html").css("overflow","auto");
     });
-  /*
-    $(".profilewrap").hover(function(){
-    $(this).find('.normal').hide();
-    $(this).find('.crazy').show();
-    },function(){
-    $(this).find('.normal').show();
-    $(this).find('.crazy').hide();
-    }); 
-*/
 });
 </script>
       <script src="http://2014.igem.org/Team:USTC-Software/main.js?action=raw&ctype=text/javascript"></script> <!-- Resource jQuery -->
@@ -414,6 +377,56 @@ $(function(){
     <script>
       $(document).foundation();
     </script>
+    <style type="text/css">
+#totop_item {
+display: none;
+width: 60px;
+height: 100px;
+position: fixed;
+right: 2px;
+bottom: 10px;
+-webkit-transition: opacity .4s ease-in-out;
+-moz-transition: opacity .4s ease-in-out;
+-o-transition: opacity .4s ease-in-out;
+opacity: 1;
+z-index: 100000000;
+}
+
+#totop {
+display: block;
+width: 60px;
+height: 50px;
+background: url(http://2014.igem.org/wiki/images/3/31/2014ustc-Totop.png) center center no-repeat;
+background-color: #444;
+background-color: rgba(0,0,0,.6);
+border-radius: 2px;
+box-shadow: 0 1px 3px rgba(0,0,0,.2);
+cursor: pointer;
+margin-bottom: 10px;
+}
+
+</style>
+<div id="totop_item" class=""> 
+  <a id="totop" onclick="return false;" title="回到顶部"></a> 
+</div>
+    <script type="text/javascript">
+function goTop()
+{
+    $(window).scroll(function(e) {
+        if($(window).scrollTop()>300)
+            $("#totop_item").fadeIn(1000);
+        else
+          $("#totop_item").fadeOut(1000);
+    });
+};
+$(function(){
+    $("#totop").click(function(e) {
+            $('body,html').animate({scrollTop:0},1000);
+    });
+    goTop();
+});
+</script>
+
     
   </body>
 </html>

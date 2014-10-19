@@ -1,0 +1,153 @@
+<html class="no-js" lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>USTC-Software | Welcome</title>
+
+    <meta name="description" content="iGEM">
+    <meta name="author" content="Taixing Lin">
+    <meta name="copyright" content="USTC-Software, inc. Copyright (c) 2014">
+ 
+    <link href="http://2014.igem.org/Team:USTC-Software/fixed-igemHead.css?action=raw&ctype=text/css" rel="stylesheet" type="text/css" />
+    <!--
+<link href='http://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Noto+Sans' rel='stylesheet' type='text/css'>
+    
+    -->
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/reset.css?action=raw&ctype=text/css"> <!-- CSS reset -->
+    
+    
+     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/foundation.css?action=raw&ctype=text/css" />
+     <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/animate.css?action=raw&ctype=text/css">
+    <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/main-new.css?action=raw&ctype=text/css" />
+    
+    <link rel="stylesheet" href="http://2014.igem.org/Team:USTC-Software/style.css?action=raw&ctype=text/css"> <!-- Resource style -->
+     
+    <script src="http://2014.igem.org/Team:USTC-Software/modernizr.js?action=raw&ctype=text/javascript"></script>
+   
+    <!--[if lt IE 9]>
+    <link href="http://huodong.ustc.edu.cn/Web/igem2014-website/css/ie.css" media="screen" rel="stylesheet" />
+    <![endif]-->
+
+    <!-- IE Fix for HTML5 Tags -->
+    <!--[if lt IE 9]>
+    <script src="http://huodong.ustc.edu.cn/Web/igem2014-website/js/html5.js"></script>
+    <![endif]-->
+    
+
+</head>
+  <body class="off-canvas hide-extras wiki" style="">
+
+<!--
+<aside class="left-off-canvas-menu">
+  <ul class="off-canvas-list">
+    <li><label class="first">USTC-Software</label></li>
+    <li><a href="index.html">Home</a></li>
+  </ul>
+
+  <hr>
+
+  <ul class="off-canvas-list">
+    <li><label class="first">About</label></li>
+    <li><a href="learn/features.html">Overall</a></li>
+    <li><a href="learn/faq.html">Software</a></li>
+    <li><a href="learn/faq.html">Method</a></li>
+    <li><a href="learn/faq.html">Examples</a></li>
+    <li><a href="learn/faq.html">Future Work</a></li>
+  </ul>
+
+  <hr>
+
+</aside>
+-->
+<!-- -------------------------------------->
+
+ <!--
+<nav class="tab-bar show-for-small">
+  <a class="left-off-canvas-toggle menu-icon" style="line-height: 1.0625rem;">
+     
+    <span>USTC_Software</span>
+   
+  </a>
+</nav>
+-->
+<nav class="top-bar" data-topbar role="navigation">
+  <ul class="title-area">
+    <li class="name" >
+      <h1><a href="/Team:USTC-Software" style="font-family: 'Lobster', cursive;">USTC-Software</a></h1>
+    </li>
+    <li class="toggle-topbar menu-icon"><a href="#"></a></li>
+  </ul>
+<!-- -------------------------------------->
+
+  <section class="top-bar-section">
+    <ul class="right">
+
+      <li class="divider"></li>
+      <li class="has-dropdown">
+        <a href="/Team:USTC-Software/biopano.php" class="">BioPano</a>
+        <ul class="dropdown">
+            <li><a href="/Team:USTC-Software/biopano.php#overview">Overview</a></li>
+            <li><a href="/Team:USTC-Software/biopano.php#motiation">Motivation</a></li>
+            <li><a href="/Team:USTC-Software/biopano.php#features">Features</a></li>
+            <li><a href="/Team:USTC-Software/biopano.php#demos">Demos</a></li>
+            <li><a href="/Team:USTC-Software/biopano.php#why">Why choose BioPano?</a></li>
+            <li><a href="/Team:USTC-Software/biopano.php#futurework">Future work</a></li>
+        </ul>
+      </li>
+      <li class="divider"></li>
+      <li class="has-dropdown">
+        <a href="/Team:USTC-Software/develop.php" class="">Develop</a>
+         <ul class="dropdown">
+            <li><a href="/Team:USTC-Software/develop.php#framework">Framework</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#interface">Interface</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#cloud">Cloud</a></li>
+            <li><a href="/Team:USTC-Software/develop.php#algorithm">Algorithm</a></li>
+        </ul>
+      </li>
+      <li class="divider"></li>
+      <li class="has-dropdown">
+        <a href="/Team:USTC-Software/requirements.php" class="">Requirements</a>
+         <ul class="dropdown">
+            <li><a href="/Team:USTC-Software/requirements.php#medals">Medals</a></li>
+            <li><a href="/Team:USTC-Software/requirements.php#safety">Safety</a></li>
+            <li><a href="/Team:USTC-Software/requirements.php#collaboration">Collaboration</a></li>
+        </ul>
+       
+      </li>
+      <li class="divider"></li>
+      <li class="has-dropdown">
+        <a href="/Team:USTC-Software/human_practice.php" class="">Human Practice</a>
+        <ul class="dropdown">
+            <li><a href="/Team:USTC-Software/human_practice.php#management">Management</a></li>
+            <li><a href="/Team:USTC-Software/human_practice.php#biology_cooperation">Biology Cooperation</a></li>
+            <li><a href="/Team:USTC-Software/human_practice.php#igem_meetups">iGEM Meetups</a></li>
+        </ul>
+      </li>
+      <li class="divider"></li>
+     
+      <li class="has-dropdown">
+        <a href="/Team:USTC-Software/team.php" class="">Team</a>
+        <ul class="dropdown">
+            <li><a href="/Team:USTC-Software/team.php#team_members">Team Members</a></li>
+            <li><a href="/Team:USTC-Software/team.php#I_A">Instructors & Advisors</a></li>
+            <li><a href="/Team:USTC-Software/team.php#Additional_thanks">Additional Thanks</a></li>
+        </ul>
+      </li>
+      <li class="divider"></li>
+      <li class="has-dropdown">
+        <a href="/Team:USTC-Software/acknowledge.php" class="">Acknowledge</a>
+        <ul class="dropdown">
+            <li><a href="/Team:USTC-Software/acknowledge.php#dbank">Deutsche Bank</a></li>
+            <li><a href="/Team:USTC-Software/acknowledge.php#ustcif">USTCIF</a></li>
+            <li><a href="/Team:USTC-Software/acknowledge.php#utao">USTC Teaching Affair Office</a></li>
+            <li><a href="/Team:USTC-Software/acknowledge.php#regulondb">RegulonDB</a></li>
+            <li><a href="/Team:USTC-Software/acknowledge.php#kegg">Kegg</a></li>
+            <li><a href="/Team:USTC-Software/acknowledge.php#ncbi">NCBI</a></li>
+        </ul>
+      </li>
+      <ul>
+  </section>
+
+</nav>
